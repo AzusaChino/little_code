@@ -6,7 +6,7 @@ import cn.az.little.common.ListNode;
  * @author : Liz
  * @date : 2019/10/20
  **/
-public class AddNewNumber_003 {
+public class AddTwoNumber_002 {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(2);
         l1.next = new ListNode(4);

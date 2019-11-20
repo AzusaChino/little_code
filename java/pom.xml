@@ -6,12 +6,12 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>2.2.0.RELEASE</version>
-    <relativePath/> <!-- lookup parent from repository -->
+    <relativePath/>
   </parent>
   <groupId>cn.az</groupId>
   <artifactId>little</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>little</name>
+  <name>little_code</name>
   <description>little code makes great differences</description>
 
   <properties>

@@ -9,9 +9,9 @@
     <relativePath/>
   </parent>
   <groupId>cn.az</groupId>
-  <artifactId>little</artifactId>
+  <artifactId>code</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>little_code</name>
+  <name>little-code</name>
   <description>little code makes great differences</description>
 
   <properties>

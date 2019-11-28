@@ -7,16 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java" />
-        <module name="little" />
+        <module name="code" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="code" target="1.8" />
       <module name="java" target="1.8" />
       <module name="little" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="code" options="-parameters" />
       <module name="java" options="-parameters" />
       <module name="little" options="-parameters" />
     </option>

@@ -7,15 +7,21 @@ package cn.az.code.easy;
 public class ImplementStr_028 {
 
     public static void main(String[] args) {
-
+        System.out.println(implement("hello","ll"));
     }
 
     public static int implement(String haystack, String needle) {
         for (int i = 0; ; i++) {
             for (int j = 0; ; j++) {
-                if (j == needle.length()) return 0;
-                if (i + j == haystack.length()) return -1;
-                if (haystack.charAt(i + j) != needle.charAt(j)) break;
+                if (j == needle.length()) {
+                    return i;
+                }
+                if (i + j == haystack.length()) {
+                    return -1;
+                }
+                if (haystack.charAt(i + j) != needle.charAt(j)) {
+                    break;
+                }
             }
         }
     }

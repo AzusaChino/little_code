@@ -1,2 +1,2 @@
-# little_code
+# little-code
 little code makes great difference

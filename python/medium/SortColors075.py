@@ -1,7 +1,7 @@
 from typing import List
 
 
-def sortColors(nums:List):
+def sortColors(nums: List):
     red, white, blue = 0, 0, len(nums) - 1
     while white <= blue:
         if nums[white] == 0:

@@ -6,6 +6,7 @@ package cn.az.code.medium;
 public class WaterContainer011 {
 
     public static void main(String[] args) {
+        // O(n^2) 一维数组的坐标变化
         WaterContainer011 waterContainer = new WaterContainer011();
         System.out.println(find(new int[]{1,8,6,2,5,4,8,3,7}));
         System.out.println(waterContainer.solution(new int[]{1,8,6,2,5,4,8,3,7}));
@@ -21,6 +22,7 @@ public class WaterContainer011 {
         return res;
     }
     private static int find(int[] heights) {
+        // O(n) 左右边界, 同时向中间收敛
         int l =0,r = heights.length -1;
         int res = 0, h;
         while (l < r) {

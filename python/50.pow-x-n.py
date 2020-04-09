@@ -3,7 +3,7 @@
 #
 # [50] Pow(x, n)
 #
-
+# 2**10 -> 2**5 -> 2*2**2 -> 2*2**1
 # @lc code=start
 class Solution:
     def myPow(self, x: float, n: int) -> float:

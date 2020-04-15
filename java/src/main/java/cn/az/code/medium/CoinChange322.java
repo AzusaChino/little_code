@@ -1,5 +1,7 @@
 package cn.az.code.medium;
 
+import java.util.Arrays;
+
 /**
  * @author az
  * @date 2020/4/11
@@ -8,7 +10,7 @@ public class CoinChange322 {
 
     public static void main(String[] args) {
         CoinChange322 c = new CoinChange322();
-        System.out.println(c.coinChange(new int[]{1,2,5}, 11));
+        System.out.println(c.coinChange2(new int[]{1,2,5}, 11));
     }
 
     public int coinChange(int[] coins, int amount) {
@@ -40,5 +42,20 @@ public class CoinChange322 {
         }
         count[rem - 1] = (min == Integer.MAX_VALUE) ? -1 : min;
         return count[rem - 1];
+    }
+
+    public int coinChange2(int[] coins, int amount) {
+        int max = amount+1;
+        int[] dp = new int[max];
+        Arrays.fill(dp, max);
+        dp[0] = 0;
+        for (int i = 1; i <= amount; i++) {
+            for (int coin : coins) {
+                if (coin <= i) {
+                    dp[i] = Math.min(dp[i], dp[i - coin] + 1);
+                }
+            }
+        }
+        return dp[amount];
     }
 }

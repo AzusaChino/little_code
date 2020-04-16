@@ -1,6 +1,6 @@
 package medium
 
-func uniquePaths2(grid [][]int) int {
+func UniquePaths2(grid [][]int) int {
 
 	h, w := len(grid), len(grid[0])
 	dp := make([]int, w)

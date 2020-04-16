@@ -2,7 +2,7 @@ package medium
 
 import "math"
 
-func longest(text1 string, text2 string) int {
+func Longest(text1 string, text2 string) int {
     m,n := len(text1), len(text2)
     dp := make([]int, n)
 

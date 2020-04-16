@@ -2,7 +2,7 @@ package medium
 
 import "math"
 
-func rob(nums []int) int {
+func Rob(nums []int) int {
 	l := len(nums)
 	if l == 0 {
 		return 0

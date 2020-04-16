@@ -1,6 +1,6 @@
 package medium
 
-func uniquePaths(m int, n int) int {
+func UniquePaths(m int, n int) int {
 
 	dp := make([]int, n)
 	for i := 0; i < len(dp); i++ {

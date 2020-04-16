@@ -2,8 +2,8 @@ package common
 
 type TreeNode struct {
   Val int
-  Prev *TreeNode
-  Next *TreeNode
+  Left *TreeNode
+  Right *TreeNode
 }
 
 type ListNode struct {

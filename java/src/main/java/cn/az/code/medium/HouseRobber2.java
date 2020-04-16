@@ -3,6 +3,7 @@ package cn.az.code.medium;
 import java.util.Objects;
 
 /**
+ * 首尾房间不能同时被抢，那么只可能有三种不同情况：要么都不被抢；要么第一间房子被抢最后一间不抢；要么最后一间房子被抢第一间不抢
  * @author az
  * @date 2020/4/15
  */
@@ -50,4 +51,6 @@ public class HouseRobber2 {
         }
         return Math.max(dp[len - 1][0], dp[len - 1][1]);
     }
+
+
 }

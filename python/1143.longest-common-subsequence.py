@@ -7,7 +7,7 @@
 # @lc code=start
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
-        matrix = [[0 for l in range(len(text1)+1)] for l in range(len(text2)+1)]
+        matrix = [[0 for _ in range(len(text1)+1)] for _ in range(len(text2)+1)]
         for i in range(1, len(matrix)):
             for j in range(1, len(matrix[0])):
                 if text1[j-1] == text2[i-1]:

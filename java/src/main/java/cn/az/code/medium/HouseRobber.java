@@ -1,5 +1,7 @@
 package cn.az.code.medium;
 
+import java.util.Arrays;
+
 /**
  * @author az
  * @since 2020-04-15
@@ -8,7 +10,41 @@ public class HouseRobber {
 
     public static void main(String[] args) {
         HouseRobber hs = new HouseRobber();
-        System.out.println(hs.maxValue2(new int[]{2, 7, 9, 3, 1}));
+        long start = System.currentTimeMillis();
+        System.out.println(hs.rob3(new int[]{2, 7, 9, 3, 1, 6, 7, 8, 9, 3, 3, 2, 3, 2}));
+        System.out.println("using " + (System.currentTimeMillis() - start));
+    }
+
+    public int rob1(int[] nums) {
+        return dp(nums, 0);
+    }
+
+    private int dp(int[] nums, int start) {
+        if (start >= nums.length) {
+            return 0;
+        }
+        return Math.max(dp(nums, start + 1),
+                nums[start] + dp(nums, start + 2));
+    }
+
+    private int[] memo;
+
+    public int rob2(int[] nums) {
+        memo = new int[nums.length + 1];
+
+        return dp2(nums, 0);
+    }
+
+    private int dp2(int[] nums, int start) {
+        if (start >= nums.length) {
+            return 0;
+        }
+        if (memo[start] > 0) {
+            return memo[start];
+        }
+        memo[start] = Math.max(dp2(nums, start + 1),
+                nums[start] + dp2(nums, start + 2));
+        return memo[start];
     }
 
     public int maxValue(int[] houses) {
@@ -48,6 +84,23 @@ public class HouseRobber {
     }
 
     /**
+     * 自底向上
+     * @param nums houses
+     * @return money
+     */
+    public int rob3(int[] nums) {
+        int n = nums.length;
+        // dp[i] = x 表示：
+        // 从第 i 间房子开始抢劫，最多能抢到的钱为 x
+        // base case: dp[n] = 0
+        int[] dp = new int[n + 2];
+        for (int i = n - 1; i >= 0; i--) {
+            dp[i] = Math.max(dp[i + 1], nums[i] + dp[i + 2]);
+            System.out.println(Arrays.toString(dp));
+        }
+        return dp[0];
+    }
+    /**
      * wrong answer
      */
     public int maxValue3(int[] nums) {
@@ -63,6 +116,11 @@ public class HouseRobber {
         return Math.max(odd, even);
     }
 
+    /**
+     * 自顶向下
+     * @param nums houses
+     * @return money
+     */
     public int rob(int[] nums) {
         if (nums.length == 0) {
             return 0;

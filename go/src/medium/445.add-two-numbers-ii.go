@@ -39,30 +39,3 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	}
 	return res
 }
-
-type stack struct {
-	table []int
-}
-
-func NewStack() *stack {
-	return &stack{make([]int, 0)}
-}
-
-func (s *stack) Push(v int) {
-	s.table = append(s.table, v)
-}
-
-func (s *stack) Empty() bool {
-	return len(s.table) == 0
-}
-
-func (s *stack) Pop() int {
-	l := len(s.table)
-	if l == 0 {
-		return 0
-	}
-
-	res := s.table[l-1]
-	s.table = s.table[:l-1]
-	return res
-}

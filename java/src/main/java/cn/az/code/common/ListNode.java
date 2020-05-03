@@ -1,12 +1,9 @@
 package cn.az.code.common;
 
-import lombok.Data;
-
 /**
  * @author Liz
  * @date 2019/10/20
  **/
-@Data
 public class ListNode {
     public int val;
     public ListNode next;

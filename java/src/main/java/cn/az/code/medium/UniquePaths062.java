@@ -1,14 +1,11 @@
 package cn.az.code.medium;
 
-import lombok.extern.slf4j.Slf4j;
-
 import java.util.Arrays;
 
 /**
  * @author Liz
  * @date 1/8/2020
  */
-@Slf4j
 public class UniquePaths062 {
 
     public static void main(String[] args) {
@@ -27,7 +24,6 @@ public class UniquePaths062 {
                 }
             }
         }
-        log.info(Arrays.deepToString(dp));
         return dp[m - 1][n - 1];
     }
 

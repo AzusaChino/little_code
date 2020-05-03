@@ -1,12 +1,9 @@
 package cn.az.code.common;
 
-import lombok.Data;
-
 /**
  * @author az
  * @date 2020/4/20
  */
-@Data
 public class Node<K, V> {
 
     public K key;

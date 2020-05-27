@@ -8,8 +8,6 @@ import java.util.Set;
  * @version 2019/12/09
  */
 public class ValidSudoku036 {
-    public static void main(String[] args) {
-    }
 
     /**
      * Collect the set of things we see, encoded as strings. For example:

@@ -3,6 +3,7 @@
 *.iml
 .idea/
 **/*.iml
+**/.gradle/
 
 venv/
 *.json

@@ -45,7 +45,7 @@ public class SortCharactersByFrequency {
         for (int pos = bucket.length - 1; pos >= 0; pos--) {
             if (bucket[pos] != null) {
                 for (char c : bucket[pos]) {
-                    sb.append(String.valueOf(c).repeat(pos));
+//                    sb.append(String.valueOf(c).repeat(pos));
                 }
             }
         }

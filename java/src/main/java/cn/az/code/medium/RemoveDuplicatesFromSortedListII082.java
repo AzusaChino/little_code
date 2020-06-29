@@ -1,8 +1,8 @@
 package cn.az.code.medium;
 
 import cn.az.code.common.ListNode;
-import cn.hutool.core.map.MapUtil;
 
+import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -57,7 +57,7 @@ public class RemoveDuplicatesFromSortedListII082 {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
 
-        Map<Integer, Integer> map = MapUtil.newHashMap();
+        Map<Integer, Integer> map = new HashMap<>();
 
         while (head.next != null) {
             Integer key = head.val;

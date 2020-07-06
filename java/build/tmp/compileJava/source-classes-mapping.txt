@@ -368,3 +368,14 @@ cn/az/code/other/bst/BinaryTreeLevelOrderTraversal2.java
  cn.az.code.other.bst.BinaryTreeLevelOrderTraversal2
 cn/az/code/year2020/july/PrisonCellsAfterNDays.java
  cn.az.code.year2020.july.PrisonCellsAfterNDays
+cn/az/code/year2020/july/HammingDistance.java
+ cn.az.code.year2020.july.HammingDistance
+ cn.az.code.year2020.july.HammingDistance$TotalHammingDistance
+cn/az/code/year2020/july/UglyNumber2.java
+ cn.az.code.year2020.july.UglyNumber2
+ cn.az.code.year2020.july.UglyNumber2$SuperUglyNumber
+ cn.az.code.year2020.july.UglyNumber2$SuperUglyNumber$Num
+ cn.az.code.year2020.july.UglyNumber2$UglyNumber
+ cn.az.code.year2020.july.UglyNumber2$UglyNumber3
+cn/az/code/year2020/july/PlusOne.java
+ cn.az.code.year2020.july.PlusOne

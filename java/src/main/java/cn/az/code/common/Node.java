@@ -10,6 +10,7 @@ public class Node<K, V> {
     public V val;
     public Node<K, V> prev;
     public Node<K, V> next;
+    public Node<K, V> child;
 
     public Node(K k, V v) {
         this.key = k;

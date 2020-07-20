@@ -8,6 +8,11 @@ import java.math.BigInteger;
  */
 public class AddBinary {
 
+    public static void main(String[] args) {
+        AddBinary ab = new AddBinary();
+        System.out.println(ab.addBinary("1011", "1011"));
+    }
+
     public String addBinary(String a, String b) {
         return new BigInteger(a, 2).add(new BigInteger(b, 2)).toString(2);
     }
@@ -19,25 +24,25 @@ public class AddBinary {
         StringBuilder sb = new StringBuilder();
         int carry = 0;
         int sum = 0;
-        while(i >= 0 && j >= 0) {
+        while (i >= 0 && j >= 0) {
             sum = a.charAt(i--) - '0' + b.charAt(j--) - '0' + carry;
             sb.append(sum % 2);
             carry = sum / 2;
         }
 
-        while(i >= 0) {
+        while (i >= 0) {
             sum = a.charAt(i--) - '0' + carry;
             sb.append(sum % 2);
             carry = sum / 2;
         }
 
-        while(j >= 0) {
+        while (j >= 0) {
             sum = b.charAt(j--) - '0' + carry;
             sb.append(sum % 2);
             carry = sum / 2;
         }
 
-        if(carry != 0) {
+        if (carry != 0) {
             sb.append(carry);
         }
 
@@ -46,7 +51,7 @@ public class AddBinary {
 
     public String __addBinary(String a, String b) {
         StringBuilder sb = new StringBuilder();
-        int i = a.length() - 1, j = b.length() -1, carry = 0;
+        int i = a.length() - 1, j = b.length() - 1, carry = 0;
         while (i >= 0 || j >= 0) {
             int sum = carry;
             if (j >= 0) sum += b.charAt(j--) - '0';

@@ -1,44 +1,27 @@
 cn/az/code/year2020/may/FindAllAnagramsString.java
  cn.az.code.year2020.may.FindAllAnagramsString
-cn/az/code/medium/HouseRobber.java
- cn.az.code.medium.HouseRobber
-cn/az/code/medium/Triangle.java
- cn.az.code.medium.Triangle
 cn/az/code/other/slidewindow/SlidingWindowMaximum.java
  cn.az.code.other.slidewindow.SlidingWindowMaximum
-cn/az/code/year2020/may/RansomNote.java
- cn.az.code.year2020.may.RansomNote
 cn/az/code/other/string/JewelsAndStones.java
  cn.az.code.other.string.JewelsAndStones
-cn/az/code/other/array/BestTimeBuySellStock2.java
- cn.az.code.other.array.BestTimeBuySellStock2
-cn/az/code/year2020/jun/PowerOfTwo.java
- cn.az.code.year2020.jun.PowerOfTwo
 cn/az/code/medium/FirstLastElementSortedArray034.java
  cn.az.code.medium.FirstLastElementSortedArray034
 cn/az/code/medium/DivideInteger029.java
  cn.az.code.medium.DivideInteger029
 cn/az/code/medium/Integer2Roman012.java
  cn.az.code.medium.Integer2Roman012
-cn/az/code/medium/SortColors075.java
- cn.az.code.medium.SortColors075
-cn/az/code/easy/AddBinary067.java
- cn.az.code.easy.AddBinary067
 cn/az/code/medium/MinimumPathSum064.java
  cn.az.code.medium.MinimumPathSum064
-cn/az/code/year2020/jun/WordSearch2.java
- cn.az.code.year2020.jun.WordSearch2
- cn.az.code.year2020.jun.WordSearch2$TrieNode
 cn/az/code/medium/CombinationSumII040.java
  cn.az.code.medium.CombinationSumII040
 cn/az/code/easy/SearchInsertPosition035.java
  cn.az.code.easy.SearchInsertPosition035
 cn/az/code/other/array/PlusOne.java
  cn.az.code.other.array.PlusOne
-cn/az/code/medium/FourSum018.java
- cn.az.code.medium.FourSum018
 cn/az/code/year2020/may/KthSmallestElementBST.java
  cn.az.code.year2020.may.KthSmallestElementBST
+cn/az/code/year2020/july/FlattenMultiLevelDoublyLinkedList.java
+ cn.az.code.year2020.july.FlattenMultiLevelDoublyLinkedList
 cn/az/code/medium/ThreeSum015.java
  cn.az.code.medium.ThreeSum015
 cn/az/code/medium/RotateImage048.java
@@ -47,106 +30,62 @@ cn/az/code/year2020/jun/QueueReconstructionByHeight.java
  cn.az.code.year2020.jun.QueueReconstructionByHeight
 cn/az/code/medium/NextPermutation031.java
  cn.az.code.medium.NextPermutation031
-cn/az/code/medium/PermutationSequence060.java
- cn.az.code.medium.PermutationSequence060
 cn/az/code/other/string/LengthOfLastWord.java
  cn.az.code.other.string.LengthOfLastWord
 cn/az/code/medium/WaterContainer011.java
  cn.az.code.medium.WaterContainer011
-cn/az/code/year2020/may/CheckStraightLine.java
- cn.az.code.year2020.may.CheckStraightLine
 cn/az/code/year2020/may/EditDistance.java
  cn.az.code.year2020.may.EditDistance
-cn/az/code/year2020/jun/DungeonGame.java
- cn.az.code.year2020.jun.DungeonGame
 cn/az/code/year2020/may/SingleElementSortedArray.java
  cn.az.code.year2020.may.SingleElementSortedArray
 cn/az/code/easy/MergeTwoSortedLists021.java
  cn.az.code.easy.MergeTwoSortedLists021
 cn/az/code/medium/PartitionList086.java
  cn.az.code.medium.PartitionList086
-cn/az/code/year2020/may/FirstUniqueCharacterString.java
- cn.az.code.year2020.may.FirstUniqueCharacterString
+cn/az/code/year2020/july/BinaryTreeLevelOrderTraversal2.java
+ cn.az.code.year2020.july.BinaryTreeLevelOrderTraversal2
 cn/az/code/medium/SetMatrixZeroes073.java
  cn.az.code.medium.SetMatrixZeroes073
-cn/az/code/other/string/ToLowerCase.java
- cn.az.code.other.string.ToLowerCase
 cn/az/code/year2020/may/FloodFill.java
  cn.az.code.year2020.may.FloodFill
-cn/az/code/medium/ReversedLinkedListII092.java
- cn.az.code.medium.ReversedLinkedListII092
-cn/az/code/medium/SpiralMatrix054.java
- cn.az.code.medium.SpiralMatrix054
 cn/az/code/other/stack/NextGreaterNumber.java
  cn.az.code.other.stack.NextGreaterNumber
 cn/az/code/medium/SwapNodePairs024.java
  cn.az.code.medium.SwapNodePairs024
-cn/az/code/year2020/jun/IsSubsequence.java
- cn.az.code.year2020.jun.IsSubsequence
-cn/az/code/year2020/jun/RandomPickWithWeight.java
- cn.az.code.year2020.jun.RandomPickWithWeight
-cn/az/code/medium/SpiralMatrixII059.java
- cn.az.code.medium.SpiralMatrixII059
 cn/az/code/year2020/april/ContiguousArray.java
  cn.az.code.year2020.april.ContiguousArray
 cn/az/code/hard/LongestValidParentheses032.java
  cn.az.code.hard.LongestValidParentheses032
-cn/az/code/medium/MultiplyStrings043.java
- cn.az.code.medium.MultiplyStrings043
 cn/az/code/other/floodfill/MaxAreaOfIsland.java
  cn.az.code.other.floodfill.MaxAreaOfIsland
 cn/az/code/other/string/String2IntegerAtoi.java
  cn.az.code.other.string.String2IntegerAtoi
-cn/az/code/year2020/may/Trie.java
- cn.az.code.year2020.may.Trie
 cn/az/code/medium/GenerateParentheses022.java
  cn.az.code.medium.GenerateParentheses022
 cn/az/code/other/array/RemoveDuplicatesFromSortedArray.java
  cn.az.code.other.array.RemoveDuplicatesFromSortedArray
 cn/az/code/year2020/jun/PerfectSquares.java
  cn.az.code.year2020.jun.PerfectSquares
-cn/az/code/easy/RemoveDuplicate026.java
- cn.az.code.easy.RemoveDuplicate026
+cn/az/code/year2020/july/PrisonCellsAfterNDays.java
+ cn.az.code.year2020.july.PrisonCellsAfterNDays
+cn/az/code/other/bst/BinaryTreeLevelOrderTraversal2.java
+ cn.az.code.other.bst.BinaryTreeLevelOrderTraversal2
 cn/az/code/other/sort/ReversePairs.java
  cn.az.code.other.sort.ReversePairs
 cn/az/code/medium/LetterCombination017.java
  cn.az.code.medium.LetterCombination017
-cn/az/code/year2020/jun/HIndex.java
- cn.az.code.year2020.jun.HIndex
 cn/az/code/medium/JumpGame055.java
  cn.az.code.medium.JumpGame055
 cn/az/code/other/string/RabinKarpSearch.java
  cn.az.code.other.string.RabinKarpSearch
 cn/az/code/hard/NQueens051.java
  cn.az.code.hard.NQueens051
-cn/az/code/easy/TwoSum001.java
- cn.az.code.easy.TwoSum001
-cn/az/code/other/stack/NextWarmerTemperature.java
- cn.az.code.other.stack.NextWarmerTemperature
-cn/az/code/medium/ImplementPow050.java
- cn.az.code.medium.ImplementPow050
 cn/az/code/medium/LongestSubstring003.java
  cn.az.code.medium.LongestSubstring003
-cn/az/code/common/ListNode.java
- cn.az.code.common.ListNode
-cn/az/code/other/untag/ValidSudoku.java
- cn.az.code.other.untag.ValidSudoku
-cn/az/code/year2020/jun/SearchInsertPosition.java
- cn.az.code.year2020.jun.SearchInsertPosition
-cn/az/code/medium/GroupAnagrams049.java
- cn.az.code.medium.GroupAnagrams049
-cn/az/code/year2020/jun/SingleNumber2.java
- cn.az.code.year2020.jun.SingleNumber2
-cn/az/code/medium/RemoveDuplicatesFromSortedListII082.java
- cn.az.code.medium.RemoveDuplicatesFromSortedListII082
-cn/az/code/medium/MergeIntervals056.java
- cn.az.code.medium.MergeIntervals056
-cn/az/code/medium/ZigZag006.java
- cn.az.code.medium.ZigZag006
+cn/az/code/year2020/july/ReverseBits.java
+ cn.az.code.year2020.july.ReverseBits
 cn/az/code/year2020/april/SearchRotatedSortedArray.java
  cn.az.code.year2020.april.SearchRotatedSortedArray
-cn/az/code/other/array/SingleNumber2.java
- cn.az.code.other.array.SingleNumber2
 cn/az/code/medium/SubsetsII090.java
  cn.az.code.medium.SubsetsII090
 cn/az/code/year2020/jun/SortColors.java
@@ -155,37 +94,22 @@ cn/az/code/year2020/jun/SurroundedRegions.java
  cn.az.code.year2020.jun.SurroundedRegions
 cn/az/code/other/array/SingleNumber.java
  cn.az.code.other.array.SingleNumber
-cn/az/code/medium/String2Integer008.java
- cn.az.code.medium.String2Integer008
-cn/az/code/easy/PlusOne066.java
- cn.az.code.easy.PlusOne066
-cn/az/code/other/array/WordSearch2.java
- cn.az.code.other.array.WordSearch2
- cn.az.code.other.array.WordSearch2$TrieNode
-cn/az/code/year2020/jun/DeleteNodeLinkedList.java
- cn.az.code.year2020.jun.DeleteNodeLinkedList
 cn/az/code/easy/MaximumSubArray053.java
  cn.az.code.easy.MaximumSubArray053
-cn/az/code/easy/CommonPrefix014.java
- cn.az.code.easy.CommonPrefix014
 cn/az/code/year2020/april/NumberOfIslands.java
  cn.az.code.year2020.april.NumberOfIslands
 cn/az/code/year2020/jun/CheapestFlightsWithinKStops.java
  cn.az.code.year2020.jun.CheapestFlightsWithinKStops
-cn/az/code/year2020/may/MajorityElement.java
- cn.az.code.year2020.may.MajorityElement
-cn/az/code/medium/HouseRobber2.java
- cn.az.code.medium.HouseRobber2
+cn/az/code/year2020/july/ThreeSum.java
+ cn.az.code.year2020.july.ThreeSum
 cn/az/code/other/floodfill/IslandPerimeter.java
  cn.az.code.other.floodfill.IslandPerimeter
 cn/az/code/other/backtrack/SudokuSolver.java
  cn.az.code.other.backtrack.SudokuSolver
-cn/az/code/other/recursion/SwapNodesPairs.java
- cn.az.code.other.recursion.SwapNodesPairs
-cn/az/code/hard/RecoverBinarySearchTree099.java
- cn.az.code.hard.RecoverBinarySearchTree099
-cn/az/code/medium/UniquePaths062.java
- cn.az.code.medium.UniquePaths062
+cn/az/code/year2020/july/CourseSchedule.java
+ cn.az.code.year2020.july.CourseSchedule
+ cn.az.code.year2020.july.CourseSchedule$CourseSchedule2
+ cn.az.code.year2020.july.CourseSchedule$CourseSchedule2$Course
 cn/az/code/medium/LongestCommonSubsequence.java
  cn.az.code.medium.LongestCommonSubsequence
 cn/az/code/medium/SearchRotatedArray033.java
@@ -194,88 +118,52 @@ cn/az/code/other/bst/InsertIntoBST.java
  cn.az.code.other.bst.InsertIntoBST
 cn/az/code/easy/SymmetryTree101.java
  cn.az.code.easy.SymmetryTree101
-cn/az/code/other/string/SearchSubString.java
- cn.az.code.other.string.SearchSubString
 cn/az/code/year2020/jun/ValidIpAddress.java
  cn.az.code.year2020.jun.ValidIpAddress
-cn/az/code/year2020/may/JewelsAndStones.java
- cn.az.code.year2020.may.JewelsAndStones
-cn/az/code/medium/AddTwoNumber2.java
- cn.az.code.medium.AddTwoNumber2
-cn/az/code/year2020/april/SingleNumber.java
- cn.az.code.year2020.april.SingleNumber
-cn/az/code/year2020/may/FindTownJudge.java
- cn.az.code.year2020.may.FindTownJudge
+cn/az/code/year2020/july/Pow.java
+ cn.az.code.year2020.july.Pow
+cn/az/code/year2020/july/UglyNumber2.java
+ cn.az.code.year2020.july.UglyNumber2
+ cn.az.code.year2020.july.UglyNumber2$SuperUglyNumber
+ cn.az.code.year2020.july.UglyNumber2$SuperUglyNumber$Num
+ cn.az.code.year2020.july.UglyNumber2$UglyNumber
+ cn.az.code.year2020.july.UglyNumber2$UglyNumber3
 cn/az/code/year2020/may/SortCharactersByFrequency.java
  cn.az.code.year2020.may.SortCharactersByFrequency
 cn/az/code/year2020/jun/UniquePaths.java
  cn.az.code.year2020.jun.UniquePaths
-cn/az/code/year2020/jun/ReconstructItinerary.java
- cn.az.code.year2020.jun.ReconstructItinerary
-cn/az/code/other/bst/DeleteBSTNode.java
- cn.az.code.other.bst.DeleteBSTNode
-cn/az/code/year2020/may/ContiguousArray.java
- cn.az.code.year2020.may.ContiguousArray
 cn/az/code/medium/Permutations046.java
  cn.az.code.medium.Permutations046
+cn/az/code/year2020/july/SameTree.java
+ cn.az.code.year2020.july.SameTree
 cn/az/code/year2020/may/NumberComplement.java
  cn.az.code.year2020.may.NumberComplement
 cn/az/code/medium/Subsets078.java
  cn.az.code.medium.Subsets078
-cn/az/code/other/dp/BurstingBalloon.java
- cn.az.code.other.dp.BurstingBalloon
 cn/az/code/medium/ThreeSumClosest016.java
  cn.az.code.medium.ThreeSumClosest016
-cn/az/code/year2020/may/ValidPerfectSquare.java
- cn.az.code.year2020.may.ValidPerfectSquare
-cn/az/code/year2020/jun/PermutationSequence.java
- cn.az.code.year2020.jun.PermutationSequence
-cn/az/code/other/string/FirstUniqueCharacterInString.java
- cn.az.code.other.string.FirstUniqueCharacterInString
 cn/az/code/year2020/may/OddEvenLinkedList.java
  cn.az.code.year2020.may.OddEvenLinkedList
 cn/az/code/common/TrieNode.java
  cn.az.code.common.TrieNode
-cn/az/code/medium/LruCache.java
- cn.az.code.medium.LruCache
 cn/az/code/year2020/may/ConstructBinarySearchTreePreorderTraversal.java
  cn.az.code.year2020.may.ConstructBinarySearchTreePreorderTraversal
-cn/az/code/medium/HouseRobber3.java
- cn.az.code.medium.HouseRobber3
 cn/az/code/easy/MaximumDepth104.java
  cn.az.code.easy.MaximumDepth104
 cn/az/code/other/bst/IsValidBST.java
  cn.az.code.other.bst.IsValidBST
-cn/az/code/other/array/WordSearch.java
- cn.az.code.other.array.WordSearch
 cn/az/code/year2020/may/CousinsBinaryTree.java
  cn.az.code.year2020.may.CousinsBinaryTree
 cn/az/code/year2020/jun/LargestDivisibleSubset.java
  cn.az.code.year2020.jun.LargestDivisibleSubset
-cn/az/code/medium/Search2dMatrix074.java
- cn.az.code.medium.Search2dMatrix074
-cn/az/code/year2020/april/HappyNumber.java
- cn.az.code.year2020.april.HappyNumber
-cn/az/code/year2020/jun/CountCompleteTreeNodes.java
- cn.az.code.year2020.jun.CountCompleteTreeNodes
 cn/az/code/other/dp/MaxSubArraySum.java
  cn.az.code.other.dp.MaxSubArraySum
 cn/az/code/other/string/ReverseString.java
  cn.az.code.other.string.ReverseString
-cn/az/code/year2020/jun/HIndex2.java
- cn.az.code.year2020.jun.HIndex2
 cn/az/code/medium/WordSearch079.java
  cn.az.code.medium.WordSearch079
-cn/az/code/year2020/april/BestTimeToBuyAndSellStock2.java
- cn.az.code.year2020.april.BestTimeToBuyAndSellStock2
-cn/az/code/other/slidewindow/MinimumWindowSubstring.java
- cn.az.code.other.slidewindow.MinimumWindowSubstring
 cn/az/code/medium/ValidSudoku036.java
  cn.az.code.medium.ValidSudoku036
-cn/az/code/easy/SameTree100.java
- cn.az.code.easy.SameTree100
-cn/az/code/medium/CombinationSum039.java
- cn.az.code.medium.CombinationSum039
 cn/az/code/easy/RemoveElement027.java
  cn.az.code.easy.RemoveElement027
 cn/az/code/other/array/SingleNumber3.java
@@ -286,54 +174,30 @@ cn/az/code/other/recursion/ReverseString.java
  cn.az.code.other.recursion.ReverseString
 cn/az/code/year2020/may/CountSquareSubmatricesWithAllOnes.java
  cn.az.code.year2020.may.CountSquareSubmatricesWithAllOnes
-cn/az/code/year2020/may/PossibleBipartition.java
- cn.az.code.year2020.may.PossibleBipartition
 cn/az/code/other/untag/EightQueue.java
  cn.az.code.other.untag.EightQueue
-cn/az/code/hard/InterleavingString097.java
- cn.az.code.hard.InterleavingString097
 cn/az/code/easy/PalindromeNumber009.java
  cn.az.code.easy.PalindromeNumber009
 cn/az/code/easy/RomanInteger013.java
  cn.az.code.easy.RomanInteger013
-cn/az/code/common/TreeNode.java
- cn.az.code.common.TreeNode
 cn/az/code/easy/ValidParentheses020.java
  cn.az.code.easy.ValidParentheses020
-cn/az/code/other/floodfill/FillNewColor.java
- cn.az.code.other.floodfill.FillNewColor
-cn/az/code/year2020/may/FirstBadVersion.java
- cn.az.code.year2020.may.FirstBadVersion
 cn/az/code/other/google/TwoSum.java
  cn.az.code.other.google.TwoSum
 cn/az/code/easy/ImplementStr028.java
  cn.az.code.easy.ImplementStr028
-cn/az/code/year2020/may/RemoveDigits.java
- cn.az.code.year2020.may.RemoveDigits
 cn/az/code/medium/CoinChange322.java
  cn.az.code.medium.CoinChange322
 cn/az/code/medium/Combinations077.java
  cn.az.code.medium.Combinations077
-cn/az/code/medium/UniquePathsII063.java
- cn.az.code.medium.UniquePathsII063
 cn/az/code/year2020/jun/RandomizedSet.java
  cn.az.code.year2020.jun.RandomizedSet
-cn/az/code/other/bst/IsInBST.java
- cn.az.code.other.bst.IsInBST
 cn/az/code/year2020/jun/TwoCityScheduling.java
  cn.az.code.year2020.jun.TwoCityScheduling
-cn/az/code/year2020/jun/SearchInBST.java
- cn.az.code.year2020.jun.SearchInBST
 cn/az/code/year2020/may/UncrossedLines.java
  cn.az.code.year2020.may.UncrossedLines
 cn/az/code/year2020/jun/LongestDuplicateSubstring.java
  cn.az.code.year2020.jun.LongestDuplicateSubstring
-cn/az/code/year2020/jun/ReverseString.java
- cn.az.code.year2020.jun.ReverseString
-cn/az/code/medium/ValidateBinarySearchTree098.java
- cn.az.code.medium.ValidateBinarySearchTree098
-cn/az/code/medium/PermutationsII047.java
- cn.az.code.medium.PermutationsII047
 cn/az/code/year2020/jun/InvertBinaryTree.java
  cn.az.code.year2020.jun.InvertBinaryTree
 cn/az/code/medium/FindMinimumInRotatedSortedArray.java
@@ -346,6 +210,8 @@ cn/az/code/year2020/april/ProductArrayExceptSelf.java
  cn.az.code.year2020.april.ProductArrayExceptSelf
 cn/az/code/year2020/jun/CoinChange2.java
  cn.az.code.year2020.jun.CoinChange2
+cn/az/code/other/bst/BinaryTreeLevelOrderTraversal.java
+ cn.az.code.other.bst.BinaryTreeLevelOrderTraversal
 cn/az/code/medium/RemoveNthNode019.java
  cn.az.code.medium.RemoveNthNode019
 cn/az/code/year2020/april/ValidParenthesisString.java
@@ -358,24 +224,188 @@ cn/az/code/easy/ReverseNumber007.java
  cn.az.code.easy.ReverseNumber007
 cn/az/code/medium/TreeTraversal102.java
  cn.az.code.medium.TreeTraversal102
-cn/az/code/year2020/july/ArrangingCoins.java
- cn.az.code.year2020.july.ArrangingCoins
-cn/az/code/other/bst/BinaryTreeLevelOrderTraversal.java
- cn.az.code.other.bst.BinaryTreeLevelOrderTraversal
-cn/az/code/year2020/july/BinaryTreeLevelOrderTraversal2.java
- cn.az.code.year2020.july.BinaryTreeLevelOrderTraversal2
-cn/az/code/other/bst/BinaryTreeLevelOrderTraversal2.java
- cn.az.code.other.bst.BinaryTreeLevelOrderTraversal2
-cn/az/code/year2020/july/PrisonCellsAfterNDays.java
- cn.az.code.year2020.july.PrisonCellsAfterNDays
+cn/az/code/medium/HouseRobber.java
+ cn.az.code.medium.HouseRobber
+cn/az/code/medium/Triangle.java
+ cn.az.code.medium.Triangle
+cn/az/code/year2020/may/RansomNote.java
+ cn.az.code.year2020.may.RansomNote
+cn/az/code/year2020/july/IslandPerimeter.java
+ cn.az.code.year2020.july.IslandPerimeter
+cn/az/code/other/array/BestTimeBuySellStock2.java
+ cn.az.code.other.array.BestTimeBuySellStock2
+cn/az/code/year2020/jun/PowerOfTwo.java
+ cn.az.code.year2020.jun.PowerOfTwo
+cn/az/code/medium/SortColors075.java
+ cn.az.code.medium.SortColors075
+cn/az/code/easy/AddBinary067.java
+ cn.az.code.easy.AddBinary067
+cn/az/code/other/linkedlist/ReverseLinkedList.java
+ cn.az.code.other.linkedlist.ReverseLinkedList
+cn/az/code/year2020/jun/WordSearch2.java
+ cn.az.code.year2020.jun.WordSearch2
+ cn.az.code.year2020.jun.WordSearch2$TrieNode
+cn/az/code/medium/FourSum018.java
+ cn.az.code.medium.FourSum018
+cn/az/code/year2020/july/PlusOne.java
+ cn.az.code.year2020.july.PlusOne
+cn/az/code/year2020/july/ReverseWordsString.java
+ cn.az.code.year2020.july.ReverseWordsString
+cn/az/code/medium/PermutationSequence060.java
+ cn.az.code.medium.PermutationSequence060
+cn/az/code/year2020/may/CheckStraightLine.java
+ cn.az.code.year2020.may.CheckStraightLine
+cn/az/code/year2020/jun/DungeonGame.java
+ cn.az.code.year2020.jun.DungeonGame
+cn/az/code/year2020/may/FirstUniqueCharacterString.java
+ cn.az.code.year2020.may.FirstUniqueCharacterString
+cn/az/code/other/string/ToLowerCase.java
+ cn.az.code.other.string.ToLowerCase
+cn/az/code/medium/ReversedLinkedListII092.java
+ cn.az.code.medium.ReversedLinkedListII092
+cn/az/code/medium/SpiralMatrix054.java
+ cn.az.code.medium.SpiralMatrix054
+cn/az/code/year2020/jun/IsSubsequence.java
+ cn.az.code.year2020.jun.IsSubsequence
+cn/az/code/year2020/jun/RandomPickWithWeight.java
+ cn.az.code.year2020.jun.RandomPickWithWeight
+cn/az/code/year2020/july/AngleBetweenHandsOfClock.java
+ cn.az.code.year2020.july.AngleBetweenHandsOfClock
+cn/az/code/medium/SpiralMatrixII059.java
+ cn.az.code.medium.SpiralMatrixII059
+cn/az/code/medium/MultiplyStrings043.java
+ cn.az.code.medium.MultiplyStrings043
+cn/az/code/year2020/may/Trie.java
+ cn.az.code.year2020.may.Trie
+cn/az/code/easy/RemoveDuplicate026.java
+ cn.az.code.easy.RemoveDuplicate026
+cn/az/code/year2020/jun/HIndex.java
+ cn.az.code.year2020.jun.HIndex
+cn/az/code/easy/TwoSum001.java
+ cn.az.code.easy.TwoSum001
+cn/az/code/other/stack/NextWarmerTemperature.java
+ cn.az.code.other.stack.NextWarmerTemperature
+cn/az/code/medium/ImplementPow050.java
+ cn.az.code.medium.ImplementPow050
+cn/az/code/common/ListNode.java
+ cn.az.code.common.ListNode
+cn/az/code/other/untag/ValidSudoku.java
+ cn.az.code.other.untag.ValidSudoku
+cn/az/code/year2020/jun/SearchInsertPosition.java
+ cn.az.code.year2020.jun.SearchInsertPosition
+cn/az/code/year2020/july/TopKFrequentElements.java
+ cn.az.code.year2020.july.TopKFrequentElements
+cn/az/code/medium/GroupAnagrams049.java
+ cn.az.code.medium.GroupAnagrams049
+cn/az/code/year2020/jun/SingleNumber2.java
+ cn.az.code.year2020.jun.SingleNumber2
+cn/az/code/medium/RemoveDuplicatesFromSortedListII082.java
+ cn.az.code.medium.RemoveDuplicatesFromSortedListII082
+cn/az/code/medium/MergeIntervals056.java
+ cn.az.code.medium.MergeIntervals056
+cn/az/code/medium/ZigZag006.java
+ cn.az.code.medium.ZigZag006
+cn/az/code/other/array/SingleNumber2.java
+ cn.az.code.other.array.SingleNumber2
+cn/az/code/medium/String2Integer008.java
+ cn.az.code.medium.String2Integer008
+cn/az/code/easy/PlusOne066.java
+ cn.az.code.easy.PlusOne066
+cn/az/code/other/array/WordSearch2.java
+ cn.az.code.other.array.WordSearch2
+ cn.az.code.other.array.WordSearch2$TrieNode
+cn/az/code/year2020/jun/DeleteNodeLinkedList.java
+ cn.az.code.year2020.jun.DeleteNodeLinkedList
+cn/az/code/easy/CommonPrefix014.java
+ cn.az.code.easy.CommonPrefix014
+cn/az/code/year2020/july/MaximumWidthBinaryTree.java
+ cn.az.code.year2020.july.MaximumWidthBinaryTree
+cn/az/code/year2020/may/MajorityElement.java
+ cn.az.code.year2020.may.MajorityElement
+cn/az/code/medium/HouseRobber2.java
+ cn.az.code.medium.HouseRobber2
+cn/az/code/other/recursion/SwapNodesPairs.java
+ cn.az.code.other.recursion.SwapNodesPairs
+cn/az/code/other/array/ContainerWithMostWater.java
+ cn.az.code.other.array.ContainerWithMostWater
+cn/az/code/hard/RecoverBinarySearchTree099.java
+ cn.az.code.hard.RecoverBinarySearchTree099
+cn/az/code/medium/UniquePaths062.java
+ cn.az.code.medium.UniquePaths062
+cn/az/code/other/string/SearchSubString.java
+ cn.az.code.other.string.SearchSubString
+cn/az/code/year2020/may/JewelsAndStones.java
+ cn.az.code.year2020.may.JewelsAndStones
+cn/az/code/medium/AddTwoNumber2.java
+ cn.az.code.medium.AddTwoNumber2
+cn/az/code/year2020/april/SingleNumber.java
+ cn.az.code.year2020.april.SingleNumber
+cn/az/code/year2020/may/FindTownJudge.java
+ cn.az.code.year2020.may.FindTownJudge
+cn/az/code/year2020/jun/ReconstructItinerary.java
+ cn.az.code.year2020.jun.ReconstructItinerary
+cn/az/code/other/bst/DeleteBSTNode.java
+ cn.az.code.other.bst.DeleteBSTNode
+cn/az/code/year2020/may/ContiguousArray.java
+ cn.az.code.year2020.may.ContiguousArray
+cn/az/code/other/dp/BurstingBalloon.java
+ cn.az.code.other.dp.BurstingBalloon
+cn/az/code/year2020/may/ValidPerfectSquare.java
+ cn.az.code.year2020.may.ValidPerfectSquare
+cn/az/code/year2020/jun/PermutationSequence.java
+ cn.az.code.year2020.jun.PermutationSequence
+cn/az/code/other/string/FirstUniqueCharacterInString.java
+ cn.az.code.other.string.FirstUniqueCharacterInString
+cn/az/code/medium/LruCache.java
+ cn.az.code.medium.LruCache
+cn/az/code/medium/HouseRobber3.java
+ cn.az.code.medium.HouseRobber3
+cn/az/code/other/array/WordSearch.java
+ cn.az.code.other.array.WordSearch
+cn/az/code/medium/Search2dMatrix074.java
+ cn.az.code.medium.Search2dMatrix074
+cn/az/code/year2020/april/HappyNumber.java
+ cn.az.code.year2020.april.HappyNumber
 cn/az/code/year2020/july/HammingDistance.java
  cn.az.code.year2020.july.HammingDistance
  cn.az.code.year2020.july.HammingDistance$TotalHammingDistance
-cn/az/code/year2020/july/UglyNumber2.java
- cn.az.code.year2020.july.UglyNumber2
- cn.az.code.year2020.july.UglyNumber2$SuperUglyNumber
- cn.az.code.year2020.july.UglyNumber2$SuperUglyNumber$Num
- cn.az.code.year2020.july.UglyNumber2$UglyNumber
- cn.az.code.year2020.july.UglyNumber2$UglyNumber3
-cn/az/code/year2020/july/PlusOne.java
- cn.az.code.year2020.july.PlusOne
+cn/az/code/year2020/jun/CountCompleteTreeNodes.java
+ cn.az.code.year2020.jun.CountCompleteTreeNodes
+cn/az/code/year2020/jun/HIndex2.java
+ cn.az.code.year2020.jun.HIndex2
+cn/az/code/year2020/april/BestTimeToBuyAndSellStock2.java
+ cn.az.code.year2020.april.BestTimeToBuyAndSellStock2
+cn/az/code/other/slidewindow/MinimumWindowSubstring.java
+ cn.az.code.other.slidewindow.MinimumWindowSubstring
+cn/az/code/easy/SameTree100.java
+ cn.az.code.easy.SameTree100
+cn/az/code/medium/CombinationSum039.java
+ cn.az.code.medium.CombinationSum039
+cn/az/code/year2020/may/PossibleBipartition.java
+ cn.az.code.year2020.may.PossibleBipartition
+cn/az/code/year2020/july/ArrangingCoins.java
+ cn.az.code.year2020.july.ArrangingCoins
+cn/az/code/common/TreeNode.java
+ cn.az.code.common.TreeNode
+cn/az/code/other/floodfill/FillNewColor.java
+ cn.az.code.other.floodfill.FillNewColor
+cn/az/code/year2020/may/FirstBadVersion.java
+ cn.az.code.year2020.may.FirstBadVersion
+cn/az/code/year2020/may/RemoveDigits.java
+ cn.az.code.year2020.may.RemoveDigits
+cn/az/code/medium/UniquePathsII063.java
+ cn.az.code.medium.UniquePathsII063
+cn/az/code/other/bst/IsInBST.java
+ cn.az.code.other.bst.IsInBST
+cn/az/code/year2020/jun/SearchInBST.java
+ cn.az.code.year2020.jun.SearchInBST
+cn/az/code/year2020/jun/ReverseString.java
+ cn.az.code.year2020.jun.ReverseString
+cn/az/code/medium/ValidateBinarySearchTree098.java
+ cn.az.code.medium.ValidateBinarySearchTree098
+cn/az/code/medium/PermutationsII047.java
+ cn.az.code.medium.PermutationsII047
+cn/az/code/hard/InterleavingString097.java
+ cn.az.code.hard.InterleavingString097
+cn/az/code/year2020/july/AddBinary.java
+ cn.az.code.year2020.july.AddBinary

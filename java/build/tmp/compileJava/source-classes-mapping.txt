@@ -409,3 +409,13 @@ cn/az/code/hard/InterleavingString097.java
  cn.az.code.hard.InterleavingString097
 cn/az/code/year2020/july/AddBinary.java
  cn.az.code.year2020.july.AddBinary
+cn/az/code/year2020/july/ConstructBinaryTreeFromInorderAndPostOrderTraversal.java
+ cn.az.code.year2020.july.ConstructBinaryTreeFromInorderAndPostOrderTraversal
+ cn.az.code.year2020.july.ConstructBinaryTreeFromInorderAndPostOrderTraversal$ConstructBinaryTreeFromPreorderAndInOrderTraversal
+cn/az/code/year2020/july/TaskScheduler.java
+ cn.az.code.year2020.july.TaskScheduler
+cn/az/code/year2020/july/BestTimeToBuyAndSellStockWithCooldown.java
+ cn.az.code.year2020.july.BestTimeToBuyAndSellStockWithCooldown
+cn/az/code/year2020/july/WordBreak2.java
+ cn.az.code.year2020.july.WordBreak2
+ cn.az.code.year2020.july.WordBreak2$WordBreak

@@ -7,7 +7,7 @@ type MyHashSet struct {
 	hashSetData
 }
 
-func Constructor() MyHashSet {
+func NewMyHashSet() MyHashSet {
 	return MyHashSet{}
 }
 

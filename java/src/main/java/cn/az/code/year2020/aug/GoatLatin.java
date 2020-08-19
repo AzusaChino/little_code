@@ -19,7 +19,6 @@ public class GoatLatin {
                 res.append("a");
             }
         }
-        ;
         return res.substring(1);
     }
 

@@ -8,3 +8,4 @@
 venv/
 *.json
 *.class
+**/cmake-build-debug/

@@ -12,16 +12,15 @@ public class ListNode {
         val = x;
     }
 
-
     public static ListNode forSimpleTest(int... nums) {
-        ListNode head = new ListNode(0);
         ListNode dummy = new ListNode(0);
+        ListNode head = new ListNode(0);
         dummy.next = head;
         for (int n : nums) {
             head.next = new ListNode(n);
             head = head.next;
         }
-        return dummy.next;
+        return dummy.next.next;
     }
 
 
@@ -30,7 +29,10 @@ public class ListNode {
         StringBuilder res = new StringBuilder();
         ListNode that = this;
         while (that != null) {
-            res.append(that.val).append(" -> ");
+            res.append(that.val);
+            if (that.next != null) {
+                res.append(" -> ");
+            }
             that = that.next;
         }
         return res.toString();

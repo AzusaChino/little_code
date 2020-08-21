@@ -20,7 +20,7 @@ func (node *ListNode) String() string{
   sb := ""
   dummy := node
   for dummy.Next != nil {
-    sb += " -> " + string(dummy.Val)
+    sb += " -> " + string(rune(dummy.Val))
     dummy = dummy.Next
   }
   return sb

@@ -419,3 +419,10 @@ cn/az/code/year2020/july/BestTimeToBuyAndSellStockWithCooldown.java
 cn/az/code/year2020/july/WordBreak2.java
  cn.az.code.year2020.july.WordBreak2
  cn.az.code.year2020.july.WordBreak2$WordBreak
+cn/az/code/year2020/aug/SortArrayByParity.java
+ cn.az.code.year2020.aug.SortArrayByParity
+ cn.az.code.year2020.aug.SortArrayByParity$SortArrayByParity2
+cn/az/code/year2020/aug/RandomPointInNonOverlappingRectangles.java
+ cn.az.code.year2020.aug.RandomPointInNonOverlappingRectangles
+cn/az/code/other/array/ThreeConsecutiveOdds.java
+ cn.az.code.other.array.ThreeConsecutiveOdds

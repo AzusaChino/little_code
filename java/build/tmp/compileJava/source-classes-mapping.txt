@@ -424,5 +424,14 @@ cn/az/code/year2020/aug/SortArrayByParity.java
  cn.az.code.year2020.aug.SortArrayByParity$SortArrayByParity2
 cn/az/code/year2020/aug/RandomPointInNonOverlappingRectangles.java
  cn.az.code.year2020.aug.RandomPointInNonOverlappingRectangles
+cn/az/code/year2020/aug/StreamOfCharacters.java
+ cn.az.code.year2020.aug.StreamOfCharacters
+ cn.az.code.year2020.aug.StreamOfCharacters$TrieNode
+cn/az/code/year2020/aug/SumOfLeftLeaves.java
+ cn.az.code.year2020.aug.SumOfLeftLeaves
+cn/az/code/year2020/aug/MinimumCostForTickets.java
+ cn.az.code.year2020.aug.MinimumCostForTickets
 cn/az/code/other/array/ThreeConsecutiveOdds.java
  cn.az.code.other.array.ThreeConsecutiveOdds
+cn/az/code/year2020/aug/FizzBuzz.java
+ cn.az.code.year2020.aug.FizzBuzz

@@ -1,6 +1,6 @@
 package aug
 
-func sort(A []int) []int {
+func mySort(A []int) []int {
 
 	for i, j := 0, 0; j < len(A); j++ {
 		if A[j]&1 == 0 {

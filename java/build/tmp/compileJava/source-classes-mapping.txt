@@ -436,5 +436,7 @@ cn/az/code/other/array/ThreeConsecutiveOdds.java
 cn/az/code/year2020/aug/FizzBuzz.java
  cn.az.code.year2020.aug.FizzBuzz
  cn.az.code.year2020.aug.FizzBuzz$FizzBuzzMultiThread
+cn/az/code/year2020/aug/ImplementRand10.java
+ cn.az.code.year2020.aug.ImplementRand10
 cn/az/code/year2020/aug/FindRightInterval.java
  cn.az.code.year2020.aug.FindRightInterval

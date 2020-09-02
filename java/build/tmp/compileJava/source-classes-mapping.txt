@@ -440,3 +440,16 @@ cn/az/code/year2020/aug/ImplementRand10.java
  cn.az.code.year2020.aug.ImplementRand10
 cn/az/code/year2020/aug/FindRightInterval.java
  cn.az.code.year2020.aug.FindRightInterval
+cn/az/code/year2020/aug/DeleteNodeBst.java
+ cn.az.code.year2020.aug.DeleteNodeBst
+cn/az/code/year2020/aug/LargestComponentSizeByCommonFactor.java
+ cn.az.code.year2020.aug.LargestComponentSizeByCommonFactor
+ cn.az.code.year2020.aug.LargestComponentSizeByCommonFactor$Uf
+cn/az/code/year2020/aug/PancakeSorting.java
+ cn.az.code.year2020.aug.PancakeSorting
+cn/az/code/year2020/sept/LargestTimeForGivenDigits.java
+ cn.az.code.year2020.sept.LargestTimeForGivenDigits
+cn/az/code/year2020/sept/ContainDuplicate3.java
+ cn.az.code.year2020.sept.ContainDuplicate3
+ cn.az.code.year2020.sept.ContainDuplicate3$ContainDuplicate
+ cn.az.code.year2020.sept.ContainDuplicate3$ContainDuplicate2

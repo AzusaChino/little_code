@@ -521,5 +521,7 @@ cn/az/code/year2020/aug/PathSum3.java
  cn.az.code.year2020.aug.PathSum3
 cn/az/code/easy/TwoSum.java
  cn.az.code.easy.TwoSum
+cn/az/code/year2020/sept/PartitionLabels.java
+ cn.az.code.year2020.sept.PartitionLabels
 cn/az/code/year2020/sept/RepeatedSubstringPattern.java
  cn.az.code.year2020.sept.RepeatedSubstringPattern

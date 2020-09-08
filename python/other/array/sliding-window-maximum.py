@@ -2,8 +2,8 @@ class Solution:
     def maxSlidingWindow(self, nums, k):
         if not nums:
             return []
-        window, ret = [],[]
-        for i,x in enumrate(nums):
+        window, ret = [], []
+        for i, x in enumerate(nums):
             if i >= k and window[0] <= i - k:
                 window.pop(0)
             while window and nums[window[-1]] <= x:

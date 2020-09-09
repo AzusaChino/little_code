@@ -236,8 +236,8 @@ cn/az/code/other/bst/PathSum.java
  cn.az.code.other.bst.PathSum
  cn.az.code.other.bst.PathSum$PathSum2
  cn.az.code.other.bst.PathSum$PathSum3
-cn/az/code/other/google/TwoSum.java
- cn.az.code.other.google.TwoSum
+cn/az/code/year2020/sept/RepeatedSubstringPattern.java
+ cn.az.code.year2020.sept.RepeatedSubstringPattern
 cn/az/code/easy/CommonPrefix.java
  cn.az.code.easy.CommonPrefix
 cn/az/code/year2020/aug/FindRightInterval.java
@@ -523,5 +523,29 @@ cn/az/code/easy/TwoSum.java
  cn.az.code.easy.TwoSum
 cn/az/code/year2020/sept/PartitionLabels.java
  cn.az.code.year2020.sept.PartitionLabels
-cn/az/code/year2020/sept/RepeatedSubstringPattern.java
- cn.az.code.year2020.sept.RepeatedSubstringPattern
+cn/az/code/other/bst/SumRootToLeafNumbers.java
+ cn.az.code.other.bst.SumRootToLeafNumbers
+cn/az/code/other/google/TwoSum.java
+ cn.az.code.other.google.TwoSum
+cn/az/code/year2020/sept/AllElementsInBst.java
+ cn.az.code.year2020.sept.AllElementsInBst
+cn/az/code/year2020/sept/ImageOverlap.java
+ cn.az.code.year2020.sept.ImageOverlap
+cn/az/code/year2020/sept/CompareVersionNumbers.java
+ cn.az.code.year2020.sept.CompareVersionNumbers
+cn/az/code/year2020/sept/WordPattern.java
+ cn.az.code.year2020.sept.WordPattern
+cn/az/code/other/bst/SmallestStringStartingFromLeaf.java
+ cn.az.code.other.bst.SmallestStringStartingFromLeaf
+cn/az/code/other/stack/ImplementQueue.java
+ cn.az.code.other.stack.ImplementQueue
+cn/az/code/other/sort/KthLargestElementInStream.java
+ cn.az.code.other.sort.KthLargestElementInStream
+cn/az/code/year2020/sept/SumOfRootToLeafBinaryNumbers.java
+ cn.az.code.year2020.sept.SumOfRootToLeafBinaryNumbers
+cn/az/code/other/sort/BubbleSort.java
+ cn.az.code.other.sort.BubbleSort
+cn/az/code/other/sort/Sort.java
+ cn.az.code.other.sort.Sort
+cn/az/code/other/sort/InsertionSort.java
+ cn.az.code.other.sort.InsertionSort

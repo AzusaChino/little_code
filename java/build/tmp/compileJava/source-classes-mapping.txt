@@ -549,3 +549,11 @@ cn/az/code/other/sort/Sort.java
  cn.az.code.other.sort.Sort
 cn/az/code/other/sort/InsertionSort.java
  cn.az.code.other.sort.InsertionSort
+cn/az/code/other/sort/ShellSort.java
+ cn.az.code.other.sort.ShellSort
+cn/az/code/practice/dfs/GenerateParentheses.java
+ cn.az.code.practice.dfs.GenerateParentheses
+cn/az/code/practice/bst/MinHeight.java
+ cn.az.code.practice.bst.MinHeight
+cn/az/code/practice/bst/MaxHeight.java
+ cn.az.code.practice.bst.MaxHeight

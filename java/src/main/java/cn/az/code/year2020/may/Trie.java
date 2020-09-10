@@ -8,7 +8,7 @@ import cn.az.code.common.TrieNode;
  */
 public class Trie {
 
-    private TrieNode root;
+    private final TrieNode root;
 
     /**
      * Initialize your data structure here.

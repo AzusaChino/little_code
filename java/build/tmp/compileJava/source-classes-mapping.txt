@@ -555,5 +555,9 @@ cn/az/code/practice/dfs/GenerateParentheses.java
  cn.az.code.practice.dfs.GenerateParentheses
 cn/az/code/practice/bst/MinHeight.java
  cn.az.code.practice.bst.MinHeight
+cn/az/code/practice/some/MySqrt.java
+ cn.az.code.practice.some.MySqrt
 cn/az/code/practice/bst/MaxHeight.java
  cn.az.code.practice.bst.MaxHeight
+cn/az/code/year2020/sept/BullsAndCows.java
+ cn.az.code.year2020.sept.BullsAndCows

@@ -9,16 +9,17 @@ func MaxCoins(nums []int) int {
 	}
 
 	dp := make([][]int, n+2)
-	for d := range dp {
-		d = make([]int, n+2)
-	}
+	//for _, d := range dp {
+	//	d = make([]int, n+2)
+	//}
 
 	for i := n; i >= 0; i-- {
 		for j := i + 1; j < n+2; j++ {
 			for k := i + 1; k < j; k++ {
-
+				dp[i][j] = 0
 			}
 		}
 	}
 
+	return 0
 }

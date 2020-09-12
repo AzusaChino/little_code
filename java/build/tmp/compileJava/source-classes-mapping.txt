@@ -337,8 +337,8 @@ cn/az/code/easy/PlusOne.java
  cn.az.code.easy.PlusOne
 cn/az/code/year2020/july/AngleBetweenHandsOfClock.java
  cn.az.code.year2020.july.AngleBetweenHandsOfClock
-cn/az/code/year2020/may/Trie.java
- cn.az.code.year2020.may.Trie
+cn/az/code/year2020/sept/BullsAndCows.java
+ cn.az.code.year2020.sept.BullsAndCows
 cn/az/code/medium/SetMatrixZeroes.java
  cn.az.code.medium.SetMatrixZeroes
 cn/az/code/year2020/july/AllPathsFromSourceToTarget.java
@@ -559,5 +559,9 @@ cn/az/code/practice/some/MySqrt.java
  cn.az.code.practice.some.MySqrt
 cn/az/code/practice/bst/MaxHeight.java
  cn.az.code.practice.bst.MaxHeight
-cn/az/code/year2020/sept/BullsAndCows.java
- cn.az.code.year2020.sept.BullsAndCows
+cn/az/code/year2020/sept/MaxProductSubarray.java
+ cn.az.code.year2020.sept.MaxProductSubarray
+cn/az/code/other/trie/WordSearch2.java
+ cn.az.code.other.trie.WordSearch2
+cn/az/code/year2020/may/Trie.java
+ cn.az.code.year2020.may.Trie

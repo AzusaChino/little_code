@@ -429,8 +429,8 @@ cn/az/code/medium/SpiralMatrix.java
  cn.az.code.medium.SpiralMatrix
 cn/az/code/medium/ValidSudoku.java
  cn.az.code.medium.ValidSudoku
-cn/az/code/other/dp/BurstingBalloon.java
- cn.az.code.other.dp.BurstingBalloon
+cn/az/code/year2020/may/Trie.java
+ cn.az.code.year2020.may.Trie
 cn/az/code/medium/ThreeSum.java
  cn.az.code.medium.ThreeSum
 cn/az/code/year2020/aug/CombinationIterator.java
@@ -563,5 +563,15 @@ cn/az/code/year2020/sept/MaxProductSubarray.java
  cn.az.code.year2020.sept.MaxProductSubarray
 cn/az/code/other/trie/WordSearch2.java
  cn.az.code.other.trie.WordSearch2
-cn/az/code/year2020/may/Trie.java
- cn.az.code.year2020.may.Trie
+cn/az/code/other/dp/BurstingBalloon.java
+ cn.az.code.other.dp.BurstingBalloon
+cn/az/code/other/dp/BestTimeBuySell.java
+ cn.az.code.other.dp.BestTimeBuySell
+ cn.az.code.other.dp.BestTimeBuySell$BestTimeBuySellK
+ cn.az.code.other.dp.BestTimeBuySell$BestTimeBuySellNoLimit
+ cn.az.code.other.dp.BestTimeBuySell$BestTimeBuySellOnce
+ cn.az.code.other.dp.BestTimeBuySell$BestTimeBuySellTwice
+cn/az/code/other/dp/LongestIncreasingSequence.java
+ cn.az.code.other.dp.LongestIncreasingSequence
+cn/az/code/year2020/sept/CombinationSum3.java
+ cn.az.code.year2020.sept.CombinationSum3

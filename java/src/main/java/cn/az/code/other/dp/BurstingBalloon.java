@@ -16,9 +16,7 @@ public class BurstingBalloon {
         int[] points = new int[len + 2];
         points[0] = points[len + 1] = 1;
 
-        for (int i = 1; i <= len; i++) {
-            points[i] = nums[i - 1];
-        }
+        System.arraycopy(nums, 0, points, 1, len);
 
         int[][] dp = new int[len + 2][len + 2];
 

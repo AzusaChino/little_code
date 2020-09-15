@@ -10,3 +10,15 @@ public:
 
     ListNode() {}
 };
+
+class TrieNode {
+public:
+    bool isWord;
+    TrieNode []
+    children;
+};
+
+class Trie {
+public:
+    TrieNode root;
+};

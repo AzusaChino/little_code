@@ -18,7 +18,7 @@ public class TwoSum {
     }
 
     public int[] find(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>(10);
+        Map<Integer, Integer> map = new HashMap<>(16);
         for (int i = 0; i < nums.length; i++) {
             if (map.containsKey(target - nums[i])) {
                 return new int[]{map.get(target - nums[i]), i};

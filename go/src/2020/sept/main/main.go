@@ -1,6 +1,9 @@
 package main
 
-import "2020/sept"
+import (
+	"2020/sept"
+	"fmt"
+)
 
 func main() {
 	var candidates = []int{
@@ -8,6 +11,12 @@ func main() {
 	}
 	ret := sept.CombinationSum(candidates, 7)
 	for _, x := range ret {
-		print(x)
+		fmt.Println(x)
 	}
+	var grid = [][]int{
+		{1, 0, 0, 0},
+		{0, 0, 0, 0},
+		{0, 0, 0, 2}}
+	ret2 := sept.UniquePaths3(grid)
+	fmt.Println(ret2)
 }

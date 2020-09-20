@@ -2,7 +2,7 @@ package sept
 
 import "sort"
 
-func combinationSum(candidates []int, target int) [][]int {
+func CombinationSum(candidates []int, target int) [][]int {
 	var result [][]int
 	sort.Ints(candidates)
 	var path []int

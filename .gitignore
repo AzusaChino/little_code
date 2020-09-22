@@ -11,3 +11,7 @@ venv/
 **/cmake-build-debug/
 
 **/.project
+**/build
+**/gradle
+**/gradlew
+**/gradlew.bat

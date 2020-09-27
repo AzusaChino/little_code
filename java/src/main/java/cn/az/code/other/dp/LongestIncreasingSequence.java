@@ -50,4 +50,28 @@ public class LongestIncreasingSequence {
 
         return ret;
     }
+
+    public int lengthOfLis(int[] nums) {
+        int n = nums.length;
+        int[] top = new int[n];
+        int piles = 0;
+        for (int poker : nums) {
+            int l = 0, r = piles;
+            while (l < r) {
+                int mid = l + (r - l) / 2;
+                if (top[mid] < poker) {
+                    r = mid;
+                } else if (top[mid] > poker) {
+                    l = mid + 1;
+                } else {
+                    r = mid;
+                }
+            }
+            if (l == piles) {
+                piles++;
+            }
+            top[l] = poker;
+        }
+        return piles;
+    }
 }

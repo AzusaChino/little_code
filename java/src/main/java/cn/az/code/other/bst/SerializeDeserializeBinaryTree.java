@@ -48,6 +48,7 @@ public class SerializeDeserializeBinaryTree {
     }
 
     private TreeNode desHelper(List<String> list) {
+        // empty tree or dfs end
         if (NULL.equals(list.get(0))) {
             list.remove(0);
             return null;

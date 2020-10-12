@@ -8,24 +8,21 @@ package cn.az.code.year2020.april;
  */
 public class SingleNumber {
 
-    public static void main(String[] args) {
-
-    }
-
     /**
      * first , we have to know the bitwise XOR in java
-     *
+     * <p>
      * 0 ^ N = N
      * N ^ N = 0
      * So..... if N is the single number
-     *
+     * <p>
      * N1 ^ N1 ^ N2 ^ N2 ^..............^ Nx ^ Nx ^ N
-     *
+     * <p>
      * = (N1^N1) ^ (N2^N2) ^..............^ (Nx^Nx) ^ N
-     *
+     * <p>
      * = 0 ^ 0 ^ ..........^ 0 ^ N
-     *
+     * <p>
      * = N
+     *
      * @param nums nums
      * @return single
      */

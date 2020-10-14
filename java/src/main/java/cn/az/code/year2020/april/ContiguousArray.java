@@ -1,5 +1,6 @@
 package cn.az.code.year2020.april;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -16,23 +17,34 @@ public class ContiguousArray {
     }
 
     public int findMaxLength(int[] nums) {
-        int len = nums.length, count = 0;
-        int max = 0;
-        Map<Integer, Integer> map = new HashMap<>(8);
-        map.put(0, -1);
-        for (int i = 0; i < len; i++) {
-            if (nums[i] == 0) {
-                count--;
+        int[] arr = new int[2 * nums.length + 1];
+        Arrays.fill(arr, -2);
+        arr[nums.length] = -1;
+        int maxlen = 0, count = 0;
+        for (int i = 0; i < nums.length; i++) {
+            count = count + (nums[i] == 0 ? -1 : 1);
+            if (arr[count + nums.length] >= -1) {
+                maxlen = Math.max(maxlen, i - arr[count + nums.length]);
             } else {
-                count++;
+                arr[count + nums.length] = i;
             }
+
+        }
+        return maxlen;
+    }
+
+    public int findMaxLength_(int[] nums) {
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, -1);
+        int maxlen = 0, count = 0;
+        for (int i = 0; i < nums.length; i++) {
+            count = count + (nums[i] == 1 ? 1 : -1);
             if (map.containsKey(count)) {
-                max = Math.max(max, i - map.get(count));
+                maxlen = Math.max(maxlen, i - map.get(count));
             } else {
                 map.put(count, i);
             }
         }
-        return max;
-
+        return maxlen;
     }
 }

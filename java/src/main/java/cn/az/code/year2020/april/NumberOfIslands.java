@@ -22,6 +22,7 @@ public class NumberOfIslands {
         // iterate all positions
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
+                // 从岛的起点进入之后, 整个岛就沉底了
                 if (grid[i][j] == '1') {
                     sink(grid, i , j);
                     count++;

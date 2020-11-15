@@ -14,6 +14,10 @@ public class TreeNode {
         this.val = x;
     }
 
+    public static TreeNode of(int _val) {
+        return new TreeNode(_val);
+    }
+
 //    @Override
 //    public boolean equals(Object o) {
 //        if (this == o) {

@@ -15,3 +15,7 @@ venv/
 **/gradle
 **/gradlew
 **/gradlew.bat
+.project
+org.*
+.classpath
+.factorypath

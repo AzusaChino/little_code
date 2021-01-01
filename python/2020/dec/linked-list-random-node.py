@@ -9,7 +9,7 @@ class Solution:
             head = head.next
     
     def get_random(self):
-        r = random.randint(self.count-1)
+        r = random.randint(0, self.count-1)
         n = self.head
         for _ in range(r):
             n = n.next

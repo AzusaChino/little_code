@@ -5,7 +5,11 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+/**
+ * @author az
+ */
 public class JumpGame4 {
+
     public int minJumps(int[] arr) {
         int n = arr.length;
         HashMap<Integer, List<Integer>> indicesOfValue = new HashMap<>();

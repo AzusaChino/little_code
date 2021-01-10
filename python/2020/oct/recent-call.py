@@ -1,3 +1,6 @@
+import bisect
+
+
 class Solution:
     def __init__(self):
         self.ls = []

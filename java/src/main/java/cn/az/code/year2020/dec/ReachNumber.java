@@ -1,5 +1,8 @@
 package cn.az.code.year2020.dec;
 
+/**
+ * @author az
+ */
 public class ReachNumber {
 
     public int reachNumber(int target) {

@@ -5,6 +5,7 @@ package cn.az.code.year2020.dec;
  * @since 12/30/20 21:47
  */
 public class GameOfLife {
+
     public void gameOfLife(int[][] board) {
         if (board == null || board.length == 0) {
             return;

@@ -5,6 +5,9 @@
 #
 
 # @lc code=start
+from typing import List
+
+
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         heights.append(0)

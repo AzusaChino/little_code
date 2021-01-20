@@ -3,7 +3,7 @@
 #
 # [1] Two Sum
 #
-# a, b -> a+b == target
+
 # @lc code=start
 from typing import List
 

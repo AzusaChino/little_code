@@ -13,6 +13,7 @@ import java.util.Set;
 public class SimplifyPath {
 
     public String simplifyPath(String path) {
+        // 有进有出的结构 => 优先想到Stack
         Deque<String> stack = new LinkedList<>();
         Set<String> skip = new HashSet<>(Arrays.asList("..", ".", ""));
         for (String dir : path.split("/")) {

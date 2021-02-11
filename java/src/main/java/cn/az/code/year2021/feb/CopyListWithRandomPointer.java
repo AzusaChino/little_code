@@ -2,7 +2,11 @@ package cn.az.code.year2021.feb;
 
 import java.util.Map;
 import java.util.HashMap;
+import java.util.Objects;
 
+/**
+ * @author ycpang
+ */
 public class CopyListWithRandomPointer {
 
      public Node copyRandomList(Node head) {
@@ -36,5 +40,17 @@ public class CopyListWithRandomPointer {
             this.val = _val;
         }
 
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            Node node = (Node) o;
+            return val == node.val && Objects.equals(next, node.next) && Objects.equals(random, node.random);
+        }
+
+        @Override
+        public int hashCode() {
+            return Objects.hash(val, next, random);
+        }
     }
 }

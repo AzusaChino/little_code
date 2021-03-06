@@ -1,7 +1,7 @@
 
 f[101] = { 1, 0, 1};
 
-class getMaximumGeneratedArray {
+class GetMaximumGeneratedArray {
 public:
     int getMax(int n) {
         if (f[2] == 0) {

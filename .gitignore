@@ -20,3 +20,5 @@ venv/
 org.*
 .classpath
 .factorypath
+
+**/.vs

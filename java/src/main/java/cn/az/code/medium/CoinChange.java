@@ -56,6 +56,6 @@ public class CoinChange {
                 }
             }
         }
-        return dp[amount];
+        return dp[amount] > amount ? -1 : amount;
     }
 }

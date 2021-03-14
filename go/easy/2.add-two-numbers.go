@@ -1,9 +1,9 @@
 package easy
 
-import . "common"
+import "leetcode/common"
 
-func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
-	pointer := &ListNode{Val: 0}
+func addTwoNumbers(l1 *common.ListNode, l2 *common.ListNode) *common.ListNode {
+	pointer := &common.ListNode{Val: 0}
 	dummy := pointer
 
 	carry := 0
@@ -16,7 +16,7 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 			carry += l2.Val
 			l2 = l2.Next
 		}
-		pointer.Next = &ListNode{Val: carry % 10}
+		pointer.Next = &common.ListNode{Val: carry % 10}
 		pointer = pointer.Next
 		carry /= 10
 	}

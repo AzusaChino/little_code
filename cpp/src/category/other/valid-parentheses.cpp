@@ -1,53 +1,70 @@
 #include <stack>
+#include <string>
 
-class Solution {
+using namespace std;
+class Solution
+{
 public:
-    bool isValid(string s) {
-        stack<char> paren;
-        for (char &c : s) {
-            switch (c) {
-                case '(':
-                case '{':
-                case '[':
-                    paren.push(c);
-                    break;
-                case ')':
-                    if (paren.empty() || paren.top() != '(') return false;
-                    else paren.pop();
-                    break;
-                case '}':
-                    if (paren.empty() || paren.top() != '{') return false;
-                    else paren.pop();
-                    break;
-                case ']':
-                    if (paren.empty() || paren.top() != '[') return false;
-                    else paren.pop();
-                    break;
-                default:; // pass
+    bool isValid(string s)
+    {
+        stack<char> parent;
+        for (char &c : s)
+        {
+            switch (c)
+            {
+            case '(':
+            case '{':
+            case '[':
+                parent.push(c);
+                break;
+            case ')':
+                if (parent.empty() || parent.top() != '(')
+                    return false;
+                else
+                    parent.pop();
+                break;
+            case '}':
+                if (parent.empty() || parent.top() != '{')
+                    return false;
+                else
+                    parent.pop();
+                break;
+            case ']':
+                if (parent.empty() || parent.top() != '[')
+                    return false;
+                else
+                    parent.pop();
+                break;
+            default:; // pass
             }
         }
-        return paren.empty();
+        return parent.empty();
     }
 
 private:
-    bool isValid(string s) {
+    bool isValid(string s)
+    {
         stack<char> stk;
-        for (const auto &c : s) {
-            switch (c) {
-                case '{':
-                    stk.push('}');
-                    break;
-                case '[':
-                    stk.push(']');
-                    break;
-                case '(':
-                    stk.push(')');
-                    break;
-                default:
-                    if (stk.size() == 0 || c != stk.top()) return false;
-                    else stk.pop();
+        for (const auto &c : s)
+        {
+            switch (c)
+            {
+            case '{':
+                stk.push('}');
+                break;
+            case '[':
+                stk.push(']');
+                break;
+            case '(':
+                stk.push(')');
+                break;
+            default:
+                if (stk.size() == 0 || c != stk.top())
+                    return false;
+                else
+                    stk.pop();
             }
         }
         return stk.size() == 0;
     }
-}
+};

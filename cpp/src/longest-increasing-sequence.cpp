@@ -1,10 +1,19 @@
-int lengthOfLIS(vector<int> &nums) {
+#include <vector>
+
+using namespace std;
+
+int lengthOfLIS(vector<int> &nums)
+{
     vector<int> res;
-    for (int i = 0; i < nums.size(); i++) {
+    for (int i = 0; i < nums.size(); i++)
+    {
         auto it = std::lower_bound(res.begin(), res.end(), nums[i]);
-        if (it == res.end()) {
+        if (it == res.end())
+        {
             res.push_back(nums[i]);
-        } else {
+        }
+        else
+        {
             *it = nums[i];
         }
     }

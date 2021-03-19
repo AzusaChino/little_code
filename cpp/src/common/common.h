@@ -3,22 +3,24 @@
 
 #endif //CPP_COMMON_H
 
-class ListNode {
+class ListNode
+{
 public:
     int val;
-    ListNode next;
+    ListNode *next;
 
     ListNode() {}
 };
 
-class TrieNode {
+class TrieNode
+{
 public:
     bool isWord;
-    TrieNode []
-    children;
+    TrieNode *children[];
 };
 
-class Trie {
+class Trie
+{
 public:
     TrieNode root;
 };

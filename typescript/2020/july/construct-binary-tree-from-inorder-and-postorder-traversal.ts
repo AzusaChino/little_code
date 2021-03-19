@@ -1,17 +1,20 @@
-import {TreeNode} from "../../common";
+import { TreeNode } from "../../common";
 
-
-const buildTree = (inorder: Array<number>, postorder: Array<number>): TreeNode | null => {
-    let p = 0, i = 0;
-    const build = (stop: number) => {
-        if (inorder[i] != stop) {
-            let root = new TreeNode(postorder[p++],);
-            root.left = build(root.val);
-            i++;
-            root.right = build(stop);
-            return root;
-        }
-        return null;
+const buildTree = (
+  inorder: Array<number>,
+  postorder: Array<number>
+): TreeNode | null => {
+  let p = 0,
+    i = 0;
+  const build = (stop: number) => {
+    if (inorder[i] != stop) {
+      let root = new TreeNode(postorder[p++]);
+      root.left = build(root.val);
+      i++;
+      root.right = build(stop);
+      return root;
     }
-    return build(-1);
-}
+    return null;
+  };
+  return build(-1);
+};

@@ -9,7 +9,7 @@ func wiggleMaxLength(nums []int) int {
 
 	up[0] = 1
 	down[0] = 1
-	for i, _ := range nums {
+	for i := range nums {
 		if nums[i] > nums[i-1] {
 			up[i] = down[i-1] + 1
 			down[i] = down[i-1]

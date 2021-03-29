@@ -24,3 +24,11 @@ class Trie
 public:
     TrieNode root;
 };
+
+class TreeNode
+{
+public:
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+};

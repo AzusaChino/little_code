@@ -13,7 +13,7 @@ class Solution:
             node = slow
             slow = nxt
         # compare the first and second half nodes
-        while node: # while node and head:
+        while node:  # while node and head:
             if node.val != head.val:
                 return False
             node = node.next

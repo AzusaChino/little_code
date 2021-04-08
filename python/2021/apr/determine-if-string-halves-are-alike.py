@@ -1,6 +1,6 @@
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:
-        vowels = set('aeiouAEIOU')
+        vowels = set("aeiouAEIOU")
         a = b = 0
         i, j = 0, len(s) - 1
         while i < j:

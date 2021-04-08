@@ -9,7 +9,7 @@ class MyHashSet(object):
         self.s = [None] * 8
         self.lf = float(2) / 3
 
-    def hash(self, key):  # can be modified to hash other hashable objects like built in python hash function
+    def hash(self, key):  # can be modified to hash practices hashable objects like built in python hash function
         return key % self.capacity
 
     def add(self, key):

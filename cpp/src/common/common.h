@@ -10,6 +10,7 @@ public:
     ListNode *next;
 
     ListNode() {}
+    ListNode(int val) : val(val) {}
 };
 
 class TrieNode

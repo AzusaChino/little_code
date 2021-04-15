@@ -1,7 +1,7 @@
 package cn.az.code.year2021.feb;
 
-import java.util.Map;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
 
 /**
@@ -9,7 +9,7 @@ import java.util.Objects;
  */
 public class CopyListWithRandomPointer {
 
-     public Node copyRandomList(Node head) {
+    public Node copyRandomList(Node head) {
         Map<Node, Node> originalToNew = new HashMap<>();
         Node preHead = new Node(0);
         Node current = preHead;

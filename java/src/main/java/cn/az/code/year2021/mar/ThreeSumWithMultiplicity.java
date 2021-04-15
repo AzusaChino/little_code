@@ -1,9 +1,9 @@
 package cn.az.code.year2021.mar;
 
 /**
-  * @author az
-  * @since 2021-03-23
-  */
+ * @author az
+ * @since 2021-03-23
+ */
 public class ThreeSumWithMultiplicity {
 
     public int threeSumMulti(int[] A, int target) {
@@ -21,6 +21,6 @@ public class ThreeSumWithMultiplicity {
                 else if (j < k)
                     res += c[i] * c[j] * c[k];
             }
-        return (int)(res % (1e9 + 7));
+        return (int) (res % (1e9 + 7));
     }
 }

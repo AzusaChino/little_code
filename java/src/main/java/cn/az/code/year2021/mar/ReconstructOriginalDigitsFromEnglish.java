@@ -1,9 +1,9 @@
 package cn.az.code.year2021.mar;
 
 /**
-  * @author az
-  * @since 2021-03-28
-  */
+ * @author az
+ * @since 2021-03-28
+ */
 public class ReconstructOriginalDigitsFromEnglish {
     public String originalDigits(String s) {
         int[] count = new int[10];

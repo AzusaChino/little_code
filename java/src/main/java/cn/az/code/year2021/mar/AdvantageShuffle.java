@@ -3,10 +3,10 @@ package cn.az.code.year2021.mar;
 import java.util.TreeMap;
 
 /**
-  * @author az
-  * @since 2021-03-24
-  */
-public class AdvantageShuffle{
+ * @author az
+ * @since 2021-03-24
+ */
+public class AdvantageShuffle {
 
     public int[] advantageCount(int[] A, int[] B) {
         TreeMap<Integer, Integer> m = new TreeMap<>();

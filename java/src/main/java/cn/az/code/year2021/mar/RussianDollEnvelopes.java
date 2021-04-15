@@ -3,15 +3,15 @@ package cn.az.code.year2021.mar;
 import java.util.Arrays;
 
 /**
-  * @author az
-  * @since 2021-03-30
-  */
+ * @author az
+ * @since 2021-03-30
+ */
 public class RussianDollEnvelopes {
     public int maxEnvelopes(int[][] envelopes) {
         if (envelopes == null || envelopes.length == 0
                 || envelopes[0] == null || envelopes[0].length != 2)
             return 0;
-        Arrays.sort(envelopes, (arr1, arr2) ->{
+        Arrays.sort(envelopes, (arr1, arr2) -> {
             if (arr1[0] == arr2[0])
                 return arr2[1] - arr1[1];
             else

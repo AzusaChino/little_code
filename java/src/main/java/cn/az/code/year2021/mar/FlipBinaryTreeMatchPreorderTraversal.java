@@ -1,12 +1,20 @@
 package cn.az.code.year2021.mar;
 
+import cn.az.code.common.TreeNode;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 /**
-  * @author az
-  * @since 2021-03-29
-  */
+ * @author az
+ * @since 2021-03-29
+ */
 public class FlipBinaryTreeMatchPreorderTraversal {
+
     List<Integer> res = new ArrayList<>();
     int i = 0;
+
     public List<Integer> flipMatchVoyage(TreeNode root, int[] v) {
         return dfs(root, v) ? res : Arrays.asList(-1);
     }

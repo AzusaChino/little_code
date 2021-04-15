@@ -1,13 +1,14 @@
 package cn.az.code.year2021.mar;
 
-import java.util.Set;
-import java.util.HashSet;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
 
 /**
-  * @author az
-  * @since 2021-03-22
-  */
+ * @author az
+ * @since 2021-03-22
+ */
 public class VowelSpellchecker {
 
     public String[] spellchecker(String[] wordlist, String[] queries) {

@@ -1,6 +1,6 @@
 # little-code
 
-这里是学习`LeetCode`的仓库，由于工作比较忙，现在每天的目标就是完成Daily。
+这里是学习`LeetCode`的仓库，由于工作比较忙，现在每天的目标就是完成[Daily](leetcode/README.md)。
 
 主要使用语言：Java，Go，C++，Python
 

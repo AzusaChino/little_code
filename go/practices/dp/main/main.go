@@ -1,6 +1,6 @@
 package main
 
-import "leetcode/other/dp"
+import "leetcode/practices/dp"
 
 func main() {
 	//var tri = [][]int{

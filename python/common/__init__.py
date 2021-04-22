@@ -62,3 +62,16 @@ class Solution:
 
         # revert the current level states
 '''
+
+'''
+def dfs(node: TreeNode):
+    if node in visited:
+        # already visited
+        return
+    visited.add(node)
+
+    # process current node
+    process(node)
+    dfs(node.left)
+    dfs(node.right)
+'''

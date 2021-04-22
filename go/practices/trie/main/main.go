@@ -1,6 +1,6 @@
 package main
 
-import "leetcode/other/trie"
+import "leetcode/practices/trie"
 
 func main() {
 	//var t = new(trie.Trie)

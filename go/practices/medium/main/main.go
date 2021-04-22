@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	. "leetcode/common"
-	"leetcode/medium"
+	"leetcode/practices/medium"
 )
 
 func main() {

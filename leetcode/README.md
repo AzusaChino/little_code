@@ -20,3 +20,4 @@
 | [2021-04-22](2021/04/22.md) | 554  | medium | array  | [Brick Wall](https://leetcode.com/problems/brick-wall/)                                               |
 | [2021-04-23](2021/04/23.md) | 696  | easy   | string | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)                     |
 | [2021-04-24](2021/04/24.md) | 1192 | hard   | string | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |
+| [2021-04-25](2021/04/25.md) | 48   | medium | array  | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                           |

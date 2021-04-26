@@ -21,3 +21,4 @@
 | [2021-04-23](2021/04/23.md) | 696  | easy   | string | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)                     |
 | [2021-04-24](2021/04/24.md) | 1192 | hard   | string | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |
 | [2021-04-25](2021/04/25.md) | 48   | medium | array  | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                           |
+| [2021-04-26](2021/04/26.md) | 1642 | medium | array  | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)     |

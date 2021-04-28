@@ -1,13 +1,13 @@
 package apr
 
-import . "leetcode/common"
+import "leetcode/common"
 
 // 解法一
-func removeNthFromEnd(head *ListNode, n int) *ListNode {
+func removeNthFromEnd(head *common.ListNode, n int) *common.ListNode {
 	if head == nil {
 		return nil
 	}
-	var fast, slow *ListNode
+	var fast, slow *common.ListNode
 	fast = head
 	slow = head
 	step := 0
@@ -32,7 +32,7 @@ func removeNthFromEnd(head *ListNode, n int) *ListNode {
 }
 
 // 解法二
-func removeNthFromEnd1(head *ListNode, n int) *ListNode {
+func removeNthFromEnd1(head *common.ListNode, n int) *common.ListNode {
 	if head == nil {
 		return nil
 	}

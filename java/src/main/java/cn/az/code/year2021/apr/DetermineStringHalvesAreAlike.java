@@ -2,7 +2,6 @@ package cn.az.code.year2021.apr;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Locale;
 import java.util.Set;
 
 /**

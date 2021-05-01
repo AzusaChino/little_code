@@ -7,6 +7,7 @@ package cn.az.code.common;
 public class TrieNode {
 
     public boolean isWord;
+    public int weight;
     public TrieNode[] children = new TrieNode[26];
 
     public TrieNode() {

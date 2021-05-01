@@ -47,6 +47,7 @@
 
 ## 2021-05
 
-| Date                        | No  | Level | Tag  | Title        |
-| --------------------------- | --- | ----- | ---- | ------------ |
-| [2021-05-01](2021/05/01.md) | 104 | easy  | tree | [title](url) |
+| Date                        | No  | Level | Tag    | Title                                                                               |
+| --------------------------- | --- | ----- | ------ | ----------------------------------------------------------------------------------- |
+| [2021-05-01](2021/05/01.md) | 745 | hard  | string | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) |
+| [2021-05-02](2021/05/02.md) | 104 | easy  | tree   | [title](url)                                                                        |

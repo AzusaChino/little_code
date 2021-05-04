@@ -144,39 +144,39 @@
 
 ## 2021-03
 
-| Date                        | No   | Level  | Tag    | Title        |
-| --------------------------- | ---- | ------ | ------ | ------------ |
-| [2021-03-01](2021/03/01.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-02](2021/03/02.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-03](2021/03/03.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-03](2021/03/04.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-05](2021/03/05.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-06](2021/03/06.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-07](2021/03/07.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-08](2021/03/08.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-09](2021/03/09.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-10](2021/03/10.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-11](2021/03/11.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-12](2021/03/12.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-13](2021/03/13.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-14](2021/03/14.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-15](2021/03/15.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-16](2021/03/16.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-17](2021/03/17.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-18](2021/03/18.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-19](2021/03/19.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-20](2021/03/20.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-21](2021/03/21.md) | 103  | easy   | tree   | [title](url) |
-| [2021-03-22](2021/03/22.md) | 554  | medium | array  | [title](url) |
-| [2021-03-23](2021/03/23.md) | 696  | easy   | string | [title](url) |
-| [2021-03-24](2021/03/24.md) | 1192 | hard   | string | [title](url) |
-| [2021-03-25](2021/03/25.md) | 48   | medium | array  | [title](url) |
-| [2021-03-26](2021/03/26.md) | 1642 | medium | array  | [title](url) |
-| [2021-03-27](2021/03/27.md) | 326  | easy   | math   | [title](url) |
-| [2021-03-28](2021/03/28.md) | 63   | medium | dp     | [title](url) |
-| [2021-03-29](2021/03/29.md) | 34   | medium | array  | [title](url) |
-| [2021-03-30](2021/03/30.md) | 970  | medium | math   | [title](url) |
-| [2021-03-31](2021/03/31.md) | 970  | medium | math   | [title](url) |
+| Date                        | No   | Level  | Tag        | Title                                                                                                                                         |
+| --------------------------- | ---- | ------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2021-03-01](2021/03/01.md) | 575  | easy   | array      | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)                                                                       |
+| [2021-03-02](2021/03/02.md) | 645  | easy   | array      | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                                                   |
+| [2021-03-03](2021/03/03.md) | 268  | easy   | array      | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                               |
+| [2021-03-04](2021/03/04.md) | 160  | easy   | linkedlist | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                           |
+| [2021-03-05](2021/03/05.md) | 637  | easy   | tree       | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)                                           |
+| [2021-03-06](2021/03/06.md) | 820  | medium | string     | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)                                                             |
+| [2021-03-07](2021/03/07.md) | 706  | easy   | design     | [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                                               |
+| [2021-03-08](2021/03/08.md) | 1332 | easy   | string     | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)                                             |
+| [2021-03-09](2021/03/09.md) | 623  | medium | tree       | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)                                                                     |
+| [2021-03-10](2021/03/10.md) | 12   | medium | string     | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                                           |
+| [2021-03-11](2021/03/11.md) | 322  | medium | dp         | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                     |
+| [2021-03-12](2021/03/12.md) | 1461 | medium | string     | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) |
+| [2021-03-13](2021/03/13.md) | 823  | medium | tree       | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)                                                         |
+| [2021-03-14](2021/03/14.md) | 1721 | medium | linkedlist | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)                                             |
+| [2021-03-15](2021/03/15.md) | 535  | medium | design     | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)                                                         |
+| [2021-03-16](2021/03/16.md) | 714  | medium | dp         | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)   |
+| [2021-03-17](2021/03/17.md) | 478  | medium | math       | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)                                         |
+| [2021-03-18](2021/03/18.md) | 376  | medium | string     | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)                                                                       |
+| [2021-03-19](2021/03/19.md) | 841  | medium | array      | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                                               |
+| [2021-03-20](2021/03/20.md) | 1396 | medium | design     | [Design Underground System](https://leetcode.com/problems/design-underground-system/)                                                         |
+| [2021-03-21](2021/03/21.md) | 869  | medium | binary     | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)                                                                   |
+| [2021-03-22](2021/03/22.md) | 966  | medium | string     | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)                                                                       |
+| [2021-03-23](2021/03/23.md) | 923  | medium | array      | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)                                                               |
+| [2021-03-24](2021/03/24.md) | 870  | medium | array      | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)                                                                         |
+| [2021-03-25](2021/03/25.md) | 417  | medium | array      | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                                     |
+| [2021-03-26](2021/03/26.md) | 916  | medium | string     | [Word Subsets](https://leetcode.com/problems/word-subsets/)                                                                                   |
+| [2021-03-27](2021/03/27.md) | 647  | medium | string     | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                               |
+| [2021-03-28](2021/03/28.md) | 423  | medium | binary     | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)                           |
+| [2021-03-29](2021/03/29.md) | 971  | medium | tree       | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)                   |
+| [2021-03-30](2021/03/30.md) | 354  | hard   | array      | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)                                                               |
+| [2021-03-31](2021/03/31.md) | 936  | hard   | string     | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)                                                                 |
 
 ## 2021-04
 

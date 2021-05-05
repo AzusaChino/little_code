@@ -148,7 +148,7 @@
 | [2021-05-02](05/02.md) | 630  | hard   | array  | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)           |
 | [2021-05-03](05/03.md) | 1480 | easy   | array  | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)   |
 | [2021-05-04](05/04.md) | 665  | medium | array  | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)         |
-| [2021-05-05](05/05.md) | 105  | easy   | tree   | [title](url)                                                                        |
+| [2021-05-05](05/05.md) | 45   | medium | array  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                         |
 | [2021-05-06](05/06.md) | 105  | easy   | tree   | [title](url)                                                                        |
 | [2021-05-07](05/07.md) | 105  | easy   | tree   | [title](url)                                                                        |
 | [2021-05-08](05/08.md) | 105  | easy   | tree   | [title](url)                                                                        |

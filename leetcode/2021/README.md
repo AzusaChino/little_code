@@ -38,38 +38,36 @@
 
 ## 2021-02
 
-| Date                   | No   | Level  | Tag    | Title        |
-| ---------------------- | ---- | ------ | ------ | ------------ |
-| [2021-02-01](02/01.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-02](02/02.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-03](02/03.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-02](02/04.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-05](02/05.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-06](02/06.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-07](02/07.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-08](02/08.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-09](02/09.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-10](02/10.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-11](02/11.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-12](02/12.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-13](02/13.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-14](02/14.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-15](02/15.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-16](02/16.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-17](02/17.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-18](02/18.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-19](02/19.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-20](02/20.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-21](02/21.md) | 102  | easy   | tree   | [title](url) |
-| [2021-02-22](02/22.md) | 554  | medium | array  | [title](url) |
-| [2021-02-23](02/23.md) | 696  | easy   | string | [title](url) |
-| [2021-02-24](02/24.md) | 1192 | hard   | string | [title](url) |
-| [2021-02-25](02/25.md) | 48   | medium | array  | [title](url) |
-| [2021-02-26](02/26.md) | 1642 | medium | array  | [title](url) |
-| [2021-02-27](02/27.md) | 326  | easy   | math   | [title](url) |
-| [2021-02-28](02/28.md) | 63   | medium | dp     | [title](url) |
-| [2021-02-29](02/29.md) | 34   | medium | array  | [title](url) |
-| [2021-02-30](02/30.md) | 970  | medium | math   | [title](url) |
+| Date                   | No   | Level  | Tag        | Title                                                                                                                     |
+| ---------------------- | ---- | ------ | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [2021-02-01](02/01.md) | 191  | easy   | binary     | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                       |
+| [2021-02-02](02/02.md) | 669  | medium | tree       | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)                                     |
+| [2021-02-03](02/03.md) | 141  | easy   | tree       | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                     |
+| [2021-02-02](02/04.md) | 594  | easy   | array      | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)                           |
+| [2021-02-05](02/05.md) | 71   | medium | string     | [Simplify Path](https://leetcode.com/problems/simplify-path/)                                                             |
+| [2021-02-06](02/06.md) | 199  | medium | tree       | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                 |
+| [2021-02-07](02/07.md) | 821  | easy   | string     | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)                       |
+| [2021-02-08](02/08.md) | 284  | medium | design     | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)                                                       |
+| [2021-02-09](02/09.md) | 538  | medium | tree       | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)                                 |
+| [2021-02-10](02/10.md) | 138  | medium | linkedlist | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                             |
+| [2021-02-11](02/11.md) | 242  | easy   | string     | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                             |
+| [2021-02-12](02/12.md) | 1342 | easy   | math       | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)   |
+| [2021-02-13](02/13.md) | 1091 | medium | matrix     | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)                           |
+| [2021-02-14](02/14.md) | 785  | medium | matrix     | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                                                  |
+| [2021-02-15](02/15.md) | 1337 | easy   | matrix     | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                           |
+| [2021-02-16](02/16.md) | 784  | medium | string     | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                         |
+| [2021-02-17](02/17.md) | 11   | medium | array      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                     |
+| [2021-02-18](02/18.md) | 413  | medium | array      | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)                                                     |
+| [2021-02-19](02/19.md) | 1249 | medium | string     | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)       |
+| [2021-02-20](02/20.md) | 13   | easy   | math       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                       |
+| [2021-02-21](02/21.md) | 991  | medium | math       | [Broken Calculator](https://leetcode.com/problems/broken-calculator/)                                                     |
+| [2021-02-22](02/22.md) | 524  | medium | string     | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) |
+| [2021-02-23](02/23.md) | 240  | medium | matrix     | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                             |
+| [2021-02-24](02/24.md) | 856  | medium | string     | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)                                               |
+| [2021-02-25](02/25.md) | 581  | medium | array      | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)             |
+| [2021-02-26](02/26.md) | 946  | medium | array      | [Validate Stack Sequences](<[url](https://leetcode.com/problems/validate-stack-sequences/)>)                              |
+| [2021-02-27](02/27.md) | 29   | medium | math       | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                 |
+| [2021-02-28](02/28.md) | 895  | hard   | stack      | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)                                         |
 
 ## 2021-03
 

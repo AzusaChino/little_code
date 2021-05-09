@@ -152,7 +152,7 @@
 | [2021-05-06](05/06.md) | 109  | medium | tree   | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |
 | [2021-05-07](05/07.md) | 583  | medium | string | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)                   |
 | [2021-05-08](05/08.md) | 906  | hard   | string | [Super Palindromes](https://leetcode.com/problems/super-palindromes/)                                                 |
-| [2021-05-09](05/09.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
+| [2021-05-09](05/09.md) | 1354 | hard   | array  | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) |
 | [2021-05-10](05/10.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
 | [2021-05-11](05/11.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
 | [2021-05-12](05/12.md) | 105  | easy   | tree   | [title](url)                                                                                                          |

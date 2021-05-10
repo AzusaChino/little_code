@@ -11,7 +11,7 @@ public class SortArrayByParity {
     public static void main(String[] args) {
         SortArrayByParity sp = new SortArrayByParity();
         SortArrayByParity2 sp2 = new SortArrayByParity2();
-//        System.out.println(Arrays.toString(sp.sortArrayByParity(new int[]{3, 2, 1, 2, 4})));
+        System.out.println(Arrays.toString(sp.sortArrayByParity(new int[]{3, 2, 1, 2, 4})));
         System.out.println(Arrays.toString(sp2.sortArrayByParityII(new int[]{3, 2, 1, 2, 4})));
     }
 

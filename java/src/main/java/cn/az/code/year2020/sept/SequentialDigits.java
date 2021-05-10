@@ -145,7 +145,6 @@ public class SequentialDigits {
                 12345678, 23456789,
                 123456789};
         List<Integer> res = new ArrayList<>();
-        int n = allNums.length;
         for (int allNum : allNums) {
             if (allNum < low) {
                 continue;

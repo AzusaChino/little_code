@@ -61,7 +61,6 @@ public class PrisonCellsAfterNDays {
     }
 
     private void changeCell(int[] cells) {
-        int l = 0, r = cells.length - 1;
         for (int j = 1; j < cells.length - 1; j++) {
             if (cells[j - 1] == cells[j + 1]) {
                 cells[j] = 1;

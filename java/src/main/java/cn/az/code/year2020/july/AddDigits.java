@@ -23,7 +23,4 @@ public class AddDigits {
         return addDigits(temp);
     }
 
-    private int helper(int num) {
-        return 0;
-    }
 }

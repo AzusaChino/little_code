@@ -2,9 +2,6 @@ package cn.az.code.year2020.sept;
 
 import cn.az.code.common.TreeNode;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @author az
  * @since 09/08/20

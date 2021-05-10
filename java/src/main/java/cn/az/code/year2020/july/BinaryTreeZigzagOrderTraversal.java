@@ -1,7 +1,6 @@
 package cn.az.code.year2020.july;
 
 import cn.az.code.common.TreeNode;
-import org.springframework.util.Assert;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -31,7 +30,6 @@ public class BinaryTreeZigzagOrderTraversal {
             while (size > 0) {
                 size--;
                 TreeNode cur = q.poll();
-                Assert.notNull(cur, "不可能为空");
                 if (flag) {
                     tmp.add(cur.val);
                 } else {

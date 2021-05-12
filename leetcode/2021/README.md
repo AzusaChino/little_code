@@ -155,7 +155,7 @@
 | [2021-05-09](05/09.md) | 1354 | hard   | array  | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) |
 | [2021-05-10](05/10.md) | 204  | easy   | math   | [Count Primes](https://leetcode.com/problems/count-primes/)                                                           |
 | [2021-05-11](05/11.md) | 1423 | medium | trick  | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)   |
-| [2021-05-12](05/12.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
+| [2021-05-12](05/12.md) | 304  | medium | matrix | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                         |
 | [2021-05-13](05/13.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
 | [2021-05-14](05/14.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
 | [2021-05-15](05/15.md) | 105  | easy   | tree   | [title](url)                                                                                                          |

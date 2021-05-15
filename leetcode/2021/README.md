@@ -158,7 +158,7 @@
 | [2021-05-12](05/12.md) | 304  | medium | matrix | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                         |
 | [2021-05-13](05/13.md) | 816  | medium | string | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)                                         |
 | [2021-05-14](05/14.md) | 114  | medium | tree   | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)               |
-| [2021-05-15](05/15.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
+| [2021-05-15](05/15.md) | 65   | hard   | math   | [Valid Number](https://leetcode.com/problems/valid-number/)                                                           |
 | [2021-05-16](05/16.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
 | [2021-05-17](05/17.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
 | [2021-05-18](05/18.md) | 105  | easy   | tree   | [title](url)                                                                                                          |

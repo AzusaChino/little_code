@@ -161,8 +161,8 @@
 | [2021-05-15](05/15.md) | 65   | hard   | math   | [Valid Number](https://leetcode.com/problems/valid-number/)                                                           |
 | [2021-05-16](05/16.md) | 968  | hard   | tree   | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)                                             |
 | [2021-05-17](05/17.md) | 1048 | medium | string | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                           |
-| [2021-05-18](05/18.md) | 609  | medium | trick  | [Find Duplicate File in System](<[url](https://leetcode.com/problems/find-duplicate-file-in-system/)>)                |
-| [2021-05-19](05/19.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
+| [2021-05-18](05/18.md) | 609  | medium | trick  | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)                         |
+| [2021-05-19](05/19.md) | 462  | medium | array  | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)   |
 | [2021-05-20](05/20.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
 | [2021-05-21](05/21.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
 | [2021-05-22](05/22.md) | 554  | medium | array  | [title](url)                                                                                                          |

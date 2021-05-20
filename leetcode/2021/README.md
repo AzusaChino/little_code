@@ -163,8 +163,8 @@
 | [2021-05-17](05/17.md) | 1048 | medium | string | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                           |
 | [2021-05-18](05/18.md) | 609  | medium | trick  | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)                         |
 | [2021-05-19](05/19.md) | 462  | medium | array  | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)   |
-| [2021-05-20](05/20.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
-| [2021-05-21](05/21.md) | 105  | easy   | tree   | [title](url)                                                                                                          |
+| [2021-05-20](05/20.md) | 102  | medium | tree   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                 |
+| [2021-05-21](05/21.md) | 102  | medium | tree   | [title](url)                                                                                                          |
 | [2021-05-22](05/22.md) | 554  | medium | array  | [title](url)                                                                                                          |
 | [2021-05-23](05/23.md) | 696  | easy   | string | [title](url)                                                                                                          |
 | [2021-05-24](05/24.md) | 1192 | hard   | string | [title](url)                                                                                                          |

@@ -165,7 +165,7 @@
 | [2021-05-19](05/19.md) | 462  | medium | array  | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)   |
 | [2021-05-20](05/20.md) | 102  | medium | tree   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                 |
 | [2021-05-21](05/21.md) | 890  | medium | string | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                   |
-| [2021-05-22](05/22.md) | 554  | medium | array  | [title](url)                                                                                                          |
+| [2021-05-22](05/22.md) | 554  | medium | array  | [N-Queens](url)                                                                                                          |
 | [2021-05-23](05/23.md) | 696  | easy   | string | [title](url)                                                                                                          |
 | [2021-05-24](05/24.md) | 1192 | hard   | string | [title](url)                                                                                                          |
 | [2021-05-25](05/25.md) | 48   | medium | array  | [title](url)                                                                                                          |

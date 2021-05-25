@@ -168,7 +168,7 @@
 | [2021-05-22](05/22.md) | 554  | medium | array  | [N-Queens](https://leetcode.com/problems/n-queens/)                                                                   |
 | [2021-05-23](05/23.md) | 943  | hard   | string | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)                         |
 | [2021-05-24](05/24.md) | 709  | easy   | string | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                         |
-| [2021-05-25](05/25.md) | 48   | medium | array  | [title](url)                                                                                                          |
+| [2021-05-25](05/25.md) | 150  | medium | math   | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                   |
 | [2021-05-26](05/26.md) | 1642 | medium | array  | [title](url)                                                                                                          |
 | [2021-05-27](05/27.md) | 326  | easy   | math   | [title](url)                                                                                                          |
 | [2021-05-28](05/28.md) | 63   | medium | dp     | [title](url)                                                                                                          |

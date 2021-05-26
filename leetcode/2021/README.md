@@ -142,36 +142,36 @@
 
 ## 2021-05
 
-| Date                   | No   | Level  | Tag    | Title                                                                                                                 |
-| ---------------------- | ---- | ------ | ------ | --------------------------------------------------------------------------------------------------------------------- |
-| [2021-05-01](05/01.md) | 745  | hard   | string | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)                                   |
-| [2021-05-02](05/02.md) | 630  | hard   | array  | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)                                             |
-| [2021-05-03](05/03.md) | 1480 | easy   | array  | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                     |
-| [2021-05-04](05/04.md) | 665  | medium | array  | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)                                           |
-| [2021-05-05](05/05.md) | 45   | medium | array  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                           |
-| [2021-05-06](05/06.md) | 109  | medium | tree   | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |
-| [2021-05-07](05/07.md) | 583  | medium | string | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)                   |
-| [2021-05-08](05/08.md) | 906  | hard   | string | [Super Palindromes](https://leetcode.com/problems/super-palindromes/)                                                 |
-| [2021-05-09](05/09.md) | 1354 | hard   | array  | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) |
-| [2021-05-10](05/10.md) | 204  | easy   | math   | [Count Primes](https://leetcode.com/problems/count-primes/)                                                           |
-| [2021-05-11](05/11.md) | 1423 | medium | trick  | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)   |
-| [2021-05-12](05/12.md) | 304  | medium | matrix | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                         |
-| [2021-05-13](05/13.md) | 816  | medium | string | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)                                         |
-| [2021-05-14](05/14.md) | 114  | medium | tree   | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)               |
-| [2021-05-15](05/15.md) | 65   | hard   | math   | [Valid Number](https://leetcode.com/problems/valid-number/)                                                           |
-| [2021-05-16](05/16.md) | 968  | hard   | tree   | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)                                             |
-| [2021-05-17](05/17.md) | 1048 | medium | string | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                           |
-| [2021-05-18](05/18.md) | 609  | medium | trick  | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)                         |
-| [2021-05-19](05/19.md) | 462  | medium | array  | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)   |
-| [2021-05-20](05/20.md) | 102  | medium | tree   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                 |
-| [2021-05-21](05/21.md) | 890  | medium | string | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                   |
-| [2021-05-22](05/22.md) | 554  | medium | array  | [N-Queens](https://leetcode.com/problems/n-queens/)                                                                   |
-| [2021-05-23](05/23.md) | 943  | hard   | string | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)                         |
-| [2021-05-24](05/24.md) | 709  | easy   | string | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                         |
-| [2021-05-25](05/25.md) | 150  | medium | math   | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                   |
-| [2021-05-26](05/26.md) | 1642 | medium | array  | [title](url)                                                                                                          |
-| [2021-05-27](05/27.md) | 326  | easy   | math   | [title](url)                                                                                                          |
-| [2021-05-28](05/28.md) | 63   | medium | dp     | [title](url)                                                                                                          |
-| [2021-05-29](05/29.md) | 34   | medium | array  | [title](url)                                                                                                          |
-| [2021-05-30](05/30.md) | 970  | medium | math   | [title](url)                                                                                                          |
-| [2021-05-31](05/31.md) | 970  | medium | math   | [title](url)                                                                                                          |
+| Date                   | No   | Level  | Tag    | Title                                                                                                                                             |
+| ---------------------- | ---- | ------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2021-05-01](05/01.md) | 745  | hard   | string | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)                                                               |
+| [2021-05-02](05/02.md) | 630  | hard   | array  | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)                                                                         |
+| [2021-05-03](05/03.md) | 1480 | easy   | array  | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                 |
+| [2021-05-04](05/04.md) | 665  | medium | array  | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)                                                                       |
+| [2021-05-05](05/05.md) | 45   | medium | array  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                       |
+| [2021-05-06](05/06.md) | 109  | medium | tree   | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)                             |
+| [2021-05-07](05/07.md) | 583  | medium | string | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)                                               |
+| [2021-05-08](05/08.md) | 906  | hard   | string | [Super Palindromes](https://leetcode.com/problems/super-palindromes/)                                                                             |
+| [2021-05-09](05/09.md) | 1354 | hard   | array  | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)                             |
+| [2021-05-10](05/10.md) | 204  | easy   | math   | [Count Primes](https://leetcode.com/problems/count-primes/)                                                                                       |
+| [2021-05-11](05/11.md) | 1423 | medium | trick  | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)                               |
+| [2021-05-12](05/12.md) | 304  | medium | matrix | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                                                     |
+| [2021-05-13](05/13.md) | 816  | medium | string | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)                                                                     |
+| [2021-05-14](05/14.md) | 114  | medium | tree   | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)                                           |
+| [2021-05-15](05/15.md) | 65   | hard   | math   | [Valid Number](https://leetcode.com/problems/valid-number/)                                                                                       |
+| [2021-05-16](05/16.md) | 968  | hard   | tree   | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)                                                                         |
+| [2021-05-17](05/17.md) | 1048 | medium | string | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                                       |
+| [2021-05-18](05/18.md) | 609  | medium | trick  | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)                                                     |
+| [2021-05-19](05/19.md) | 462  | medium | array  | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)                               |
+| [2021-05-20](05/20.md) | 102  | medium | tree   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                             |
+| [2021-05-21](05/21.md) | 890  | medium | string | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                                               |
+| [2021-05-22](05/22.md) | 554  | medium | array  | [N-Queens](https://leetcode.com/problems/n-queens/)                                                                                               |
+| [2021-05-23](05/23.md) | 943  | hard   | string | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)                                                     |
+| [2021-05-24](05/24.md) | 709  | easy   | string | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                                     |
+| [2021-05-25](05/25.md) | 150  | medium | math   | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                               |
+| [2021-05-26](05/26.md) | 1689 | medium | bit    | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) |
+| [2021-05-27](05/27.md) | 326  | easy   | math   | [title](url)                                                                                                                                      |
+| [2021-05-28](05/28.md) | 63   | medium | dp     | [title](url)                                                                                                                                      |
+| [2021-05-29](05/29.md) | 34   | medium | array  | [title](url)                                                                                                                                      |
+| [2021-05-30](05/30.md) | 970  | medium | math   | [title](url)                                                                                                                                      |
+| [2021-05-31](05/31.md) | 970  | medium | math   | [title](url)                                                                                                                                      |

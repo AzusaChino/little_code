@@ -7,7 +7,6 @@
 **/.gradle/
 
 venv/
-*.json
 *.class
 **/cmake-build-debug/
 
@@ -22,3 +21,5 @@ org.*
 .factorypath
 
 **/.vs
+**/.vscode
+**/node_modules

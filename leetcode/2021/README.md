@@ -172,8 +172,8 @@
 | [2021-05-26](05/26.md) | 1689 | medium | bit    | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) |
 | [2021-05-27](05/27.md) | 318  | medium | bit    | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)                                                 |
 | [2021-05-28](05/28.md) | 1695 | medium | array  | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)                                                                     |
-| [2021-05-29](05/29.md) | 34   | medium | array  | [title](url)                                                                                                                                      |
-| [2021-05-30](05/30.md) | 970  | medium | math   | [title](url)                                                                                                                                      |
+| [2021-05-29](05/29.md) | 52   | hard   | array  | [N Queen2 II](https://leetcode.com/problems/n-queens-ii/)                                                                                         |
+| [2021-05-30](05/30.md) | 164  | hard   | array  | [Maximum Gap](https://leetcode.com/problems/maximum-gap/)                                                                                         |
 | [2021-05-31](05/31.md) | 970  | medium | math   | [title](url)                                                                                                                                      |
 
 ## 2021-06

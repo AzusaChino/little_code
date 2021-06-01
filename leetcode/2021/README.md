@@ -180,7 +180,7 @@
 
 | Date                   | No  | Level | Tag  | Title        |
 | ---------------------- | --- | ----- | ---- | ------------ |
-| [2021-06-01](06/01.md) | 39  | easy  | tree | [title](url) |
+| [2021-06-01](06/01.md) | 695  | medium  | matrix | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) |
 | [2021-06-02](06/02.md) | 39  | easy  | tree | [title](url) |
 | [2021-06-03](06/03.md) | 39  | easy  | tree | [title](url) |
 | [2021-06-04](06/04.md) | 39  | easy  | tree | [title](url) |

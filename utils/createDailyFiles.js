@@ -57,6 +57,6 @@ const createFiles = (year = `2021`, month = `june`) => {
 
 const up = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
 
-const createMayFiles = createFiles("2021", "may");
+const createMayFiles = createFiles("2021", "june");
 
-createMayFiles(`05`, `30`, "Maximum Gap");
+createMayFiles(`06`, `01`, "Max");

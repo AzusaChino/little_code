@@ -51,7 +51,7 @@ const createFiles = (year = `2021`, month = `june`) => {
     shell.sed(`-i`, "DATE", `${year}-${m}-${d}`, `${javaTitle}.java`);
     shell.sed(`-i`, "CLZ", `${javaTitle}`, `${javaTitle}.java`);
 
-    console.log(`${m}.${d} 文件创建成功`);
+    console.log(`${m}.${d} ${title}创建成功`);
   };
 };
 

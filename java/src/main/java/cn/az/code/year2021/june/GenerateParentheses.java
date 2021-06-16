@@ -1,37 +1,21 @@
-# 2021-06-16
+package cn.az.code.year2021.june;
 
-## 22. Generate Parentheses
+import java.util.ArrayList;
+import java.util.List;
 
-Given `n` pairs of parentheses, write a function to *generate all combinations of well-formed parentheses*.
+/**
+ * @author az
+ * @since 2021-06-16
+ */
+public class GenerateParentheses {
 
-**Example 1:**
-
-```s
-Input: n = 3
-Output: ["((()))","(()())","(())()","()(())","()()()"]
-```
-
-**Example 2:**
-
-```s
-Input: n = 1
-Output: ["()"]
-```
-
-**Constraints:**
-
-- `1 <= n <= 8`
-
----
-
-```java
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
         helper(res, "", 0, 0, n);
         return res;
     }
 
-    // result, current state, index, end condition
+    // result, current state, index, end 
     private void helper(List<String> list, String str, int open, int close, int max) {
         if (str.length() == max << 1) {
             list.add(str);
@@ -44,4 +28,4 @@ Output: ["()"]
             helper(list, str + ")", open, close + 1, max);
         }
     }
-```
+}

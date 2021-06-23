@@ -1,35 +1,32 @@
 #ifndef CPP_COMMON_H
 #define CPP_COMMON_H
 
-#endif //CPP_COMMON_H
+#endif  // CPP_COMMON_H
 
-class ListNode
-{
+class ListNode {
 public:
-    int val;
+    int       val;
     ListNode *next;
 
     ListNode() {}
-    ListNode(int val) : val(val) {}
+    ListNode(int val) : val(val), next(nullptr) {}
+    ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
-class TrieNode
-{
+class TrieNode {
 public:
-    bool isWord;
+    bool      isWord;
     TrieNode *children[];
 };
 
-class Trie
-{
+class Trie {
 public:
     TrieNode root;
 };
 
-class TreeNode
-{
+class TreeNode {
 public:
-    int val;
+    int       val;
     TreeNode *left;
     TreeNode *right;
     TreeNode(int val) : val(val) {}

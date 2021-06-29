@@ -208,7 +208,7 @@
 | [2021-06-26](06/26.md) | 315  | hard   | array         | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)                                                               |
 | [2021-06-27](06/27.md) | 135  | hard   | array         | [Candy](https://leetcode.com/problems/candy/)                                                                                                                           |
 | [2021-06-28](06/28.md) | 1047 | easy   | string        | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                                                     |
-| [2021-06-29](06/29.md) | 39   | easy   | tree          | [title](url)                                                                                                                                                            |
+| [2021-06-29](06/29.md) | 1004 | medium | array         | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                                                                     |
 | [2021-06-30](06/30.md) | 39   | easy   | tree          | [title](url)                                                                                                                                                            |
 
 ## 2021-07

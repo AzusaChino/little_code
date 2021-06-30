@@ -209,7 +209,7 @@
 | [2021-06-27](06/27.md) | 135  | hard   | array         | [Candy](https://leetcode.com/problems/candy/)                                                                                                                           |
 | [2021-06-28](06/28.md) | 1047 | easy   | string        | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                                                     |
 | [2021-06-29](06/29.md) | 1004 | medium | array         | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                                                                     |
-| [2021-06-30](06/30.md) | 39   | easy   | tree          | [title](url)                                                                                                                                                            |
+| [2021-06-30](06/30.md) | 236  | medium | tree          | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                                                       |
 
 ## 2021-07
 

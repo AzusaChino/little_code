@@ -9,9 +9,9 @@ const createFiles = (year = `2021`, month = `june`) => {
   const baseFolder = "E:\\Projects\\project-github\\little-code";
   const javaBasePackage = "java\\src\\main\\java\\cn\\az\\code";
   const arr = [
-    { folder: "cpp", ext: "cc" },
+    { folder: "cpp", ext: "cc", tmpl: "cpp.tmpl" },
     { folder: "go", ext: "go", tmpl: "go.tmpl" },
-    { folder: "python", ext: "py" },
+    { folder: "python", ext: "py", tmpl: "py.tmpl" },
   ];
   const folder = `java`;
   const tmpl = `java.tmpl`;

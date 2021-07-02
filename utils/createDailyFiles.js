@@ -20,21 +20,16 @@ const createFiles = (year = `2021`, month = `june`) => {
     const javaTitle = up(lodash.camelCase(title));
 
     arr.forEach(({ folder, ext, tmpl }) => {
-      if (tmpl) {
-        shell.cp(
-          `${baseFolder}\\${folder}\\${tmplFolder}\\${tmpl}`,
-          `${baseFolder}\\${folder}\\${year}\\${month}\\${kebabTitle}.${ext}`
-        );
-        shell.sed(
-          "-i",
-          `PKG`,
-          `package ${month}`,
-          `${baseFolder}\\${folder}\\${year}\\${month}\\${kebabTitle}.${ext}`
-        );
-      } else {
-        shell.cd(`${baseFolder}\\${folder}\\${year}\\${month}`);
-        shell.touch(`${kebabTitle}.${ext}`);
-      }
+      shell.cp(
+        `${baseFolder}\\${folder}\\${tmplFolder}\\${tmpl}`,
+        `${baseFolder}\\${folder}\\${year}\\${month}\\${kebabTitle}.${ext}`
+      );
+      shell.sed(
+        "-i",
+        `PKG`,
+        `package ${month}`,
+        `${baseFolder}\\${folder}\\${year}\\${month}\\${kebabTitle}.${ext}`
+      );
     });
 
     shell.cp(

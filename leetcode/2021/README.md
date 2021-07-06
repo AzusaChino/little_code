@@ -220,7 +220,7 @@
 | [2021-07-03](07/03.md) | 363  | hard   | matrix | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) |
 | [2021-07-04](07/04.md) | 1220 | hard   | string | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)                           |
 | [2021-07-05](07/05.md) | 566  | easy   | matrix | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                       |
-| [2021-07-06](07/06.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
+| [2021-07-06](07/06.md) | 1338 | medium | array  | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)                 |
 | [2021-07-07](07/07.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
 | [2021-07-08](07/08.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
 | [2021-07-09](07/09.md) | 39   | easy   | tree   | [title](url)                                                                                                  |

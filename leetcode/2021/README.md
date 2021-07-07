@@ -213,36 +213,36 @@
 
 ## 2021-07
 
-| Date                   | No   | Level  | Tag    | Title                                                                                                         |
-| ---------------------- | ---- | ------ | ------ | ------------------------------------------------------------------------------------------------------------- |
-| [2021-07-01](07/01.md) | 89   | medium | bit    | [Gray Code](https://leetcode.com/problems/gray-code/)                                                         |
-| [2021-07-02](07/02.md) | 658  | medium | array  | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)                             |
-| [2021-07-03](07/03.md) | 363  | hard   | matrix | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) |
-| [2021-07-04](07/04.md) | 1220 | hard   | string | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)                           |
-| [2021-07-05](07/05.md) | 566  | easy   | matrix | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                       |
-| [2021-07-06](07/06.md) | 1338 | medium | array  | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)                 |
-| [2021-07-07](07/07.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-08](07/08.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-09](07/09.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-10](07/10.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-11](07/11.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-12](07/12.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-13](07/13.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-14](07/14.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-15](07/15.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-16](07/16.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-17](07/17.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-18](07/18.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-19](07/19.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-20](07/20.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-21](07/21.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-22](07/22.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-23](07/23.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-24](07/24.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-25](07/25.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-26](07/26.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-27](07/27.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-28](07/28.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-29](07/29.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-30](07/30.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
-| [2021-07-31](07/31.md) | 39   | easy   | tree   | [title](url)                                                                                                  |
+| Date                   | No   | Level  | Tag    | Title                                                                                                             |
+| ---------------------- | ---- | ------ | ------ | ----------------------------------------------------------------------------------------------------------------- |
+| [2021-07-01](07/01.md) | 89   | medium | bit    | [Gray Code](https://leetcode.com/problems/gray-code/)                                                             |
+| [2021-07-02](07/02.md) | 658  | medium | array  | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)                                 |
+| [2021-07-03](07/03.md) | 363  | hard   | matrix | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)     |
+| [2021-07-04](07/04.md) | 1220 | hard   | string | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)                               |
+| [2021-07-05](07/05.md) | 566  | easy   | matrix | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                           |
+| [2021-07-06](07/06.md) | 1338 | medium | array  | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)                     |
+| [2021-07-07](07/07.md) | 378  | medium | matrix | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
+| [2021-07-08](07/08.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-09](07/09.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-10](07/10.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-11](07/11.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-12](07/12.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-13](07/13.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-14](07/14.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-15](07/15.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-16](07/16.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-17](07/17.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-18](07/18.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-19](07/19.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-20](07/20.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-21](07/21.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-22](07/22.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-23](07/23.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-24](07/24.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-25](07/25.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-26](07/26.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-27](07/27.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-28](07/28.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-29](07/29.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-30](07/30.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-31](07/31.md) | 39   | easy   | tree   | [title](url)                                                                                                      |

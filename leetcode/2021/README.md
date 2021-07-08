@@ -222,7 +222,7 @@
 | [2021-07-05](07/05.md) | 566  | easy   | matrix | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                           |
 | [2021-07-06](07/06.md) | 1338 | medium | array  | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)                     |
 | [2021-07-07](07/07.md) | 378  | medium | matrix | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
-| [2021-07-08](07/08.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
+| [2021-07-08](07/08.md) | 718  | medium | array  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)         |
 | [2021-07-09](07/09.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
 | [2021-07-10](07/10.md) | 39   | easy   | tree   | [title](url)                                                                                                      |
 | [2021-07-11](07/11.md) | 39   | easy   | tree   | [title](url)                                                                                                      |

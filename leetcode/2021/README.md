@@ -226,7 +226,7 @@
 | [2021-07-09](07/09.md) | 300  | medium | array         | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                   |
 | [2021-07-10](07/10.md) | 639  | hard   | string        | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)                                                   |
 | [2021-07-11](07/11.md) | 295  | hard   | string, array | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                       |
-| [2021-07-12](07/12.md) | 39   | easy   | tree          | [title](url)                                                                                                      |
+| [2021-07-12](07/12.md) | 205  | easy   | string        | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                           |
 | [2021-07-13](07/13.md) | 39   | easy   | tree          | [title](url)                                                                                                      |
 | [2021-07-14](07/14.md) | 39   | easy   | tree          | [title](url)                                                                                                      |
 | [2021-07-15](07/15.md) | 39   | easy   | tree          | [title](url)                                                                                                      |

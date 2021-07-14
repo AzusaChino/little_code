@@ -1,6 +1,7 @@
 package cn.az.code.year2021.july;
 
 import java.util.PriorityQueue;
+import java.util.Queue;
 
 /**
  * @author az
@@ -8,7 +9,7 @@ import java.util.PriorityQueue;
  */
 public class FindMedianFromDataStream {
 
-    private Queue<Long> small = new PriorityQueue(), large = new PriorityQueue();
+    private Queue<Long> small = new PriorityQueue<>(), large = new PriorityQueue<>();
 
     public void addNum(int num) {
         large.add((long) num);

@@ -229,7 +229,7 @@
 | [2021-07-12](07/12.md) | 205  | easy   | string        | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                           |
 | [2021-07-13](07/13.md) | 162  | medium | array         | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                             |
 | [2021-07-14](07/14.md) | 791  | medium | string        | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/)                                           |
-| [2021-07-15](07/15.md) | 39   | easy   | tree          | [title](url)                                                                                                      |
+| [2021-07-15](07/15.md) | 661  | medium | array         | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)                                     |
 | [2021-07-16](07/16.md) | 39   | easy   | tree          | [title](url)                                                                                                      |
 | [2021-07-17](07/17.md) | 39   | easy   | tree          | [title](url)                                                                                                      |
 | [2021-07-18](07/18.md) | 39   | easy   | tree          | [title](url)                                                                                                      |

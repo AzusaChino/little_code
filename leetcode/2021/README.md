@@ -232,7 +232,7 @@
 | [2021-07-15](07/15.md) | 661  | medium | array         | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)                                     |
 | [2021-07-16](07/16.md) | 18   | medium | array         | [4Sum](https://leetcode.com/problems/4sum/)                                                                       |
 | [2021-07-17](07/17.md) | 927  | hard   | array         | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)                                             |
-| [2021-07-18](07/18.md) | 39   | easy   | tree          | [title](url)                                           D                                                          |
+| [2021-07-18](07/18.md) | 25   | hard   | linkedlist    | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) D                             |
 | [2021-07-19](07/19.md) | 39   | easy   | tree          | [title](url)                                                                                                      |
 | [2021-07-20](07/20.md) | 39   | easy   | tree          | [title](url)                                                                                                      |
 | [2021-07-21](07/21.md) | 39   | easy   | tree          | [title](url)                                                                                                      |

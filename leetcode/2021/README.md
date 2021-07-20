@@ -234,7 +234,7 @@
 | [2021-07-17](07/17.md) | 927  | hard   | array         | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)                                                           |
 | [2021-07-18](07/18.md) | 25   | hard   | linkedlist    | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) D                                           |
 | [2021-07-19](07/19.md) | 235  | easy   | tree          | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
-| [2021-07-20](07/20.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-07-20](07/20.md) | 384  | mediun | string, array | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)                                                             |
 | [2021-07-21](07/21.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-22](07/22.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-23](07/23.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |

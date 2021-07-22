@@ -236,7 +236,7 @@
 | [2021-07-19](07/19.md) | 235  | easy   | tree          | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | [2021-07-20](07/20.md) | 384  | mediun | string, array | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)                                                             |
 | [2021-07-21](07/21.md) | 838  | medium | string        | [Push Dominoes](https://leetcode.com/problems/push-dominoes/)                                                                   |
-| [2021-07-22](07/22.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-07-22](07/22.md) | 915  | medium | array         | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)               |
 | [2021-07-23](07/23.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-24](07/24.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-25](07/25.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |

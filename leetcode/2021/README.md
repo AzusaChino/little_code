@@ -238,7 +238,7 @@
 | [2021-07-21](07/21.md) | 838  | medium | string        | [Push Dominoes](https://leetcode.com/problems/push-dominoes/)                                                                   |
 | [2021-07-22](07/22.md) | 915  | medium | array         | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)               |
 | [2021-07-23](07/23.md) | 814  | medium | tree          | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)                                                       |
-| [2021-07-24](07/24.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-07-24](07/24.md) | 126  | hard   | string, array | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)                                                                 |
 | [2021-07-25](07/25.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-26](07/26.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-27](07/27.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |

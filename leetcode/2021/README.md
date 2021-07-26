@@ -240,7 +240,7 @@
 | [2021-07-23](07/23.md) | 814  | medium | tree          | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)                                                       |
 | [2021-07-24](07/24.md) | 126  | hard   | string, array | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)                                                                 |
 | [2021-07-25](07/25.md) | 600  | hard   | math          | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) |
-| [2021-07-26](07/26.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-07-26](07/26.md) | 108  | easy   | tree          | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)         |
 | [2021-07-27](07/27.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-28](07/28.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-29](07/29.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |

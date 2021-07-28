@@ -242,7 +242,7 @@
 | [2021-07-25](07/25.md) | 600  | hard   | math          | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) |
 | [2021-07-26](07/26.md) | 108  | easy   | tree          | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)         |
 | [2021-07-27](07/27.md) | 16   | medium | array         | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                     |
-| [2021-07-28](07/28.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-07-28](07/28.md) | 932  | medium | math          | [Beautiful Array](https://leetcode.com/problems/beautiful-array/)                                                               |
 | [2021-07-29](07/29.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-30](07/30.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-07-31](07/31.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |

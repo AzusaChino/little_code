@@ -245,7 +245,7 @@
 | [2021-07-28](07/28.md) | 932  | medium | math          | [Beautiful Array](https://leetcode.com/problems/beautiful-array/)                                                               |
 | [2021-07-29](07/29.md) | 542  | medium | matrix        | [01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                           |
 | [2021-07-30](07/30.md) | 677  | medium | design        | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)                                                                   |
-| [2021-07-31](07/31.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-07-31](07/31.md) | 42   | hard   | array         | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                       |
 
 ### 2021-08
 

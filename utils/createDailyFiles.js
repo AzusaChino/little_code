@@ -5,7 +5,7 @@ const tmplFolder = `template`;
 const javaPackage = `cn.az.code`;
 
 // create daily lc files
-const createFiles = (year = `2021`, month = `june`) => {
+const createFiles = (year = `2021`, month) => {
   const baseFolder = "E:\\Projects\\project-github\\little-code";
   const javaBasePackage = "java\\src\\main\\java\\cn\\az\\code";
   const arr = [
@@ -52,6 +52,6 @@ const createFiles = (year = `2021`, month = `june`) => {
 
 const up = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
 
-const createJulyFiles = createFiles("2021", "july");
+const createJulyFiles = createFiles("2021", "aug");
 
-createJulyFiles(`07`, ``, ``);
+createJulyFiles(`08`, ``, ``);

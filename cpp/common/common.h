@@ -1,5 +1,6 @@
 #ifndef CPP_COMMON_H
 #define CPP_COMMON_H
+#include <vector>
 
 #endif  // CPP_COMMON_H
 
@@ -30,4 +31,19 @@ public:
     TreeNode *left;
     TreeNode *right;
     TreeNode(int val) : val(val) {}
+};
+
+class Node {
+public:
+    int            val;
+    vector<Node *> children;
+
+    Node() {}
+
+    Node(int _val) { val = _val; }
+
+    Node(int _val, vector<Node *> _children) {
+        val      = _val;
+        children = _children;
+    }
 };

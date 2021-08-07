@@ -257,7 +257,7 @@
 | [2021-08-04](08/04.md) | 113 | medium | tree   | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                           |
 | [2021-08-05](08/05.md) | 877 | medium | array  | [Stone Game](https://leetcode.com/problems/stone-game/)                                             |
 | [2021-08-06](08/06.md) | 429 | medium | tree   | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
-| [2021-08-07](08/07.md) | 39  | medium | array  | [title](url)                                                                                        |
+| [2021-08-07](08/07.md) | 132 | hard   | string | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)             |
 | [2021-08-08](08/08.md) | 39  | medium | array  | [title](url)                                                                                        |
 | [2021-08-09](08/09.md) | 39  | medium | array  | [title](url)                                                                                        |
 | [2021-08-10](08/10.md) | 39  | medium | array  | [title](url)                                                                                        |

@@ -259,7 +259,7 @@
 | [2021-08-06](08/06.md) | 429  | medium | tree   | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
 | [2021-08-07](08/07.md) | 132  | hard   | string | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)             |
 | [2021-08-08](08/08.md) | 1632 | hard   | matrix | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)             |
-| [2021-08-09](08/09.md) | 39   | medium | array  | [title](url)                                                                                        |
+| [2021-08-09](08/09.md) | 415  | easy   | string | [Add Strings](https://leetcode.com/problems/add-strings/)                                           |
 | [2021-08-10](08/10.md) | 39   | medium | array  | [title](url)                                                                                        |
 | [2021-08-11](08/11.md) | 39   | medium | array  | [title](url)                                                                                        |
 | [2021-08-12](08/12.md) | 39   | medium | array  | [title](url)                                                                                        |

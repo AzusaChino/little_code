@@ -261,7 +261,7 @@
 | [2021-08-08](08/08.md) | 1632 | hard   | matrix | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)                 |
 | [2021-08-09](08/09.md) | 415  | easy   | string | [Add Strings](https://leetcode.com/problems/add-strings/)                                               |
 | [2021-08-10](08/10.md) | 926  | medium | string | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) |
-| [2021-08-11](08/11.md) | 39   | medium | array  | [title](url)                                                                                            |
+| [2021-08-11](08/11.md) | 954  | medium | array  | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)                         |
 | [2021-08-12](08/12.md) | 39   | medium | array  | [title](url)                                                                                            |
 | [2021-08-13](08/13.md) | 39   | medium | array  | [title](url)                                                                                            |
 | [2021-08-14](08/14.md) | 39   | medium | array  | [title](url)                                                                                            |

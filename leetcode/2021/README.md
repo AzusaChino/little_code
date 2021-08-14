@@ -264,7 +264,7 @@
 | [2021-08-11](08/11.md) | 954  | medium | array        | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)                         |
 | [2021-08-12](08/12.md) | 49   | medium | array,string | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                         |
 | [2021-08-13](08/13.md) | 73   | medium | matrix       | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                   |
-| [2021-08-14](08/14.md) | 49   | medium | array        | [title](url)                                                                                            |
+| [2021-08-14](08/14.md) | 546  | hard   | array        | [Remove Boxes](https://leetcode.com/problems/remove-boxes/)                                             |
 | [2021-08-15](08/15.md) | 39   | medium | array        | [title](url)                                                                                            |
 | [2021-08-16](08/16.md) | 39   | medium | array        | [title](url)                                                                                            |
 | [2021-08-17](08/17.md) | 39   | medium | array        | [title](url)                                                                                            |

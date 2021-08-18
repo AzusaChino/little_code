@@ -268,7 +268,7 @@
 | [2021-08-15](08/15.md) | 76   | hard   | string       | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                     |
 | [2021-08-16](08/16.md) | 303  | easy   | array        | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                 |
 | [2021-08-17](08/17.md) | 1448 | medium | tree         | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)       |
-| [2021-08-18](08/18.md) | 39   | medium | array        | [title](url)                                                                                            |
+| [2021-08-18](08/18.md) | 91   | medium | string       | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                               |
 | [2021-08-19](08/19.md) | 39   | medium | array        | [title](url)                                                                                            |
 | [2021-08-20](08/20.md) | 39   | medium | array        | [title](url)                                                                                            |
 | [2021-08-21](08/21.md) | 39   | medium | array        | [title](url)                                                                                            |

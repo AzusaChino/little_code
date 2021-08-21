@@ -271,7 +271,7 @@
 | [2021-08-18](08/18.md) | 91   | medium | string       | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                         |
 | [2021-08-19](08/19.md) | 1339 | medium | tree         | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) |
 | [2021-08-20](08/20.md) | 36   | medium | matrix       | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                       |
-| [2021-08-21](08/21.md) | 39   | medium | array        | [title](url)                                                                                                      |
+| [2021-08-21](08/21.md) | 37   | hard   | matrix       | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                                     |
 | [2021-08-22](08/22.md) | 39   | medium | array        | [title](url)                                                                                                      |
 | [2021-08-23](08/23.md) | 39   | medium | array        | [title](url)                                                                                                      |
 | [2021-08-24](08/24.md) | 39   | medium | array        | [title](url)                                                                                                      |

@@ -274,7 +274,7 @@
 | [2021-08-21](08/21.md) | 37   | hard   | matrix       | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                                     |
 | [2021-08-22](08/22.md) | 850  | hard   | matrix       | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)                                             |
 | [2021-08-23](08/23.md) | 653  | easy   | tree         | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                           |
-| [2021-08-24](08/24.md) | 39   | medium | array        | [title](url)                                                                                                      |
+| [2021-08-24](08/24.md) | 537  | medium | string       | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)                     |
 | [2021-08-25](08/25.md) | 39   | medium | array        | [title](url)                                                                                                      |
 | [2021-08-26](08/26.md) | 39   | medium | array        | [title](url)                                                                                                      |
 | [2021-08-27](08/27.md) | 39   | medium | array        | [title](url)                                                                                                      |

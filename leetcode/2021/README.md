@@ -249,36 +249,36 @@
 
 ### 2021-08
 
-| Date                   | No   | Level  | Tag          | Title                                                                                                                           |
-| ---------------------- | ---- | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| [2021-08-01](08/01.md) | 827  | hard   | matrix       | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/)                                                   |
-| [2021-08-02](08/02.md) | 1    | easy   | array        | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               |
-| [2021-08-03](08/03.md) | 90   | medium | array        | [Subsets II](https://leetcode.com/problems/subsets-ii/)                                                                         |
-| [2021-08-04](08/04.md) | 113  | medium | tree         | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                       |
-| [2021-08-05](08/05.md) | 877  | medium | array        | [Stone Game](https://leetcode.com/problems/stone-game/)                                                                         |
-| [2021-08-06](08/06.md) | 429  | medium | tree         | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)                             |
-| [2021-08-07](08/07.md) | 132  | hard   | string       | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)                                         |
-| [2021-08-08](08/08.md) | 1632 | hard   | matrix       | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)                                         |
-| [2021-08-09](08/09.md) | 415  | easy   | string       | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                       |
-| [2021-08-10](08/10.md) | 926  | medium | string       | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)                         |
-| [2021-08-11](08/11.md) | 954  | medium | array        | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)                                                 |
-| [2021-08-12](08/12.md) | 49   | medium | array,string | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 |
-| [2021-08-13](08/13.md) | 73   | medium | matrix       | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           |
-| [2021-08-14](08/14.md) | 546  | hard   | array        | [Remove Boxes](https://leetcode.com/problems/remove-boxes/)                                                                     |
-| [2021-08-15](08/15.md) | 76   | hard   | string       | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             |
-| [2021-08-16](08/16.md) | 303  | easy   | array        | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                         |
-| [2021-08-17](08/17.md) | 1448 | medium | tree         | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                               |
-| [2021-08-18](08/18.md) | 91   | medium | string       | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                       |
-| [2021-08-19](08/19.md) | 1339 | medium | tree         | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)               |
-| [2021-08-20](08/20.md) | 36   | medium | matrix       | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     |
-| [2021-08-21](08/21.md) | 37   | hard   | matrix       | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                                                   |
-| [2021-08-22](08/22.md) | 850  | hard   | matrix       | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)                                                           |
-| [2021-08-23](08/23.md) | 653  | easy   | tree         | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                         |
-| [2021-08-24](08/24.md) | 537  | medium | string       | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)                                   |
-| [2021-08-25](08/25.md) | 633  | medium | number       | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)                                                   |
-| [2021-08-26](08/26.md) | 331  | medium | tree         | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) |
-| [2021-08-27](08/27.md) | 39   | medium | array        | [title](url)                                                                                                                    |
-| [2021-08-28](08/28.md) | 39   | medium | array        | [title](url)                                                                                                                    |
-| [2021-08-29](08/29.md) | 39   | medium | array        | [title](url)                                                                                                                    |
-| [2021-08-30](08/30.md) | 39   | medium | array        | [title](url)                                                                                                                    |
-| [2021-08-31](08/31.md) | 39   | medium | array        | [title](url)                                                                                                                    |
+| Date                   | No   | Level  | Tag           | Title                                                                                                                           |
+| ---------------------- | ---- | ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [2021-08-01](08/01.md) | 827  | hard   | matrix        | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/)                                                   |
+| [2021-08-02](08/02.md) | 1    | easy   | array         | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               |
+| [2021-08-03](08/03.md) | 90   | medium | array         | [Subsets II](https://leetcode.com/problems/subsets-ii/)                                                                         |
+| [2021-08-04](08/04.md) | 113  | medium | tree          | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                       |
+| [2021-08-05](08/05.md) | 877  | medium | array         | [Stone Game](https://leetcode.com/problems/stone-game/)                                                                         |
+| [2021-08-06](08/06.md) | 429  | medium | tree          | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)                             |
+| [2021-08-07](08/07.md) | 132  | hard   | string        | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)                                         |
+| [2021-08-08](08/08.md) | 1632 | hard   | matrix        | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)                                         |
+| [2021-08-09](08/09.md) | 415  | easy   | string        | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                       |
+| [2021-08-10](08/10.md) | 926  | medium | string        | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)                         |
+| [2021-08-11](08/11.md) | 954  | medium | array         | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)                                                 |
+| [2021-08-12](08/12.md) | 49   | medium | array,string  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 |
+| [2021-08-13](08/13.md) | 73   | medium | matrix        | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           |
+| [2021-08-14](08/14.md) | 546  | hard   | array         | [Remove Boxes](https://leetcode.com/problems/remove-boxes/)                                                                     |
+| [2021-08-15](08/15.md) | 76   | hard   | string        | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             |
+| [2021-08-16](08/16.md) | 303  | easy   | array         | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                         |
+| [2021-08-17](08/17.md) | 1448 | medium | tree          | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                               |
+| [2021-08-18](08/18.md) | 91   | medium | string        | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                       |
+| [2021-08-19](08/19.md) | 1339 | medium | tree          | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)               |
+| [2021-08-20](08/20.md) | 36   | medium | matrix        | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     |
+| [2021-08-21](08/21.md) | 37   | hard   | matrix        | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                                                   |
+| [2021-08-22](08/22.md) | 850  | hard   | matrix        | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)                                                           |
+| [2021-08-23](08/23.md) | 653  | easy   | tree          | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                         |
+| [2021-08-24](08/24.md) | 537  | medium | string        | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)                                   |
+| [2021-08-25](08/25.md) | 633  | medium | number        | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)                                                   |
+| [2021-08-26](08/26.md) | 331  | medium | tree          | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) |
+| [2021-08-27](08/27.md) | 522  | medium | string, array | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)                               |
+| [2021-08-28](08/28.md) | 39   | medium | array         | [title](url)                                                                                                                    |
+| [2021-08-29](08/29.md) | 39   | medium | array         | [title](url)                                                                                                                    |
+| [2021-08-30](08/30.md) | 39   | medium | array         | [title](url)                                                                                                                    |
+| [2021-08-31](08/31.md) | 39   | medium | array         | [title](url)                                                                                                                    |

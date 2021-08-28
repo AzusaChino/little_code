@@ -278,7 +278,7 @@
 | [2021-08-25](08/25.md) | 633  | medium | number        | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)                                                   |
 | [2021-08-26](08/26.md) | 331  | medium | tree          | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) |
 | [2021-08-27](08/27.md) | 522  | medium | string, array | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)                               |
-| [2021-08-28](08/28.md) | 39   | medium | array         | [title](url)                                                                                                                    |
+| [2021-08-28](08/28.md) | 1235 | hard   | array         | [aximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)                              |
 | [2021-08-29](08/29.md) | 39   | medium | array         | [title](url)                                                                                                                    |
 | [2021-08-30](08/30.md) | 39   | medium | array         | [title](url)                                                                                                                    |
 | [2021-08-31](08/31.md) | 39   | medium | array         | [title](url)                                                                                                                    |

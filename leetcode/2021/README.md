@@ -280,7 +280,7 @@
 | [2021-08-27](08/27.md) | 522  | medium | string, array | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)                               |
 | [2021-08-28](08/28.md) | 1235 | hard   | array         | [aximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)                              |
 | [2021-08-29](08/29.md) | 330  | hard   | array         | [Patching Array](https://leetcode.com/problems/patching-array/)                                                                 |
-| [2021-08-30](08/30.md) | 39   | medium | array         | [title](url)                                                                                                                    |
+| [2021-08-30](08/30.md) | 598  | easy   | matrix        | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                                                           |
 | [2021-08-31](08/31.md) | 39   | medium | array         | [title](url)                                                                                                                    |
 
 ## 2021-09

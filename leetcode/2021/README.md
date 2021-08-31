@@ -281,7 +281,7 @@
 | [2021-08-28](08/28.md) | 1235 | hard   | array         | [aximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)                              |
 | [2021-08-29](08/29.md) | 330  | hard   | array         | [Patching Array](https://leetcode.com/problems/patching-array/)                                                                 |
 | [2021-08-30](08/30.md) | 598  | easy   | matrix        | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                                                           |
-| [2021-08-31](08/31.md) | 39   | medium | array         | [title](url)                                                                                                                    |
+| [2021-08-31](08/31.md) | 153  | medium | array         | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     |
 
 ## 2021-09
 

@@ -1,13 +1,41 @@
 const shell = require("shelljs");
 const lodash = require("lodash");
+const moment = require("moment");
+const path = require("path");
+
+const SEP = path.sep;
+
+const baseFolder = "E:\\Projects\\project-github\\little-code";
+const javaBasePackage = "java\\src\\main\\java\\cn\\az\\code";
 
 const tmplFolder = `template`;
 const javaPackage = `cn.az.code`;
 
+const dict = {
+  1: "jan",
+  2: "feb",
+  3: "mar",
+  4: "apr",
+  5: "may",
+  6: "june",
+  7: "july",
+  8: "aug",
+  9: "sept",
+  10: "oct",
+  11: "nov",
+  12: "dec",
+};
+
+const up = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
+
 // create daily lc files
-const createFiles = (year = `2021`, month) => {
-  const baseFolder = "E:\\Projects\\project-github\\little-code";
-  const javaBasePackage = "java\\src\\main\\java\\cn\\az\\code";
+const createFiles = (title) => {
+  const now = moment();
+  const year = now.year();
+  const m = now.month() + 1;
+  const day = now.date();
+  const month = dict[m];
+
   const arr = [
     { folder: "cpp", ext: "cc", tmpl: "cpp.tmpl" },
     { folder: "go", ext: "go", tmpl: "go.tmpl" },
@@ -15,43 +43,40 @@ const createFiles = (year = `2021`, month) => {
   ];
   const folder = `java`;
   const tmpl = `java.tmpl`;
-  return (m, d, title) => {
-    const kebabTitle = lodash.kebabCase(title);
-    const javaTitle = up(lodash.camelCase(title));
 
-    arr.forEach(({ folder, ext, tmpl }) => {
-      shell.cp(
-        `${baseFolder}\\${folder}\\${tmplFolder}\\${tmpl}`,
-        `${baseFolder}\\${folder}\\${year}\\${month}\\${kebabTitle}.${ext}`
-      );
-      shell.sed(
-        "-i",
-        `PKG`,
-        `package ${month}`,
-        `${baseFolder}\\${folder}\\${year}\\${month}\\${kebabTitle}.${ext}`
-      );
-    });
+  const kebabTitle = lodash.kebabCase(title);
+  const javaTitle = up(lodash.camelCase(title));
 
+  arr.forEach(({ folder, ext, tmpl }) => {
     shell.cp(
-      `${baseFolder}\\${folder}\\${tmplFolder}\\${tmpl}`,
-      `${baseFolder}\\${javaBasePackage}\\year${year}\\${month}\\${javaTitle}.java`
+      `${baseFolder}${SEP}${folder}${SEP}${tmplFolder}${SEP}${tmpl}`,
+      `${baseFolder}${SEP}${folder}${SEP}${year}${SEP}${month}${SEP}${kebabTitle}.${ext}`
     );
-    shell.cd(`${baseFolder}\\${javaBasePackage}\\year${year}\\${month}`);
     shell.sed(
-      `-i`,
-      "PKG",
-      `${javaPackage}.year${year}.${month};`,
-      `${javaTitle}.java`
+      "-i",
+      `PKG`,
+      `package ${month}`,
+      `${baseFolder}${SEP}${folder}${SEP}${year}${SEP}${month}${SEP}${kebabTitle}.${ext}`
     );
-    shell.sed(`-i`, "DATE", `${year}-${m}-${d}`, `${javaTitle}.java`);
-    shell.sed(`-i`, "CLZ", `${javaTitle}`, `${javaTitle}.java`);
+  });
 
-    console.log(`${m}.${d} ${title} 创建成功`);
-  };
+  shell.cp(
+    `${baseFolder}${SEP}${folder}${SEP}${tmplFolder}${SEP}${tmpl}`,
+    `${baseFolder}${SEP}${javaBasePackage}${SEP}year${year}${SEP}${month}${SEP}${javaTitle}.java`
+  );
+  shell.cd(
+    `${baseFolder}${SEP}${javaBasePackage}${SEP}year${year}${SEP}${month}`
+  );
+  shell.sed(
+    `-i`,
+    "PKG",
+    `${javaPackage}.year${year}.${month};`,
+    `${javaTitle}.java`
+  );
+  shell.sed(`-i`, "DATE", `${year}-${m}-${day}`, `${javaTitle}.java`);
+  shell.sed(`-i`, "CLZ", `${javaTitle}`, `${javaTitle}.java`);
+
+  console.log(`${now} ${title} 创建成功`);
 };
 
-const up = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
-
-const createJulyFiles = createFiles("2021", "aug");
-
-createJulyFiles(`08`, ``, ``);
+createFiles("Array Nesting");

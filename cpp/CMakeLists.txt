@@ -1,1 +1,3 @@
 PROJECT("cpp")
+
+INCLUDE(common)

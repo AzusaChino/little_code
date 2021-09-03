@@ -289,7 +289,7 @@
 | ---------------------- | --- | ------ | ----- | --------------------------------------------------------------------------------------------- |
 | [2021-09-01](09/01.md) | 565 | medium | array | [Array Nesting](https://leetcode.com/problems/array-nesting/)                                 |
 | [2021-09-02](09/02.md) | 95  | medium | tree  | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |
-| [2021-09-03](09/03.md) | 39  | easy   | tree  | [title](url)                                                                                  |
+| [2021-09-03](09/03.md) | 587 | hard   | array | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/)                             |
 | [2021-09-04](09/04.md) | 39  | easy   | tree  | [title](url)                                                                                  |
 | [2021-09-05](09/05.md) | 39  | easy   | tree  | [title](url)                                                                                  |
 | [2021-09-06](09/06.md) | 39  | easy   | tree  | [title](url)                                                                                  |

@@ -76,7 +76,7 @@ const createFiles = (title) => {
   shell.sed(`-i`, "DATE", `${year}-${m}-${day}`, `${javaTitle}.java`);
   shell.sed(`-i`, "CLZ", `${javaTitle}`, `${javaTitle}.java`);
 
-  console.log(`${now} ${title} 创建成功`);
+  console.log(`${now.format(`YYYY-MM-DD HH:mm:ss`)} ${title} 创建成功`);
 };
 
 createFiles("");

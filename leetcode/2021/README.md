@@ -285,35 +285,35 @@
 
 ## 2021-09
 
-| Date                   | No  | Level  | Tag    | Title                                                                                         |
-| ---------------------- | --- | ------ | ------ | --------------------------------------------------------------------------------------------- |
-| [2021-09-01](09/01.md) | 565 | medium | array  | [Array Nesting](https://leetcode.com/problems/array-nesting/)                                 |
-| [2021-09-02](09/02.md) | 95  | medium | tree   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |
-| [2021-09-03](09/03.md) | 587 | hard   | array  | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/)                             |
-| [2021-09-04](09/04.md) | 834 | hard   | tree   | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)           |
-| [2021-09-05](09/05.md) | 899 | hard   | string | [Orderly Queue](https://leetcode.com/problems/orderly-queue/)                                 |
-| [2021-09-06](09/06.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-07](09/07.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-08](09/08.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-09](09/09.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-10](09/10.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-11](09/11.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-12](09/12.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-13](09/13.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-14](09/14.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-15](09/15.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-16](09/16.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-17](09/17.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-18](09/18.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-19](09/19.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-20](09/20.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-21](09/21.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-22](09/22.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-23](09/23.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-24](09/24.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-25](09/25.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-26](09/26.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-27](09/27.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-28](09/28.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-29](09/29.md) | 39  | easy   | tree   | [title](url)                                                                                  |
-| [2021-09-30](09/30.md) | 39  | easy   | tree   | [title](url)                                                                                  |
+| Date                   | No   | Level  | Tag    | Title                                                                                         |
+| ---------------------- | ---- | ------ | ------ | --------------------------------------------------------------------------------------------- |
+| [2021-09-01](09/01.md) | 565  | medium | array  | [Array Nesting](https://leetcode.com/problems/array-nesting/)                                 |
+| [2021-09-02](09/02.md) | 95   | medium | tree   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |
+| [2021-09-03](09/03.md) | 587  | hard   | array  | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/)                             |
+| [2021-09-04](09/04.md) | 834  | hard   | tree   | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)           |
+| [2021-09-05](09/05.md) | 899  | hard   | string | [Orderly Queue](https://leetcode.com/problems/orderly-queue/)                                 |
+| [2021-09-06](09/06.md) | 1629 | easy   | array  | [Slowest Key](https://leetcode.com/problems/slowest-key/)                                     |
+| [2021-09-07](09/07.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-08](09/08.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-09](09/09.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-10](09/10.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-11](09/11.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-12](09/12.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-13](09/13.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-14](09/14.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-15](09/15.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-16](09/16.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-17](09/17.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-18](09/18.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-19](09/19.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-20](09/20.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-21](09/21.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-22](09/22.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-23](09/23.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-24](09/24.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-25](09/25.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-26](09/26.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-27](09/27.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-28](09/28.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-29](09/29.md) | 39   | easy   | tree   | [title](url)                                                                                  |
+| [2021-09-30](09/30.md) | 39   | easy   | tree   | [title](url)                                                                                  |

@@ -295,7 +295,7 @@
 | [2021-09-06](09/06.md) | 1629 | easy   | array      | [Slowest Key](https://leetcode.com/problems/slowest-key/)                                     |
 | [2021-09-07](09/07.md) | 206  | easy   | linkedlist | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                     |
 | [2021-09-08](09/08.md) | 848  | medium | string     | [Shifting Letters](https://leetcode.com/problems/shifting-letters/)                           |
-| [2021-09-09](09/09.md) | 39   | easy   | tree       | [title](url)                                                                                  |
+| [2021-09-09](09/09.md) | 764  | medium | matrix     | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)                         |
 | [2021-09-10](09/10.md) | 39   | easy   | tree       | [title](url)                                                                                  |
 | [2021-09-11](09/11.md) | 39   | easy   | tree       | [title](url)                                                                                  |
 | [2021-09-12](09/12.md) | 39   | easy   | tree       | [title](url)                                                                                  |

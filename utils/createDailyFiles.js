@@ -5,8 +5,8 @@ const path = require("path");
 
 const SEP = path.sep;
 
-const baseFolder = "E:\\Projects\\project-github\\little-code";
-const javaBasePackage = "java\\src\\main\\java\\cn\\az\\code";
+const baseFolder = `E:${SEP}Projects${SEP}project-github${SEP}little-code`;
+const javaBasePackage = `java${SEP}src${SEP}main${SEP}java${SEP}cn${SEP}az${SEP}code`;
 
 const tmplFolder = `template`;
 const javaPackage = `cn.az.code`;
@@ -79,4 +79,4 @@ const createFiles = (title) => {
   console.log(`${now.format(`YYYY-MM-DD HH:mm:ss`)} ${title} 创建成功`);
 };
 
-createFiles("");
+createFiles(``);

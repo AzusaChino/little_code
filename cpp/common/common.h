@@ -1,8 +1,6 @@
-#ifndef CPP_COMMON_H
-#define CPP_COMMON_H
 #include <vector>
 
-#endif  // CPP_COMMON_H
+using namespace std;
 
 class ListNode {
 public:

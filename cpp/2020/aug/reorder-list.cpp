@@ -1,6 +1,6 @@
-#include <common>
+#include "common.h"
 
-using namespace common
+using namespace std;
 
 // O(N) time, O(1) space in total
 void reorderList(ListNode *head) {
@@ -40,26 +40,3 @@ void reorderList(ListNode *head) {
     //    p1 = p1->next->next = t;
     //}
 }
-
-class Solution3 {
-public:
-    ListNode *reorderList(ListNode *head, int len) {
-        if (len == 0)
-            return NULL;
-        if (len == 1)
-            return head;
-        if (len == 2)
-            return head->next;
-        ListNode *tail = reorderList(head->next, len - 2);
-        ListNode *tmp = tail->next;  
-        tail->next = tail->next->next;
-        tmp->next = head->next;
-        head->next = tmp;
-        return tail;
-    }
-
-    void reorderList(ListNode *head) {  //recursive
-        ListNode *tail = NULL;
-        tail = reorderList(head, getLength(head));
-    }
-};

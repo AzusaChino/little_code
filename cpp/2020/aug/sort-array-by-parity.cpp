@@ -1,5 +1,6 @@
 #include <vector>
 
+using namespace std;
 
 vector<int> sortArrayByParity(vector<int> &A) {
     for(int i=0,j=0;j<A.size(); j++){

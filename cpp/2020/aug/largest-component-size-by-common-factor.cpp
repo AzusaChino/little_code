@@ -1,3 +1,8 @@
+#include <vector>
+#include <unordered_map>
+
+using namespace std;
+
 class UF {
     vector<int> p, sz;
 public:

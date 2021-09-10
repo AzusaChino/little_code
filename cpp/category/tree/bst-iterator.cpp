@@ -1,5 +1,8 @@
+#include <stack>
+#include "common.h"
+
 class BSTIterator {
-    stack<TreeNode *> myStack;
+    stack<TreeNode*> myStack;
 public:
     BSTIterator(TreeNode *root) {
         pushAll(root);

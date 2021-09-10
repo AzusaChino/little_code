@@ -1,5 +1,7 @@
 #include <iostream>
-using namespace aug;
+#include <vector>
+
+using namespace std;
 
 vector<int> numsSameConsecDiff(int N, int K) {
     vector<int> cur = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0};

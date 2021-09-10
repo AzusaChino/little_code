@@ -1,3 +1,8 @@
+#include <vector>
+#include <string>
+#include <set>
+
+using namespace std;
 
 bool buddyStrings(string A, string B) {
     if (A.length() != B.length()) return false;

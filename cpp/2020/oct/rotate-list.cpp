@@ -1,3 +1,5 @@
+#include "common.h"
+
 class RotateList {
 public:
     ListNode *rotate(ListNode *head, int k) {

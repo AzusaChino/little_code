@@ -1,3 +1,13 @@
+#include <vector>
+#include <map>
+
+using namespace std;
+
+class Interval {
+public:
+    int start,end;
+};
+
 class Solution {
 public:
     vector<int> findRightInterval(vector<Interval>& intervals) {

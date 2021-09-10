@@ -1,3 +1,5 @@
+#include "common.h"
+
 TreeNode *deleteNode(TreeNode *root, int key) {
     if (root) {
         if (root->val < key) root->right = deleteNode(root->right, key);

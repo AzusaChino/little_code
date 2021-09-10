@@ -1,10 +1,16 @@
+#include <vector>
+#include <string>
+
+using std::vector; 
+using std::string; 
+
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
         vector<string> res(n);
         // 全部写成i
         for(int i = 1;i <= n; i++) {
-            res[i - 1] = to_string(i);
+            res[i - 1] = std::to_string(i);
         }
         // 把3*x都换成Fizz
         for(int i = 2;i < n; i += 3) {

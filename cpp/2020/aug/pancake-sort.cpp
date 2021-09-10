@@ -1,3 +1,8 @@
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
 vector<int> pancakeSort(vector<int> A) {
     vector<int> res;
     int x, i;

@@ -1,4 +1,7 @@
 #include <vector>
+#include <algorithm>
+
+using namespace std;
 
 class RemoveCoveredIntervals {
 public:
@@ -14,4 +17,4 @@ public:
         }
         return res;
     }
-}
+};

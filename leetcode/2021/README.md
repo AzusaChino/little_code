@@ -299,7 +299,7 @@
 | [2021-09-10](09/10.md) | 446  | hard   | array      | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)     |
 | [2021-09-11](09/11.md) | 234  | hard   | math       | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)                                       |
 | [2021-09-12](09/12.md) | 882  | hard   | graph      | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) |
-| [2021-09-13](09/13.md) | 39   | easy   | tree       | [title](url)                                                                                              |
+| [2021-09-13](09/13.md) | 1189 | easy   | string     | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)                   |
 | [2021-09-14](09/14.md) | 39   | easy   | tree       | [title](url)                                                                                              |
 | [2021-09-15](09/15.md) | 39   | easy   | tree       | [title](url)                                                                                              |
 | [2021-09-16](09/16.md) | 39   | easy   | tree       | [title](url)                                                                                              |

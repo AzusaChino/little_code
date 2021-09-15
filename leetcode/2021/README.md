@@ -301,7 +301,7 @@
 | [2021-09-12](09/12.md) | 882  | hard   | graph      | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) |
 | [2021-09-13](09/13.md) | 1189 | easy   | string     | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)                   |
 | [2021-09-14](09/14.md) | 917  | easy   | string     | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                               |
-| [2021-09-15](09/15.md) | 39   | easy   | tree       | [title](url)                                                                                              |
+| [2021-09-15](09/15.md) | 978  | medium | array      | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)                   |
 | [2021-09-16](09/16.md) | 39   | easy   | tree       | [title](url)                                                                                              |
 | [2021-09-17](09/17.md) | 39   | easy   | tree       | [title](url)                                                                                              |
 | [2021-09-18](09/18.md) | 39   | easy   | tree       | [title](url)                                                                                              |

@@ -304,7 +304,7 @@
 | [2021-09-15](09/15.md) | 978  | medium | array      | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)                   |
 | [2021-09-16](09/16.md) | 54   | medium | matrix     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                             |
 | [2021-09-17](09/17.md) | 350  | easy   | array      | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)             |
-| [2021-09-18](09/18.md) | 39   | easy   | tree       | [title](url)                                                                                              |
+| [2021-09-18](09/18.md) | 282  | hard   | math       | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)                       |
 | [2021-09-19](09/19.md) | 39   | easy   | tree       | [title](url)                                                                                              |
 | [2021-09-20](09/20.md) | 39   | easy   | tree       | [title](url)                                                                                              |
 | [2021-09-21](09/21.md) | 39   | easy   | tree       | [title](url)                                                                                              |

@@ -306,7 +306,7 @@
 | [2021-09-17](09/17.md) | 350  | easy   | array      | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)             |
 | [2021-09-18](09/18.md) | 282  | hard   | math       | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)                       |
 | [2021-09-19](09/19.md) | 115  | hard   | string     | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)                             |
-| [2021-09-20](09/20.md) | 39   | easy   | tree       | [title](url)                                                                                              |
+| [2021-09-20](09/20.md) | 1275 | easy   | array      | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)     |
 | [2021-09-21](09/21.md) | 39   | easy   | tree       | [title](url)                                                                                              |
 | [2021-09-22](09/22.md) | 39   | easy   | tree       | [title](url)                                                                                              |
 | [2021-09-23](09/23.md) | 39   | easy   | tree       | [title](url)                                                                                              |

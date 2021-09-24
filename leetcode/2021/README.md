@@ -310,7 +310,7 @@
 | [2021-09-21](09/21.md) | 485  | easy   | array      | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                                                                     |
 | [2021-09-22](09/22.md) | 1239 | medium | array      | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) |
 | [2021-09-23](09/23.md) | 1328 | medium | string     | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)                                                                                         |
-| [2021-09-24](09/24.md) | 39   | easy   | tree       | [title](url)                                                                                                                                                    |
+| [2021-09-24](09/24.md) | 1137 | easy   | math       | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                                 |
 | [2021-09-25](09/25.md) | 39   | easy   | tree       | [title](url)                                                                                                                                                    |
 | [2021-09-26](09/26.md) | 39   | easy   | tree       | [title](url)                                                                                                                                                    |
 | [2021-09-27](09/27.md) | 39   | easy   | tree       | [title](url)                                                                                                                                                    |

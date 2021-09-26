@@ -312,7 +312,7 @@
 | [2021-09-23](09/23.md) | 1328 | medium | string     | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)                                                                                         |
 | [2021-09-24](09/24.md) | 1137 | easy   | math       | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                                 |
 | [2021-09-25](09/25.md) | 1293 | hard   | matrix     | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)                         |
-| [2021-09-26](09/26.md) | 39   | easy   | tree       | [title](url)                                                                                                                                                    |
+| [2021-09-26](09/26.md) | 782  | hard   | matrix     | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)                                                                               |
 | [2021-09-27](09/27.md) | 39   | easy   | tree       | [title](url)                                                                                                                                                    |
 | [2021-09-28](09/28.md) | 39   | easy   | tree       | [title](url)                                                                                                                                                    |
 | [2021-09-29](09/29.md) | 39   | easy   | tree       | [title](url)                                                                                                                                                    |

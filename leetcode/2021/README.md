@@ -316,7 +316,7 @@
 | [2021-09-27](09/27.md) | 929  | easy   | string     | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)                                                                                 |
 | [2021-09-28](09/28.md) | 922  | easy   | array      | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)                                                                               |
 | [2021-09-29](09/29.md) | 729  | medium | linkedlist | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)                                                                         |
-| [2021-09-30](09/30.md) | 39   | easy   | tree       | [title](url)                                                                                                                                                    |
+| [2021-09-30](09/30.md) | 698  | medium | array      | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)                                                             |
 
 ## 2021-10
 

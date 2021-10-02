@@ -323,7 +323,7 @@
 | Date                   | No   | Level  | Tag    | Title                                                                                   |
 | ---------------------- | ---- | ------ | ------ | --------------------------------------------------------------------------------------- |
 | [2021-10-01](10/01.md) | 1143 | medium | string | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) |
-| [2021-10-02](10/02.md) | 39   | easy   | tree   | [title](url)                                                                            |
+| [2021-10-02](10/02.md) | 174  | hard   | matrix | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                             |
 | [2021-10-03](10/03.md) | 39   | easy   | tree   | [title](url)                                                                            |
 | [2021-10-04](10/04.md) | 39   | easy   | tree   | [title](url)                                                                            |
 | [2021-10-05](10/05.md) | 39   | easy   | tree   | [title](url)                                                                            |

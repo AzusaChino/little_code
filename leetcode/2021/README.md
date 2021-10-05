@@ -326,7 +326,7 @@
 | [2021-10-02](10/02.md) | 174  | hard   | matrix | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                             |
 | [2021-10-03](10/03.md) | 55   | medium | array  | [Jump Game](https://leetcode.com/problems/jump-game/)                                   |
 | [2021-10-04](10/04.md) | 463  | easy   | matrix | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                     |
-| [2021-10-05](10/05.md) | 39   | easy   | tree   | [title](url)                                                                            |
+| [2021-10-05](10/05.md) | 70   | easy   | dp     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/F)                      |
 | [2021-10-06](10/06.md) | 39   | easy   | tree   | [title](url)                                                                            |
 | [2021-10-07](10/07.md) | 39   | easy   | tree   | [title](url)                                                                            |
 | [2021-10-08](10/08.md) | 39   | easy   | tree   | [title](url)                                                                            |

@@ -332,7 +332,7 @@
 | [2021-10-08](10/08.md) | 208  | medium | trie   | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                  |
 | [2021-10-09](10/09.md) | 212  | hard   | matrix | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                            |
 | [2021-10-10](10/10.md) | 201  | medium | bit    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                |
-| [2021-10-11](10/11.md) | 39   | easy   | tree   | [title](url)                                                                                               |
+| [2021-10-11](10/11.md) | 543  | easy   | tree   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                          |
 | [2021-10-12](10/12.md) | 39   | easy   | tree   | [title](url)                                                                                               |
 | [2021-10-13](10/13.md) | 39   | easy   | tree   | [title](url)                                                                                               |
 | [2021-10-14](10/14.md) | 39   | easy   | tree   | [title](url)                                                                                               |

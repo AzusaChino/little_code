@@ -320,36 +320,36 @@
 
 ## 2021-10
 
-| Date                   | No   | Level  | Tag    | Title                                                                                             |
-| ---------------------- | ---- | ------ | ------ | ------------------------------------------------------------------------------------------------- |
-| [2021-10-01](10/01.md) | 1143 | medium | string | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)           |
-| [2021-10-02](10/02.md) | 174  | hard   | matrix | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                       |
-| [2021-10-03](10/03.md) | 55   | medium | array  | [Jump Game](https://leetcode.com/problems/jump-game/)                                             |
-| [2021-10-04](10/04.md) | 463  | easy   | matrix | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                               |
-| [2021-10-05](10/05.md) | 70   | easy   | dp     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/F)                                |
-| [2021-10-06](10/06.md) | 442  | medium | array  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |
-| [2021-10-07](10/07.md) | 79   | medium | matrix | [Word Search](https://leetcode.com/problems/word-search/)                                         |
-| [2021-10-08](10/08.md) | 208  | medium | trie   | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)         |
-| [2021-10-09](10/09.md) | 212  | hard   | matrix | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                   |
-| [2021-10-10](10/10.md) | 201  | medium | bit    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)       |
-| [2021-10-11](10/11.md) | 543  | easy   | tree   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                 |
-| [2021-10-12](10/12.md) | 374  | easy   | math   | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)       |
-| [2021-10-13](10/13.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-14](10/14.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-15](10/15.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-16](10/16.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-17](10/17.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-18](10/18.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-19](10/19.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-20](10/20.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-21](10/21.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-22](10/22.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-23](10/23.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-24](10/24.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-25](10/25.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-26](10/26.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-27](10/27.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-28](10/28.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-29](10/29.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-30](10/30.md) | 39   | easy   | tree   | [title](url)                                                                                      |
-| [2021-10-31](10/31.md) | 39   | easy   | tree   | [title](url)                                                                                      |
+| Date                   | No   | Level  | Tag    | Title                                                                                                                                       |
+| ---------------------- | ---- | ------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2021-10-01](10/01.md) | 1143 | medium | string | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                     |
+| [2021-10-02](10/02.md) | 174  | hard   | matrix | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                                                                 |
+| [2021-10-03](10/03.md) | 55   | medium | array  | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                       |
+| [2021-10-04](10/04.md) | 463  | easy   | matrix | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                                         |
+| [2021-10-05](10/05.md) | 70   | easy   | dp     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/F)                                                                          |
+| [2021-10-06](10/06.md) | 442  | medium | array  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                           |
+| [2021-10-07](10/07.md) | 79   | medium | matrix | [Word Search](https://leetcode.com/problems/word-search/)                                                                                   |
+| [2021-10-08](10/08.md) | 208  | medium | trie   | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                   |
+| [2021-10-09](10/09.md) | 212  | hard   | matrix | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                             |
+| [2021-10-10](10/10.md) | 201  | medium | bit    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                                 |
+| [2021-10-11](10/11.md) | 543  | easy   | tree   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                           |
+| [2021-10-12](10/12.md) | 374  | easy   | math   | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                 |
+| [2021-10-13](10/13.md) | 1008 | medium | tree   | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) |
+| [2021-10-14](10/14.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-15](10/15.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-16](10/16.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-17](10/17.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-18](10/18.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-19](10/19.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-20](10/20.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-21](10/21.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-22](10/22.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-23](10/23.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-24](10/24.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-25](10/25.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-26](10/26.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-27](10/27.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-28](10/28.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-29](10/29.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-30](10/30.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-31](10/31.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |

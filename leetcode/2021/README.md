@@ -339,7 +339,7 @@
 | [2021-10-15](10/15.md) | 309  | medium | dp     | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)               |
 | [2021-10-16](10/16.md) | 123  | hard   | dp     | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)                                   |
 | [2021-10-17](10/17.md) | 437  | medium | tree   | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)                                                                                 |
-| [2021-10-18](10/18.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-18](10/18.md) | 993   | easy   | tree   | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)                                                             |
 | [2021-10-19](10/19.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
 | [2021-10-20](10/20.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
 | [2021-10-21](10/21.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |

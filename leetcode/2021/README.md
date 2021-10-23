@@ -344,7 +344,7 @@
 | [2021-10-20](10/20.md) | 151  | medium | string | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                       |
 | [2021-10-21](10/21.md) | 380  | medium | design | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                   |
 | [2021-10-22](10/22.md) | 451  | medium | string | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                 |
-| [2021-10-23](10/23.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-23](10/23.md) | 154  | hard   | array  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)                           |
 | [2021-10-24](10/24.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
 | [2021-10-25](10/25.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
 | [2021-10-26](10/26.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |

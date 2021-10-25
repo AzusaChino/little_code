@@ -346,7 +346,7 @@
 | [2021-10-22](10/22.md) | 451  | medium | string | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                 |
 | [2021-10-23](10/23.md) | 154  | hard   | array  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)                           |
 | [2021-10-24](10/24.md) | 222  | medium | tree   | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                                       |
-| [2021-10-25](10/25.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-25](10/25.md) | 155  | easy   | design | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                                       |
 | [2021-10-26](10/26.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
 | [2021-10-27](10/27.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
 | [2021-10-28](10/28.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |

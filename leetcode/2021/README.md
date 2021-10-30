@@ -351,5 +351,5 @@
 | [2021-10-27](10/27.md) | 75   | medium | array  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                   |
 | [2021-10-28](10/28.md) | 15   | medium | array  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                 |
 | [2021-10-29](10/29.md) | 994  | medium | matrix | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                           |
-| [2021-10-30](10/30.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| [2021-10-30](10/30.md) | 1044   | hard   | string   | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)                                                                                                                                |
 | [2021-10-31](10/31.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |

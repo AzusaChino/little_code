@@ -353,3 +353,39 @@
 | [2021-10-29](10/29.md) | 994  | medium | matrix | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                           |
 | [2021-10-30](10/30.md) | 1044   | hard   | string   | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)                                                                                                                                |
 | [2021-10-31](10/31.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+
+## 2021-11
+
+| Date                   | No  | Level | Tag  | Title        |
+| ---------------------- | --- | ----- | ---- | ------------ |
+| [2021-11-01](11/01.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-02](11/02.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-03](11/03.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-04](11/04.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-05](11/05.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-06](11/06.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-07](11/07.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-08](11/08.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-09](11/09.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-10](11/10.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-11](11/11.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-12](11/12.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-13](11/13.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-14](11/14.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-15](11/15.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-16](11/16.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-17](11/17.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-18](11/18.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-19](11/19.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-20](11/20.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-21](11/21.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-22](11/22.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-23](11/23.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-24](11/24.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-25](11/25.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-26](11/26.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-27](11/27.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-28](11/28.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-29](11/29.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-30](11/30.md) | 39  | easy  | tree | [title](url) |
+| [2021-11-31](11/31.md) | 39  | easy  | tree | [title](url) |

@@ -320,39 +320,39 @@
 
 ## 2021-10
 
-| Date                   | No   | Level  | Tag    | Title                                                                                                                                       |
-| ---------------------- | ---- | ------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [2021-10-01](10/01.md) | 1143 | medium | string | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                     |
-| [2021-10-02](10/02.md) | 174  | hard   | matrix | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                                                                 |
-| [2021-10-03](10/03.md) | 55   | medium | array  | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                       |
-| [2021-10-04](10/04.md) | 463  | easy   | matrix | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                                         |
-| [2021-10-05](10/05.md) | 70   | easy   | dp     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/F)                                                                          |
-| [2021-10-06](10/06.md) | 442  | medium | array  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                           |
-| [2021-10-07](10/07.md) | 79   | medium | matrix | [Word Search](https://leetcode.com/problems/word-search/)                                                                                   |
-| [2021-10-08](10/08.md) | 208  | medium | trie   | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                   |
-| [2021-10-09](10/09.md) | 212  | hard   | matrix | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                             |
-| [2021-10-10](10/10.md) | 201  | medium | bit    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                                 |
-| [2021-10-11](10/11.md) | 543  | easy   | tree   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                           |
-| [2021-10-12](10/12.md) | 374  | easy   | math   | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                 |
-| [2021-10-13](10/13.md) | 1008 | medium | tree   | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) |
-| [2021-10-14](10/14.md) | 279  | medium | math   | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                           |
-| [2021-10-15](10/15.md) | 309  | medium | dp     | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)               |
-| [2021-10-16](10/16.md) | 123  | hard   | dp     | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)                                   |
-| [2021-10-17](10/17.md) | 437  | medium | tree   | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)                                                                                 |
-| [2021-10-18](10/18.md) | 993  | easy   | tree   | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)                                                             |
-| [2021-10-19](10/19.md) | 496  | easy   | math   | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)                                                             |
-| [2021-10-20](10/20.md) | 151  | medium | string | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                       |
-| [2021-10-21](10/21.md) | 380  | medium | design | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                   |
-| [2021-10-22](10/22.md) | 451  | medium | string | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                 |
-| [2021-10-23](10/23.md) | 154  | hard   | array  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)                           |
-| [2021-10-24](10/24.md) | 222  | medium | tree   | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                                       |
-| [2021-10-25](10/25.md) | 155  | easy   | design | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                                       |
-| [2021-10-26](10/26.md) | 226  | easy   | tree   | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                     |
-| [2021-10-27](10/27.md) | 75   | medium | array  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                   |
-| [2021-10-28](10/28.md) | 15   | medium | array  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                 |
-| [2021-10-29](10/29.md) | 994  | medium | matrix | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                           |
-| [2021-10-30](10/30.md) | 1044   | hard   | string   | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)                                                                                                                                |
-| [2021-10-31](10/31.md) | 39   | easy   | tree   | [title](url)                                                                                                                                |
+| Date                   | No   | Level  | Tag        | Title                                                                                                                                       |
+| ---------------------- | ---- | ------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2021-10-01](10/01.md) | 1143 | medium | string     | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                     |
+| [2021-10-02](10/02.md) | 174  | hard   | matrix     | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                                                                 |
+| [2021-10-03](10/03.md) | 55   | medium | array      | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                       |
+| [2021-10-04](10/04.md) | 463  | easy   | matrix     | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                                         |
+| [2021-10-05](10/05.md) | 70   | easy   | dp         | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/F)                                                                          |
+| [2021-10-06](10/06.md) | 442  | medium | array      | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                           |
+| [2021-10-07](10/07.md) | 79   | medium | matrix     | [Word Search](https://leetcode.com/problems/word-search/)                                                                                   |
+| [2021-10-08](10/08.md) | 208  | medium | trie       | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                   |
+| [2021-10-09](10/09.md) | 212  | hard   | matrix     | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                             |
+| [2021-10-10](10/10.md) | 201  | medium | bit        | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                                 |
+| [2021-10-11](10/11.md) | 543  | easy   | tree       | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                           |
+| [2021-10-12](10/12.md) | 374  | easy   | math       | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                 |
+| [2021-10-13](10/13.md) | 1008 | medium | tree       | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) |
+| [2021-10-14](10/14.md) | 279  | medium | math       | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                           |
+| [2021-10-15](10/15.md) | 309  | medium | dp         | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)               |
+| [2021-10-16](10/16.md) | 123  | hard   | dp         | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)                                   |
+| [2021-10-17](10/17.md) | 437  | medium | tree       | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)                                                                                 |
+| [2021-10-18](10/18.md) | 993  | easy   | tree       | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)                                                             |
+| [2021-10-19](10/19.md) | 496  | easy   | math       | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)                                                             |
+| [2021-10-20](10/20.md) | 151  | medium | string     | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                       |
+| [2021-10-21](10/21.md) | 380  | medium | design     | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                   |
+| [2021-10-22](10/22.md) | 451  | medium | string     | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                 |
+| [2021-10-23](10/23.md) | 154  | hard   | array      | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)                           |
+| [2021-10-24](10/24.md) | 222  | medium | tree       | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                                       |
+| [2021-10-25](10/25.md) | 155  | easy   | design     | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                                       |
+| [2021-10-26](10/26.md) | 226  | easy   | tree       | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                     |
+| [2021-10-27](10/27.md) | 75   | medium | array      | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                   |
+| [2021-10-28](10/28.md) | 15   | medium | array      | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                 |
+| [2021-10-29](10/29.md) | 994  | medium | matrix     | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                           |
+| [2021-10-30](10/30.md) | 1044 | hard   | string     | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)                                                   |
+| [2021-10-31](10/31.md) | 430  | medium | linkedlist | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)                           |
 
 ## 2021-11
 

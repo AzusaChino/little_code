@@ -361,7 +361,7 @@
 | [2021-11-01](11/01.md) | 130 | medium | matrix | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)             |
 | [2021-11-02](11/02.md) | 980 | hard   | matrix | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)                 |
 | [2021-11-03](11/03.md) | 129 | medium | tree   | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
-| [2021-11-04](11/04.md) | 39  | easy   | tree   | [title](url)                                                                        |
+| [2021-11-04](11/04.md) | 404 | easy   | tree   | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)             |
 | [2021-11-05](11/05.md) | 39  | easy   | tree   | [title](url)                                                                        |
 | [2021-11-06](11/06.md) | 39  | easy   | tree   | [title](url)                                                                        |
 | [2021-11-07](11/07.md) | 39  | easy   | tree   | [title](url)                                                                        |

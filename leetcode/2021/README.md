@@ -364,7 +364,7 @@
 | [2021-11-04](11/04.md) | 404 | easy   | tree   | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)             |
 | [2021-11-05](11/05.md) | 441 | easy   | math   | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                   |
 | [2021-11-06](11/06.md) | 260 | medium | array  | [Single Number III](https://leetcode.com/problems/single-number-iii/)               |
-| [2021-11-07](11/07.md) | 39  | easy   | tree   | [title](url)                                                                        |
+| [2021-11-07](11/07.md) | 43  | medium | string | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                 |
 | [2021-11-08](11/08.md) | 39  | easy   | tree   | [title](url)                                                                        |
 | [2021-11-09](11/09.md) | 39  | easy   | tree   | [title](url)                                                                        |
 | [2021-11-10](11/10.md) | 39  | easy   | tree   | [title](url)                                                                        |

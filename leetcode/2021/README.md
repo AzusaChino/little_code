@@ -367,7 +367,7 @@
 | [2021-11-07](11/07.md) | 43   | medium | string        | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                           |
 | [2021-11-08](11/08.md) | 96   | medium | tree          | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)                       |
 | [2021-11-09](11/09.md) | 1178 | hard   | string, array | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) |
-| [2021-11-10](11/10.md) | 39   | easy   | tree          | [title](url)                                                                                                  |
+| [2021-11-10](11/10.md) | 122  | medium | dp            | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)       |
 | [2021-11-11](11/11.md) | 39   | easy   | tree          | [title](url)                                                                                                  |
 | [2021-11-12](11/12.md) | 39   | easy   | tree          | [title](url)                                                                                                  |
 | [2021-11-13](11/13.md) | 39   | easy   | tree          | [title](url)                                                                                                  |

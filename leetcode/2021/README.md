@@ -371,7 +371,7 @@
 | [2021-11-11](11/11.md) | 1413 | easy   | array         | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) |
 | [2021-11-12](11/12.md) | 203  | easy   | linkedlist    | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                       |
 | [2021-11-13](11/13.md) | 739  | medium | array         | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                         |
-| [2021-11-14](11/14.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-11-14](11/14.md) | 1286 | medium | design        | [title](https://leetcode.com/problems/iterator-for-combination/)                                                                |
 | [2021-11-15](11/15.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-11-16](11/16.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-11-17](11/17.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |

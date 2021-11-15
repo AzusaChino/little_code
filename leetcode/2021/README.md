@@ -372,7 +372,7 @@
 | [2021-11-12](11/12.md) | 203  | easy   | linkedlist    | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                       |
 | [2021-11-13](11/13.md) | 739  | medium | array         | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                         |
 | [2021-11-14](11/14.md) | 1286 | medium | design        | [title](https://leetcode.com/problems/iterator-for-combination/)                                                                |
-| [2021-11-15](11/15.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-11-15](11/15.md) | 368  | medium | array         | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)                                             |
 | [2021-11-16](11/16.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-11-17](11/17.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-11-18](11/18.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |

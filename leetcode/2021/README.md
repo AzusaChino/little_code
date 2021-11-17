@@ -374,7 +374,7 @@
 | [2021-11-14](11/14.md) | 1286 | medium | design        | [title](https://leetcode.com/problems/iterator-for-combination/)                                                                |
 | [2021-11-15](11/15.md) | 368  | medium | array         | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)                                             |
 | [2021-11-16](11/16.md) | 668  | hard   | matrix        | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)       |
-| [2021-11-17](11/17.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-11-17](11/17.md) | 62   | medium | dp            | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                     |
 | [2021-11-18](11/18.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-11-19](11/19.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-11-20](11/20.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |

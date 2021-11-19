@@ -376,7 +376,7 @@
 | [2021-11-16](11/16.md) | 668  | hard   | matrix        | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)       |
 | [2021-11-17](11/17.md) | 62   | medium | dp            | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                     |
 | [2021-11-18](11/18.md) | 448  | easy   | array         | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)             |
-| [2021-11-19](11/19.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
+| [2021-11-19](11/19.md) | 461  | easy   | math          | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                             |
 | [2021-11-20](11/20.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-11-21](11/21.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |
 | [2021-11-22](11/22.md) | 39   | easy   | tree          | [title](url)                                                                                                                    |

@@ -379,7 +379,7 @@
 | [2021-11-19](11/19.md) | 461  | easy   | math          | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                                                     |
 | [2021-11-20](11/20.md) | 540  | medium | array         | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                                     |
 | [2021-11-21](11/21.md) | 106  | medium | tree          | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
-| [2021-11-22](11/22.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
+| [2021-11-22](11/22.md) | 450  | medium | tree          | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)                                                                             |
 | [2021-11-23](11/23.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
 | [2021-11-24](11/24.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
 | [2021-11-25](11/25.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |

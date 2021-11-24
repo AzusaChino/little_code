@@ -381,7 +381,7 @@
 | [2021-11-21](11/21.md) | 106  | medium | tree          | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
 | [2021-11-22](11/22.md) | 450  | medium | tree          | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)                                                                             |
 | [2021-11-23](11/23.md) | 952  | hard   | graph         | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)                                       |
-| [2021-11-24](11/24.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
+| [2021-11-24](11/24.md) | 986  | medium | array         | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)                                                               |
 | [2021-11-25](11/25.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
 | [2021-11-26](11/26.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
 | [2021-11-27](11/27.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |

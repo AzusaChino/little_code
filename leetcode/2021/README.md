@@ -383,7 +383,7 @@
 | [2021-11-23](11/23.md) | 952  | hard   | graph         | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)                                       |
 | [2021-11-24](11/24.md) | 986  | medium | array         | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)                                                               |
 | [2021-11-25](11/25.md) | 53   | easy   | array         | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                     |
-| [2021-11-26](11/26.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
+| [2021-11-26](11/26.md) | 35   | easy   | array         | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                         |
 | [2021-11-27](11/27.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
 | [2021-11-28](11/28.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
 | [2021-11-29](11/29.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |

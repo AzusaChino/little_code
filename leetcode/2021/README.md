@@ -389,3 +389,39 @@
 | [2021-11-29](11/29.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
 | [2021-11-30](11/30.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
 | [2021-11-31](11/31.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
+
+## 2021-12
+
+| Date                   | No  | Level | Tag  | Title        |
+| ---------------------- | --- | ----- | ---- | ------------ |
+| [2021-12-01](12/01.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-02](12/02.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-03](12/03.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-04](12/04.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-05](12/05.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-06](12/06.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-07](12/07.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-08](12/08.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-09](12/09.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-10](12/10.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-11](12/11.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-12](12/12.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-13](12/13.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-14](12/14.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-15](12/15.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-16](12/16.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-17](12/17.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-18](12/18.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-19](12/19.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-20](12/20.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-21](12/21.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-22](12/22.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-23](12/23.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-24](12/24.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-25](12/25.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-26](12/26.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-27](12/27.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-28](12/28.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-29](12/29.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-30](12/30.md) | 39  | easy  | tree | [title](url) |
+| [2021-12-31](12/31.md) | 39  | easy  | tree | [title](url) |

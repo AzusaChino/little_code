@@ -387,7 +387,7 @@
 | [2021-11-27](11/27.md) | 238  | medium | array         | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                             |
 | [2021-11-28](11/28.md) | 797  | easy   | graph         | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                                                       |
 | [2021-11-29](11/29.md) | 721  | medium | array         | [Accounts Merge](https://leetcode.com/problems/accounts-merge/)                                                                                         |
-| [2021-11-30](11/30.md) | 39   | easy   | tree          | [title](url)                                                                                                                                            |
+| [2021-11-30](11/30.md) | 85   | hard   | matrix        | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)                                                                                   |
 
 ## 2021-12
 

@@ -397,7 +397,7 @@
 | [2021-12-02](12/02.md) | 328  | medium | linkedlist    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)         |
 | [2021-12-03](12/03.md) | 152  | medium | arary         | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |
 | [2021-12-04](12/04.md) | 1032 | hard   | string, array | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)         |
-| [2021-12-05](12/05.md) | 39   | easy   | tree          | [title](url)                                                                        |
+| [2021-12-05](12/05.md) | 337  | medium | tree          | [House Robber III](https://leetcode.com/problems/house-robber-iii/)                 |
 | [2021-12-06](12/06.md) | 39   | easy   | tree          | [title](url)                                                                        |
 | [2021-12-07](12/07.md) | 39   | easy   | tree          | [title](url)                                                                        |
 | [2021-12-08](12/08.md) | 39   | easy   | tree          | [title](url)                                                                        |

@@ -401,7 +401,7 @@
 | [2021-12-06](12/06.md) | 1217 | easy   | array         | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)     |
 | [2021-12-07](12/07.md) | 1290 | easy   | linkedlist    | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) |
 | [2021-12-08](12/08.md) | 563  | easy   | tree          | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)                                                                   |
-| [2021-12-09](12/09.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
+| [2021-12-09](12/09.md) | 1306 | medium | array         | [Jump Game III](https://leetcode.com/problems/jump-game-iii/)                                                                         |
 | [2021-12-10](12/10.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-11](12/11.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-12](12/12.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |

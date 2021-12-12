@@ -404,7 +404,7 @@
 | [2021-12-09](12/09.md) | 1306 | medium | array         | [Jump Game III](https://leetcode.com/problems/jump-game-iii/)                                                                         |
 | [2021-12-10](12/10.md) | 790  | medium | math          | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)                                                 |
 | [2021-12-11](12/11.md) | 878  | hard   | math          | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)                                                               |
-| [2021-12-12](12/12.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
+| [2021-12-12](12/12.md) | 416  | medium | array         | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                                               |
 | [2021-12-13](12/13.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-14](12/14.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-15](12/15.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |

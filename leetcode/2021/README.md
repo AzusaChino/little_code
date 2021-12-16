@@ -408,7 +408,7 @@
 | [2021-12-13](12/13.md) | 1446 | easy   | string        | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)                                                       |
 | [2021-12-14](12/14.md) | 938  | easy   | tree          | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                   |
 | [2021-12-15](12/15.md) | 147  | medium | linkedlist    | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)                                                             |
-| [2021-12-16](12/16.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
+| [2021-12-16](12/16.md) | 310  | medium | tree          | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)                                                           |
 | [2021-12-17](12/17.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-18](12/18.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-19](12/19.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |

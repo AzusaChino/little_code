@@ -410,7 +410,7 @@
 | [2021-12-15](12/15.md) | 147  | medium | linkedlist    | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)                                                             |
 | [2021-12-16](12/16.md) | 310  | medium | tree          | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)                                                           |
 | [2021-12-17](12/17.md) | 221  | medium | matrix        | [Maximal Square](https://leetcode.com/problems/maximal-square/)                                                                       |
-| [2021-12-18](12/18.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
+| [2021-12-18](12/18.md) | 902  | hard   | array         | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)                                 |
 | [2021-12-19](12/19.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-20](12/20.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-21](12/21.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |

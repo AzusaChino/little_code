@@ -413,7 +413,7 @@
 | [2021-12-18](12/18.md) | 902  | hard   | array         | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)                                 |
 | [2021-12-19](12/19.md) | 394  | medium | design        | [Decode String](https://leetcode.com/problems/decode-string/)                                                                         |
 | [2021-12-20](12/20.md) | 1200 | easy   | array         | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                             |
-| [2021-12-21](12/21.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
+| [2021-12-21](12/21.md) | 231  | easy   | math          | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                           |
 | [2021-12-22](12/22.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-23](12/23.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-24](12/24.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |

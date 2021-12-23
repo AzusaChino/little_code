@@ -415,7 +415,7 @@
 | [2021-12-20](12/20.md) | 1200 | easy   | array         | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                             |
 | [2021-12-21](12/21.md) | 231  | easy   | math          | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                           |
 | [2021-12-22](12/22.md) | 143  | medium | linkedlist    | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                           |
-| [2021-12-23](12/23.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
+| [2021-12-23](12/23.md) | 210  | medium | array         | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                               |
 | [2021-12-24](12/24.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-25](12/25.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-26](12/26.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |

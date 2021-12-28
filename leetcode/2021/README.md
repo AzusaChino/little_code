@@ -395,7 +395,7 @@
 | ---------------------- | ---- | ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [2021-12-01](12/01.md) | 198  | medium | dp            | [House Robber](https://leetcode.com/problems/house-robber/)                                                                           |
 | [2021-12-02](12/02.md) | 328  | medium | linkedlist    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                           |
-| [2021-12-03](12/03.md) | 152  | medium | arary         | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                   |
+| [2021-12-03](12/03.md) | 152  | medium | array         | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                   |
 | [2021-12-04](12/04.md) | 1032 | hard   | string, array | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)                                                           |
 | [2021-12-05](12/05.md) | 337  | medium | tree          | [House Robber III](https://leetcode.com/problems/house-robber-iii/)                                                                   |
 | [2021-12-06](12/06.md) | 1217 | easy   | array         | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)     |
@@ -420,7 +420,7 @@
 | [2021-12-25](12/25.md) | 227  | medium | string        | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)                                                             |
 | [2021-12-26](12/26.md) | 973  | medium | axis          | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                               |
 | [2021-12-27](12/27.md) | 476  | easy   | math          | [Number Complement](https://leetcode.com/problems/number-complement/)                                                                 |
-| [2021-12-28](12/28.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
+| [2021-12-28](12/28.md) | 876  | easy   | linkedlist    | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                 |
 | [2021-12-29](12/29.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-30](12/30.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-31](12/31.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |

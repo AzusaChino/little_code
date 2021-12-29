@@ -421,6 +421,6 @@
 | [2021-12-26](12/26.md) | 973  | medium | axis          | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                               |
 | [2021-12-27](12/27.md) | 476  | easy   | math          | [Number Complement](https://leetcode.com/problems/number-complement/)                                                                 |
 | [2021-12-28](12/28.md) | 876  | easy   | linkedlist    | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                 |
-| [2021-12-29](12/29.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
+| [2021-12-29](12/29.md) | 116  | medium | tree          | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)             |
 | [2021-12-30](12/30.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
 | [2021-12-31](12/31.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |

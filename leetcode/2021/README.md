@@ -423,4 +423,4 @@
 | [2021-12-28](12/28.md) | 876  | easy   | linkedlist    | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                 |
 | [2021-12-29](12/29.md) | 116  | medium | tree          | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)             |
 | [2021-12-30](12/30.md) | 1015 | medium | math          | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)                                     |
-| [2021-12-31](12/31.md) | 39   | easy   | tree          | [title](url)                                                                                                                          |
+| [2021-12-31](12/31.md) | 1026 | medium | tree          | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)           |

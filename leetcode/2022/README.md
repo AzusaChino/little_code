@@ -7,7 +7,7 @@
 | [2022-01-01](01/01.md) | 312  | hard   | dp    | [Burst Balloons](https://leetcode.com/problems/burst-balloons/)                                                                           |
 | [2022-01-02](01/02.md) | 1010 | medium | array | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |
 | [2022-01-03](01/03.md) | 997  | easy   | array | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                                                                 |
-| [2022-01-04](01/04.md) | 39   | easy   | tree  | [title](url)                                                                                                                              |
+| [2022-01-04](01/04.md) | 1009 | easy   | math  | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)                                             |
 | [2022-01-05](01/05.md) | 39   | easy   | tree  | [title](url)                                                                                                                              |
 | [2022-01-06](01/06.md) | 39   | easy   | tree  | [title](url)                                                                                                                              |
 | [2022-01-07](01/07.md) | 39   | easy   | tree  | [title](url)                                                                                                                              |

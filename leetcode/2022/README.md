@@ -9,7 +9,7 @@
 | [2022-01-03](01/03.md) | 997  | easy   | array  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                                                                 |
 | [2022-01-04](01/04.md) | 1009 | easy   | math   | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)                                             |
 | [2022-01-05](01/05.md) | 131  | medium | string | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                         |
-| [2022-01-06](01/06.md) | 39   | easy   | tree   | [title](url)                                                                                                                              |
+| [2022-01-06](01/06.md) | 1094 | medium | array  | [Car Pooling](https://leetcode.com/problems/car-pooling/)                                                                                 |
 | [2022-01-07](01/07.md) | 39   | easy   | tree   | [title](url)                                                                                                                              |
 | [2022-01-08](01/08.md) | 39   | easy   | tree   | [title](url)                                                                                                                              |
 | [2022-01-09](01/09.md) | 39   | easy   | tree   | [title](url)                                                                                                                              |

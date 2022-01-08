@@ -11,7 +11,7 @@
 | [2022-01-05](01/05.md) | 131  | medium | string     | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                         |
 | [2022-01-06](01/06.md) | 1094 | medium | array      | [Car Pooling](https://leetcode.com/problems/car-pooling/)                                                                                 |
 | [2022-01-07](01/07.md) | 382  | medium | linkedlist | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                         |
-| [2022-01-08](01/08.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
+| [2022-01-08](01/08.md) | 1463 | hard   | matrix     | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)                                                                       |
 | [2022-01-09](01/09.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-10](01/10.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-11](01/11.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |

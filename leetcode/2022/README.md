@@ -13,7 +13,7 @@
 | [2022-01-07](01/07.md) | 382  | medium | linkedlist | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                         |
 | [2022-01-08](01/08.md) | 1463 | hard   | matrix     | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)                                                                       |
 | [2022-01-09](01/09.md) | 1041 | medium | string     | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)                                                         |
-| [2022-01-10](01/10.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
+| [2022-01-10](01/10.md) | 67   | easy   | binary     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                   |
 | [2022-01-11](01/11.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-12](01/12.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-13](01/13.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |

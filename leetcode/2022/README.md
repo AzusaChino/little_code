@@ -15,7 +15,7 @@
 | [2022-01-09](01/09.md) | 1041 | medium | string     | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)                                                         |
 | [2022-01-10](01/10.md) | 67   | easy   | binary     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                   |
 | [2022-01-11](01/11.md) | 1022 | easy   | tree       | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)                                   |
-| [2022-01-12](01/12.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
+| [2022-01-12](01/12.md) | 701  | medium | tree       | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                                       |
 | [2022-01-13](01/13.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-14](01/14.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-15](01/15.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |

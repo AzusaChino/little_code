@@ -21,3 +21,9 @@ while(p2 && p2->next){
      p2 = p2->next->next;
 }
 ```
+
+## Problem Fix
+
+### Please update includePath
+
+After long time searching, figured out the problem was `configurationProvider` wrong. Remove this or use `ms-vscode.cpp-tools` instead.

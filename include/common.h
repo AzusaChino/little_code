@@ -2,9 +2,10 @@
 
 using namespace std;
 
-class ListNode {
+class ListNode
+{
 public:
-    int       val;
+    int val;
     ListNode *next;
 
     ListNode() {}
@@ -12,36 +13,41 @@ public:
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
-class TrieNode {
+class TrieNode
+{
 public:
-    bool      isWord;
+    bool isWord;
     TrieNode *children[];
 };
 
-class Trie {
+class Trie
+{
 public:
     TrieNode root;
 };
 
-class TreeNode {
+class TreeNode
+{
 public:
-    int       val;
+    int val;
     TreeNode *left;
     TreeNode *right;
     TreeNode(int val) : val(val) {}
 };
 
-class Node {
+class Node
+{
 public:
-    int            val;
+    int val;
     vector<Node *> children;
 
     Node() {}
 
     Node(int _val) { val = _val; }
 
-    Node(int _val, vector<Node *> _children) {
-        val      = _val;
+    Node(int _val, vector<Node *> _children)
+    {
+        val = _val;
         children = _children;
     }
 };

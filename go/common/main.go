@@ -5,6 +5,8 @@ import (
 	"fmt"
 )
 
+type Set = map[int]struct{}
+
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode

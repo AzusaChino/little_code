@@ -19,7 +19,7 @@
 | [2022-01-13](01/13.md) | 452  | medium | dp         | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)                   |
 | [2022-01-14](01/14.md) | 8    | medium | string     | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                         |
 | [2022-01-15](01/15.md) | 1345 | hard   | tree       | [Jump Game IV](Jump Game IV)                                                                                                              |
-| [2022-01-16](01/16.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
+| [2022-01-16](01/16.md) | 849  | medium | array      | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                                 |
 | [2022-01-17](01/17.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-18](01/18.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-19](01/19.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |

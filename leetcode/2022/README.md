@@ -20,7 +20,7 @@
 | [2022-01-14](01/14.md) | 8    | medium | string     | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                         |
 | [2022-01-15](01/15.md) | 1345 | hard   | tree       | [Jump Game IV](Jump Game IV)                                                                                                              |
 | [2022-01-16](01/16.md) | 849  | medium | array      | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                                 |
-| [2022-01-17](01/17.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
+| [2022-01-17](01/17.md) | 290  | easy   | string     | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                               |
 | [2022-01-18](01/18.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-19](01/19.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-20](01/20.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |

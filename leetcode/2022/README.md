@@ -22,7 +22,7 @@
 | [2022-01-16](01/16.md) | 849  | medium | array      | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                                 |
 | [2022-01-17](01/17.md) | 290  | easy   | string     | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                               |
 | [2022-01-18](01/18.md) | 605  | easy   | array      | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                     |
-| [2022-01-19](01/19.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
+| [2022-01-19](01/19.md) | 142  | medium | linkedlist | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                               |
 | [2022-01-20](01/20.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-21](01/21.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-22](01/22.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |

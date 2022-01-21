@@ -24,7 +24,7 @@
 | [2022-01-18](01/18.md) | 605  | easy   | array      | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                     |
 | [2022-01-19](01/19.md) | 142  | medium | linkedlist | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                               |
 | [2022-01-20](01/20.md) | 875  | medium | array      | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                 |
-| [2022-01-21](01/21.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
+| [2022-01-21](01/21.md) | 134  | medium | array      | [Gas Station](https://leetcode.com/problems/gas-station/)                                                                                 |
 | [2022-01-22](01/22.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-23](01/23.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-24](01/24.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |

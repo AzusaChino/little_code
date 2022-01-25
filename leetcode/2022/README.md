@@ -28,7 +28,7 @@
 | [2022-01-22](01/22.md) | 1510 | hard   | game       | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/)                                                                             |
 | [2022-01-23](01/23.md) | 1291 | medium | math       | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)                                                                     |
 | [2022-01-24](01/24.md) | 520  | easy   | string     | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                           |
-| [2022-01-25](01/25.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
+| [2022-01-25](01/25.md) | 941  | easy   | array      | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)                                                               |
 | [2022-01-26](01/26.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-27](01/27.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |
 | [2022-01-28](01/28.md) | 39   | easy   | tree       | [title](url)                                                                                                                              |

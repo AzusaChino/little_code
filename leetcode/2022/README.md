@@ -33,7 +33,7 @@
 | [2022-01-27](01/27.md) | 421  | medium | array         | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)                           |
 | [2022-01-28](01/28.md) | 211  | medium | string, array | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                   |
 | [2022-01-29](01/29.md) | 84   | hard   | array         | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                                           |
-| [2022-01-30](01/30.md) | 39   | easy   | tree          | [title](url)                                                                                                                              |
+| [2022-01-30](01/30.md) | 189  | medium | array         | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                               |
 | [2022-01-31](01/31.md) | 39   | easy   | tree          | [title](url)                                                                                                                              |
 
 ## 2022.02

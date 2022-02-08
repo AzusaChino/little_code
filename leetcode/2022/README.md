@@ -47,7 +47,7 @@
 | [2022-02-05](02/05.md) | 23  | hard   | array  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                     |
 | [2022-02-06](02/06.md) | 80  | medium | array  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
 | [2022-02-07](02/07.md) | 389 | easy   | string | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                       |
-| [2022-02-08](02/08.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
+| [2022-02-08](02/08.md) | 258 | easy   | math   | [Add Digits](https://leetcode.com/problems/add-digits/)                                                         |
 | [2022-02-09](02/09.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
 | [2022-02-10](02/10.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
 | [2022-02-11](02/11.md) | 39  | easy   | tree   | [title](url)                                                                                                    |

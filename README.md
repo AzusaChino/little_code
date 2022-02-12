@@ -1,10 +1,10 @@
 # little-code
 
-这里是学习`LeetCode`的仓库，由于工作比较忙，现在每天的目标就是完成[Daily](leetcode/README.md)。
+这里是学习算法与数据结构的仓库，由于工作比较忙，现在每天的目标就是完成 Leetcode Daily。
 
-主要使用语言：Java，Go，C++，Python
+主要使用语言: Java，Go，C++, Python
 
-## 一些规则
+## 常用 Trick
 
 ### 二分查找
 
@@ -22,8 +22,20 @@ while(p2 && p2->next){
 }
 ```
 
-## Problem Fix
+## Local Preview
 
-### Please update includePath
+Run `mdbook serve` to preview.
+
+### Prequisite
+
+`cargo install mdbook`
+
+## Build to Nginx
+
+`mdbook build --dest-dir /usr/share/nginx/html/`
+
+## VSCode Usage Problem
+
+### Please update includePath?
 
 After long time searching, figured out the problem was `configurationProvider` wrong. Remove this or use `ms-vscode.cpp-tools` instead.

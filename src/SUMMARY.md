@@ -11,3 +11,4 @@
 # 2022
 
 - [02.11 Permutation in String](2022/02/11.md)
+- [02.12 Word Ladder](2022/02/12.md)

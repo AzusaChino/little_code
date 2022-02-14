@@ -4,6 +4,10 @@
 
 主要使用语言: Java，Go，C++, Python
 
+## New Resolution
+
+Weekly Review
+
 ## 常用 Trick
 
 ### 二分查找

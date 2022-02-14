@@ -65,7 +65,7 @@
 | [2021-02-23](02/23.md) | 240  | medium | matrix     | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                             |
 | [2021-02-24](02/24.md) | 856  | medium | string     | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)                                               |
 | [2021-02-25](02/25.md) | 581  | medium | array      | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)             |
-| [2021-02-26](02/26.md) | 946  | medium | array      | [Validate Stack Sequences](<[url](https://leetcode.com/problems/validate-stack-sequences/)>)                              |
+| [2021-02-26](02/26.md) | 946  | medium | array      | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)                                       |
 | [2021-02-27](02/27.md) | 29   | medium | math       | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                 |
 | [2021-02-28](02/28.md) | 895  | hard   | stack      | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)                                         |
 

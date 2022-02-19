@@ -178,3 +178,4 @@
 - [02.16 Swap Nodes in Pairs](2022/02/16.md)
 - [02.17 Combination Sum](2022/02/17.md)
 - [02.18 Remove K Digits](2022/02/18.md)
+- [02.19 Minimize Deviation in Array](2022/02/19.md)

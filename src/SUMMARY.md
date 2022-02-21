@@ -211,3 +211,4 @@
 - [02.18 Remove K Digits](2022/02/18.md)
 - [02.19 Minimize Deviation in Array](2022/02/19.md)
 - [02.20 Remove Covered Intervals](2022/02/20.md)
+- [02.21 Majority Element](2022/02/21.md)

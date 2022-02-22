@@ -35,36 +35,3 @@
 | [2022-01-29](01/29.md) | 84   | hard   | array         | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                                           |
 | [2022-01-30](01/30.md) | 189  | medium | array         | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                               |
 | [2022-01-31](01/31.md) | 1672 | easy   | array         | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                                         |
-
-## 2022.02
-
-| Date                   | No  | Level  | Tag    | Title                                                                                                           |
-| ---------------------- | --- | ------ | ------ | --------------------------------------------------------------------------------------------------------------- |
-| [2022-02-01](02/01.md) | 121 | easy   | dp     | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)               |
-| [2022-02-02](02/02.md) | 438 | medium | string | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                   |
-| [2022-02-03](02/03.md) | 454 | medium | array  | [4Sum II](https://leetcode.com/problems/4sum-ii/)                                                               |
-| [2022-02-04](02/04.md) | 525 | medium | array  | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)                                             |
-| [2022-02-05](02/05.md) | 23  | hard   | array  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                     |
-| [2022-02-06](02/06.md) | 80  | medium | array  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
-| [2022-02-07](02/07.md) | 389 | easy   | string | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                       |
-| [2022-02-08](02/08.md) | 258 | easy   | math   | [Add Digits](https://leetcode.com/problems/add-digits/)                                                         |
-| [2022-02-09](02/09.md) | 532 | medium | array  | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)                             |
-| [2022-02-10](02/10.md) | 560 | medium | array  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                   |
-| [2022-02-11](02/11.md) | 567 | medium | string | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                   |
-| [2022-02-12](02/12.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-13](02/13.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-14](02/14.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-15](02/15.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-16](02/16.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-17](02/17.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-18](02/18.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-19](02/19.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-20](02/20.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-21](02/21.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-22](02/22.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-23](02/23.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-24](02/24.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-25](02/25.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-26](02/26.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-27](02/27.md) | 39  | easy   | tree   | [title](url)                                                                                                    |
-| [2022-02-28](02/28.md) | 39  | easy   | tree   | [title](url)                                                                                                    |

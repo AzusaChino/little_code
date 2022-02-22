@@ -123,10 +123,10 @@
 | [2021-04-12](04/12.md) | 667  | medium | math        | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)                                                               |
 | [2021-04-13](04/13.md) | 341  | medium | list        | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)                                                       |
 | [2021-04-14](04/14.md) | 86   | medium | linkedlist  | [Partition List](https://leetcode.com/problems/partition-list/)                                                                                   |
-| [2021-04-15](04/15.md) | 509  | easy   | math        | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                             |
+| [2021-04-15](04/15.md) | 509  | easy   | math        | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                               |
 | [2021-04-16](04/16.md) | 1209 | medium | array       | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)                         |
 | [2021-04-17](04/17.md) | 1074 | hard   | matrix      | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)                               |
-| [2021-04-18](04/18.md) | 19   | medium | linkedlist  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                             |
+| [2021-04-18](04/18.md) | 19   | medium | linkedlist  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                               |
 | [2021-04-19](04/19.md) | 377  | medium | math        | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)                                                                           |
 | [2021-04-20](04/20.md) | 589  | easy   | tree        | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                                                     |
 | [2021-04-21](04/21.md) | 120  | medium | dp          | [Triangle](https://leetcode.com/problems/triangle/)                                                                                               |
@@ -211,7 +211,7 @@
 | [2021-06-29](06/29.md) | 1004 | medium | array         | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                                                                     |
 | [2021-06-30](06/30.md) | 236  | medium | tree          | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                                                       |
 
-## 2021-07
+## 2021-0 7
 
 | Date                   | No   | Level  | Tag           | Title                                                                                                                           |
 | ---------------------- | ---- | ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -232,7 +232,7 @@
 | [2021-07-15](07/15.md) | 661  | medium | array         | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)                                                   |
 | [2021-07-16](07/16.md) | 18   | medium | array         | [4Sum](https://leetcode.com/problems/4sum/)                                                                                     |
 | [2021-07-17](07/17.md) | 927  | hard   | array         | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)                                                           |
-| [2021-07-18](07/18.md) | 25   | hard   | linkedlist    | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) D                                           |
+| [2021-07-18](07/18.md) | 25   | hard   | linkedlist    | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                                             |
 | [2021-07-19](07/19.md) | 235  | easy   | tree          | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | [2021-07-20](07/20.md) | 384  | mediun | string, array | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)                                                             |
 | [2021-07-21](07/21.md) | 838  | medium | string        | [Push Dominoes](https://leetcode.com/problems/push-dominoes/)                                                                   |
@@ -278,7 +278,7 @@
 | [2021-08-25](08/25.md) | 633  | medium | number        | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)                                                   |
 | [2021-08-26](08/26.md) | 331  | medium | tree          | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) |
 | [2021-08-27](08/27.md) | 522  | medium | string, array | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)                               |
-| [2021-08-28](08/28.md) | 1235 | hard   | array         | [aximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)                              |
+| [2021-08-28](08/28.md) | 1235 | hard   | array         | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)                             |
 | [2021-08-29](08/29.md) | 330  | hard   | array         | [Patching Array](https://leetcode.com/problems/patching-array/)                                                                 |
 | [2021-08-30](08/30.md) | 598  | easy   | matrix        | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                                                           |
 | [2021-08-31](08/31.md) | 153  | medium | array         | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     |
@@ -326,7 +326,7 @@
 | [2021-10-02](10/02.md) | 174  | hard   | matrix     | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                                                                 |
 | [2021-10-03](10/03.md) | 55   | medium | array      | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                       |
 | [2021-10-04](10/04.md) | 463  | easy   | matrix     | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                                         |
-| [2021-10-05](10/05.md) | 70   | easy   | dp         | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/F)                                                                          |
+| [2021-10-05](10/05.md) | 70   | easy   | dp         | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                          |
 | [2021-10-06](10/06.md) | 442  | medium | array      | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                           |
 | [2021-10-07](10/07.md) | 79   | medium | matrix     | [Word Search](https://leetcode.com/problems/word-search/)                                                                                   |
 | [2021-10-08](10/08.md) | 208  | medium | trie       | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                   |
@@ -371,7 +371,7 @@
 | [2021-11-11](11/11.md) | 1413 | easy   | array         | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)                         |
 | [2021-11-12](11/12.md) | 203  | easy   | linkedlist    | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                               |
 | [2021-11-13](11/13.md) | 739  | medium | array         | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                                 |
-| [2021-11-14](11/14.md) | 1286 | medium | design        | [title](https://leetcode.com/problems/iterator-for-combination/)                                                                                        |
+| [2021-11-14](11/14.md) | 1286 | medium | design        | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)                                                                     |
 | [2021-11-15](11/15.md) | 368  | medium | array         | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)                                                                     |
 | [2021-11-16](11/16.md) | 668  | hard   | matrix        | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)                               |
 | [2021-11-17](11/17.md) | 62   | medium | dp            | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                             |

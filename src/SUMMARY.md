@@ -428,3 +428,4 @@
 - [02.21 Majority Element](2022/02/21.md)
 - [02.22 Excel Sheet Column Number](2022/02/22.md)
 - [02.23 Clone Graph](2022/02/23.md)
+- [02.24 Sort List](2022/02/24.md)

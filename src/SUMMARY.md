@@ -434,3 +434,4 @@
 - [02.27 Maximum Width of Binary Tree](2022/02/27.md)
 - [02.28 Summary Ranges](2022/02/28.md)
 - [03.01 Counting Bits](2022/03/01.md)
+- [03.02 Is Subsequence](2022/03/02.md)

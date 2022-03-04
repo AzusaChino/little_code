@@ -436,3 +436,4 @@
 - [03.01 Counting Bits](2022/03/01.md)
 - [03.02 Is Subsequence](2022/03/02.md)
 - [03.03 Arithmetic Slices](2022/03/03.md)
+- [03.04 Champagne Tower](2022/03/04.md)

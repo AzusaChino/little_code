@@ -437,3 +437,4 @@
 - [03.02 Is Subsequence](2022/03/02.md)
 - [03.03 Arithmetic Slices](2022/03/03.md)
 - [03.04 Champagne Tower](2022/03/04.md)
+- [03.05 Delete and Earn](2022/03/05.md)

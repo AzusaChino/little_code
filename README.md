@@ -30,7 +30,7 @@ while(p2 && p2->next){
 
 Run `mdbook serve` to preview.
 
-### Prequisite
+### Prerequisite
 
 `cargo install mdbook`
 

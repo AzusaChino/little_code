@@ -438,3 +438,4 @@
 - [03.03 Arithmetic Slices](2022/03/03.md)
 - [03.04 Champagne Tower](2022/03/04.md)
 - [03.05 Delete and Earn](2022/03/05.md)
+- [03.06 Count All Valid Pickup and Delivery Options](2022/03/06.md)

@@ -440,3 +440,4 @@
 - [03.05 Delete and Earn](2022/03/05.md)
 - [03.06 Count All Valid Pickup and Delivery Options](2022/03/06.md)
 - [03.07 Merge Two Sorted Lists](2022/03/07.md)
+- [03.08 Linked List Cycle](2022/03/08.md)

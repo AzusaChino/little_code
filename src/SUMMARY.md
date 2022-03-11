@@ -443,3 +443,4 @@
 - [03.08 Linked List Cycle](2022/03/08.md)
 - [03.09 Remove Duplicates from Sorted List II](2022/03/09.md)
 - [03.10 Add Two Numbers](2022/03/10.md)
+- [03.11 Rotate List](2022/03/11.md)

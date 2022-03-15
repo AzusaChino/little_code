@@ -447,3 +447,4 @@
 - [03.12 Copy List with Random Pointer](2022/03/12.md)
 - [03.13 Valid Parentheses](2022/03/13.md)
 - [03.14 Simplify Path](2022/03/14.md)
+- [03.15 Minimum Remove to Make Valid Parentheses](2022/03/15.md)

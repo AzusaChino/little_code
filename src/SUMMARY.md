@@ -450,3 +450,4 @@
 - [03.15 Minimum Remove to Make Valid Parentheses](2022/03/15.md)
 - [03.16 Validate Stack Sequences](2022/03/16.md)
 - [03.17 Score of Parentheses](2022/03/17.md)
+- [03.18 Remove Duplicate Letters](2022/03/18.md)

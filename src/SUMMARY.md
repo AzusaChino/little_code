@@ -451,3 +451,4 @@
 - [03.16 Validate Stack Sequences](2022/03/16.md)
 - [03.17 Score of Parentheses](2022/03/17.md)
 - [03.18 Remove Duplicate Letters](2022/03/18.md)
+- [03.19 Maximum Frequency Stack](2022/03/19.md)

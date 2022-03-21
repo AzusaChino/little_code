@@ -453,3 +453,4 @@
 - [03.18 Remove Duplicate Letters](2022/03/18.md)
 - [03.19 Maximum Frequency Stack](2022/03/19.md)
 - [03.20 Minimum Domino Rotations For Equal Row](2022/03/20.md)
+- [03.21 Partition Labels](2022/03/21.md)

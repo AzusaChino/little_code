@@ -457,3 +457,4 @@
 - [03.22 Smallest String With A Given Numeric Value](2022/03/22.md)
 - [03.23 Broken Calculator](2022/03/23.md)
 - [03.24 Boats to Save People](2022/03/24.md)
+- [03.25 Two City Scheduling](2022/03/25.md)

@@ -466,3 +466,4 @@
 - [03.31 Split Array Largest Sum](2022/03/31.md)
 - [04.01 Reverse String](2022/04/01.md)
 - [04.02 Valid Palindrome II](2022/04/02.md)
+- [04.03 Next Permutation](2022/04/03.md)

@@ -467,3 +467,4 @@
 - [04.01 Reverse String](2022/04/01.md)
 - [04.02 Valid Palindrome II](2022/04/02.md)
 - [04.03 Next Permutation](2022/04/03.md)
+- [04.04 Swapping Nodes in a Linked List](2022/04/04.md)

@@ -469,3 +469,4 @@
 - [04.03 Next Permutation](2022/04/03.md)
 - [04.04 Swapping Nodes in a Linked List](2022/04/04.md)
 - [04.05 Container With Most Water](2022/04/05.md)
+- [04.06 3Sum With Multiplicity](2022/04/06.md)

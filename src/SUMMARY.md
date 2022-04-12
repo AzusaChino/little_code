@@ -475,3 +475,4 @@
 - [04.09 Top K Frequent Elements](2022/04/09.md)
 - [04.10 Baseball Game](2022/04/10.md)
 - [04.11 Shift 2D Grid](2022/04/11.md)
+- [04.12 Game of Life](2022/04/12.md)

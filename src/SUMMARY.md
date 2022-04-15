@@ -478,3 +478,4 @@
 - [04.12 Game of Life](2022/04/12.md)
 - [04.13 Spiral Matrix II](2022/04/13.md)
 - [04.14 Search in a Binary Search Tree](2022/04/14.md)
+- [04.15 Trim a Binary Search Tree](2022/04/15.md)

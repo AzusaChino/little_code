@@ -480,3 +480,4 @@
 - [04.14 Search in a Binary Search Tree](2022/04/14.md)
 - [04.15 Trim a Binary Search Tree](2022/04/15.md)
 - [04.16 Convert BST to Greater Tree](2022/04/16.md)
+- [04.17 Increasing Order Search Tree](2022/04/17.md)

@@ -483,3 +483,4 @@
 - [04.17 Increasing Order Search Tree](2022/04/17.md)
 - [04.18 Kth Smallest Element in a BST](2022/04/18.md)
 - [04.19 Recover Binary Search Tree](2022/04/19.md)
+- [04.20 Binary Search Tree Iterator](2022/04/20.md)

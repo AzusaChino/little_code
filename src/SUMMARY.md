@@ -485,3 +485,4 @@
 - [04.19 Recover Binary Search Tree](2022/04/19.md)
 - [04.20 Binary Search Tree Iterator](2022/04/20.md)
 - [04.21 Design HashSet](2022/04/21.md)
+- [04.22 Design HashMap](2022/04/22.md)

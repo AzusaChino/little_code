@@ -488,3 +488,4 @@
 - [04.22 Design HashMap](2022/04/22.md)
 - [04.23 Encode and Decode TinyURL](2022/04/23.md)
 - [04.24 Design Underground System](2022/04/24.md)
+- [04.25 Peeking Iterator](2022/04/25.md)

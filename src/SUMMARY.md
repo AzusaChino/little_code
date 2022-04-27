@@ -490,3 +490,4 @@
 - [04.24 Design Underground System](2022/04/24.md)
 - [04.25 Peeking Iterator](2022/04/25.md)
 - [04.26 Min Cost to Connect All Points](2022/04/26.md)
+- [04.27 Smallest String With Swaps](2022/04/27.md)

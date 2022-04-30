@@ -493,3 +493,4 @@
 - [04.27 Smallest String With Swaps](2022/04/27.md)
 - [04.28 Path With Minimum Effort](2022/04/28.md)
 - [04.29 Is Graph Bipartite?](2022/04/29.md)
+- [04.30 Evaluate Division](2022/04/30.md)

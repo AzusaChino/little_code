@@ -494,3 +494,4 @@
 - [04.28 Path With Minimum Effort](2022/04/28.md)
 - [04.29 Is Graph Bipartite?](2022/04/29.md)
 - [04.30 Evaluate Division](2022/04/30.md)
+- [05.01 Backspace String Compare](2022/05/01.md)

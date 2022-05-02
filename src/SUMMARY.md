@@ -495,3 +495,4 @@
 - [04.29 Is Graph Bipartite?](2022/04/29.md)
 - [04.30 Evaluate Division](2022/04/30.md)
 - [05.01 Backspace String Compare](2022/05/01.md)
+- [05.02 Sort Array By Parity](2022/05/02.md)

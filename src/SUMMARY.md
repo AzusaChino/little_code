@@ -498,3 +498,4 @@
 - [05.02 Sort Array By Parity](2022/05/02.md)
 - [05.03 Shortest Unsorted Continuous Subarray](2022/05/03.md)
 - [05.04 Max Number of K-Sum Pairs](2022/05/04.md)
+- [05.05 Implement Stack using Queues](2022/05/05.md)

@@ -499,3 +499,4 @@
 - [05.03 Shortest Unsorted Continuous Subarray](2022/05/03.md)
 - [05.04 Max Number of K-Sum Pairs](2022/05/04.md)
 - [05.05 Implement Stack using Queues](2022/05/05.md)
+- [05.06 Remove All Adjacent Duplicates in String II](2022/05/06.md)

@@ -500,3 +500,4 @@
 - [05.04 Max Number of K-Sum Pairs](2022/05/04.md)
 - [05.05 Implement Stack using Queues](2022/05/05.md)
 - [05.06 Remove All Adjacent Duplicates in String II](2022/05/06.md)
+- [05.07 132 Pattern](2022/05/07.md)

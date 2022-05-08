@@ -501,3 +501,4 @@
 - [05.05 Implement Stack using Queues](2022/05/05.md)
 - [05.06 Remove All Adjacent Duplicates in String II](2022/05/06.md)
 - [05.07 132 Pattern](2022/05/07.md)
+- [05.08 Flatten Nested List Iterator](2022/05/08.md)

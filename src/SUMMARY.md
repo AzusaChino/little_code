@@ -507,3 +507,4 @@
 - [05.11 Count Sorted Vowel Strings](2022/05/11.md)
 - [05.12 Permutations II](2022/05/12.md)
 - [05.13 Populating Next Right Pointers in Each Node II](2022/05/13.md)
+- [05.14 Network Delay Time](2022/05/14.md)

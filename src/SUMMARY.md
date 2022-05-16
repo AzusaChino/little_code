@@ -509,3 +509,4 @@
 - [05.13 Populating Next Right Pointers in Each Node II](2022/05/13.md)
 - [05.14 Network Delay Time](2022/05/14.md)
 - [05.15 Deepest Leaves Sum](2022/05/15.md)
+- [05.16 Shortest Path in Binary Matrix](2022/05/16.md)

@@ -510,3 +510,5 @@
 - [05.14 Network Delay Time](2022/05/14.md)
 - [05.15 Deepest Leaves Sum](2022/05/15.md)
 - [05.16 Shortest Path in Binary Matrix](2022/05/16.md)
+- [05.17 Find a Corresponding Node of a Binary Tree in a Clone of That Tree](2022/05/17.md)
+- [05.18 Critical Connections in a Network](2022/05/18.md)

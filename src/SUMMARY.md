@@ -518,3 +518,4 @@
 - [05.22 Palindromic Substrings](2022/05/22.md)
 - [05.23 Ones and Zeroes](2022/05/23.md)
 - [05.24 Longest Valid Parentheses](2022/05/24.md)
+- [05.25 Russian Doll Envelopes](2022/05/25.md)

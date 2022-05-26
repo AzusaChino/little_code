@@ -519,3 +519,4 @@
 - [05.23 Ones and Zeroes](2022/05/23.md)
 - [05.24 Longest Valid Parentheses](2022/05/24.md)
 - [05.25 Russian Doll Envelopes](2022/05/25.md)
+- [05.26 Number of 1 Bits](2022/05/26.md)

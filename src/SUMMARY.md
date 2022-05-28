@@ -521,3 +521,4 @@
 - [05.25 Russian Doll Envelopes](2022/05/25.md)
 - [05.26 Number of 1 Bits](2022/05/26.md)
 - [05.27 Number of Steps to Reduce a Number to Zero](2022/05/27.md)
+- [05.28 Missing Number](2022/05/28.md)

@@ -523,3 +523,4 @@
 - [05.27 Number of Steps to Reduce a Number to Zero](2022/05/27.md)
 - [05.28 Missing Number](2022/05/28.md)
 - [05.29 Maximum Product of Word Lengths](2022/05/29.md)
+- [05.30 Divide Two Integers](2022/05/30.md)

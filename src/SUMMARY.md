@@ -526,3 +526,4 @@
 - [05.30 Divide Two Integers](2022/05/30.md)
 - [05.31 Check If a String Contains All Binary Codes of Size K](2022/05/31.md)
 - [06.01 Running Sum of 1d Array](2022/06/01.md)
+- [06.02 Transpose Matrix](2022/06/02.md)

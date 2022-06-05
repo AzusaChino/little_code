@@ -529,3 +529,4 @@
 - [06.02 Transpose Matrix](2022/06/02.md)
 - [06.03 Range Sum Query 2D - Immutable](2022/06/03.md)
 - [06.04 N-Queens](2022/06/04.md)
+- [06.05 N-Queens II](2022/06/05.md)

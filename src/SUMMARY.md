@@ -531,3 +531,4 @@
 - [06.04 N-Queens](2022/06/04.md)
 - [06.05 N-Queens II](2022/06/05.md)
 - [06.06 Intersection of Two Linked Lists](2022/06/06.md)
+- [06.07 Merge Sorted Array](2022/06/07.md)

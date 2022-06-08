@@ -532,3 +532,4 @@
 - [06.05 N-Queens II](2022/06/05.md)
 - [06.06 Intersection of Two Linked Lists](2022/06/06.md)
 - [06.07 Merge Sorted Array](2022/06/07.md)
+- [06.08 Remove Palindromic Subsequences](2022/06/08.md)

@@ -533,3 +533,4 @@
 - [06.06 Intersection of Two Linked Lists](2022/06/06.md)
 - [06.07 Merge Sorted Array](2022/06/07.md)
 - [06.08 Remove Palindromic Subsequences](2022/06/08.md)
+- [06.09 Two Sum II - Input Array Is Sorted](2022/06/09.md)

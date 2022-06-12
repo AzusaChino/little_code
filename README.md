@@ -4,9 +4,9 @@
 
 主要使用语言: Java，Go，C++, Python
 
-## New Resolution
+## Current Status
 
-Weekly Review
+于 2022-06-12 日告一段落，检讨每日 LeetCode 的必要性。
 
 ## 常用 Trick
 

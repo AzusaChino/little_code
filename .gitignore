@@ -24,3 +24,4 @@ org.*
 **/.vscode
 **/node_modules
 **/book/
+*.lock

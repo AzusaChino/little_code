@@ -1,9 +1,6 @@
-use std::cell::RefCell;
-use std::rc::Rc;
+use crate::Solution;
 
-use crate::{Solution, TreeNode};
-
-type OptNode = Option<Rc<RefCell<TreeNode>>>;
+use super::OptNode;
 
 impl Solution {
     pub fn preorder_traversal(root: OptNode) -> Vec<i32> {

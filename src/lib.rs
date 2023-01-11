@@ -3,8 +3,6 @@ use std::{cell::RefCell, rc::Rc};
 // array related problems
 mod array;
 mod tree;
-// solutions in c++
-pub mod cpp;
 
 #[derive(Debug, Default)]
 pub struct Solution {}

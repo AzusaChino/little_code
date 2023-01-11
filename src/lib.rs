@@ -2,6 +2,7 @@ use std::{cell::RefCell, rc::Rc};
 
 // array related problems
 mod array;
+mod dp;
 mod tree;
 
 #[derive(Debug, Default)]

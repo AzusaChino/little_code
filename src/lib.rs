@@ -2,7 +2,11 @@ use std::{cell::RefCell, rc::Rc};
 
 // array related problems
 mod array;
+
+// dynamic programming problems
 mod dp;
+
+// tree problems
 mod tree;
 
 #[derive(Debug, Default)]

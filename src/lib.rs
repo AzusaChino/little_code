@@ -9,6 +9,11 @@ mod dp;
 // tree problems
 mod tree;
 
+mod utils;
+
+// declare pub use
+pub use utils::convert_slice_vec;
+
 #[derive(Debug, Default)]
 pub struct Solution {}
 

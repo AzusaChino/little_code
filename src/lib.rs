@@ -6,6 +6,9 @@ mod array;
 // dynamic programming problems
 mod dp;
 
+// number related problems
+mod number;
+
 // string problems
 mod string;
 // tree problems

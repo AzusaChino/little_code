@@ -4,7 +4,7 @@ LeetCode Daily in 2023. Mainly using Rust.
 
 ## Note
 
-`'a'` is 97 in ascii.
+`'a'` is 97 in ascii. `'0'` is 48 in ascii.
 
 ```rust
 // convert char to u8

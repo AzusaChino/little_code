@@ -10,6 +10,6 @@ mod tests {
 
     #[test]
     fn test() {
-        let _ = Solution::default();
+        println!("{}", Solution::default());
     }
 }

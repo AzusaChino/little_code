@@ -1,4 +1,8 @@
-use std::{cell::RefCell, rc::Rc};
+use std::{
+    cell::RefCell,
+    fmt::Display,
+    rc::{Rc, Weak},
+};
 
 // array related problems
 mod array;
@@ -6,11 +10,18 @@ mod array;
 // dynamic programming problems
 mod dp;
 
+// math solve problem
+mod math;
+
 // number related problems
 mod number;
 
 // string problems
 mod string;
+
+// struct design problems
+mod structs;
+
 // tree problems
 mod tree;
 
@@ -21,6 +32,12 @@ pub use utils::convert_slice_vec;
 
 #[derive(Debug, Default)]
 pub struct Solution {}
+
+impl Display for Solution {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "(Solution)")
+    }
+}
 
 #[derive(Debug, Default, PartialEq, Eq)]
 pub struct TreeNode {
@@ -94,6 +111,44 @@ impl UnionFind {
             }
         }
         self.cnt -= 1;
+    }
+}
+
+pub struct LinkedList<T> {
+    pub prev: Option<Weak<RefCell<LinkedList<T>>>>,
+    pub next: Option<Rc<RefCell<LinkedList<T>>>>,
+    pub val: T,
+}
+
+impl<T> LinkedList<T> {
+    pub fn new(val: T) -> Rc<RefCell<Self>> {
+        Rc::new(RefCell::new(Self {
+            prev: None,
+            next: None,
+            val,
+        }))
+    }
+    fn insert_after(node: Rc<RefCell<LinkedList<T>>>, to_add: Rc<RefCell<LinkedList<T>>>) {
+        let mut old_next = node.borrow_mut().next.take();
+        to_add.borrow_mut().prev = Some(Rc::downgrade(&node));
+        if let Some(on) = old_next.as_mut() {
+            on.borrow_mut().prev = Some(Rc::downgrade(&to_add));
+        }
+        to_add.borrow_mut().next = old_next;
+        node.borrow_mut().next = Some(to_add);
+    }
+    fn delete_node(node: Rc<RefCell<LinkedList<T>>>) -> Rc<RefCell<LinkedList<T>>> {
+        let next = node.borrow_mut().next.take();
+        let prev = node.borrow_mut().prev.take();
+        if let Some(next_node) = next.as_ref() {
+            next_node.borrow_mut().prev = prev.clone();
+        }
+        if let Some(prev_node_weak) = prev {
+            if let Some(prev_node) = prev_node_weak.upgrade() {
+                prev_node.borrow_mut().next = next;
+            }
+        }
+        node
     }
 }
 

@@ -1,6 +1,7 @@
 //!
 //! Array problems
 
+mod best_team_with_no_conflicts;
 mod container_with_most_water;
 mod continuous_subarray_sum;
 mod find_the_town_judge;

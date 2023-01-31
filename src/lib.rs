@@ -7,6 +7,9 @@ use std::{
 // array related problems
 mod array;
 
+// backtrack
+mod backtrack;
+
 // dynamic programming problems
 mod dp;
 

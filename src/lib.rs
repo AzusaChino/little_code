@@ -31,7 +31,7 @@ mod tree;
 mod utils;
 
 // declare pub use
-pub use utils::convert_slice_vec;
+pub use utils::{convert_slice_vec, gcd};
 
 #[derive(Debug, Default)]
 pub struct Solution {}

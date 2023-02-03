@@ -30,10 +30,10 @@ impl Solution {
     }
 
     fn calc(current: String, correct: String) -> i32 {
-        Solution::convert(correct) - Solution::convert(current)
+        Solution::_convert(correct) - Solution::_convert(current)
     }
 
-    fn convert(time: String) -> i32 {
+    fn _convert(time: String) -> i32 {
         let spts: Vec<&str> = time.split(":").collect();
         let mut ret: i32 = 0;
         ret += spts[0].parse::<i32>().unwrap() * 60;
@@ -56,6 +56,6 @@ mod tests {
     #[test]
     fn test_convert() {
         let c = String::from("12:30");
-        println!("{}", Solution::convert(c));
+        println!("{}", Solution::_convert(c));
     }
 }

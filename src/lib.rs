@@ -30,6 +30,9 @@ mod tree;
 
 mod utils;
 
+// sliding window problems
+mod window;
+
 // declare pub use
 pub use utils::{convert_slice_vec, gcd};
 

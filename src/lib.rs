@@ -16,6 +16,9 @@ mod dp;
 // math solve problem
 mod math;
 
+// matrix problem
+mod matrix;
+
 // number related problems
 mod number;
 

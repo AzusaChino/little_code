@@ -1,3 +1,4 @@
 mod as_far_from_land_as_possible;
+mod number_of_closed_islands;
 mod number_of_islands;
 mod minimum_fuel_cost_to_report_to_the_capital;

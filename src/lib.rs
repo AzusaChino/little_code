@@ -10,14 +10,17 @@ mod array;
 // backtrack
 mod backtrack;
 
+// bit
+mod bit;
+
 // dynamic programming problems
 mod dp;
 
 // math solve problem
 mod math;
 
-// matrix problem
-mod matrix;
+// graph problem
+mod graph;
 
 // number related problems
 mod number;
@@ -158,6 +161,19 @@ impl<T> LinkedList<T> {
             }
         }
         node
+    }
+}
+
+#[derive(PartialEq, Eq, Clone, Debug)]
+pub struct ListNode {
+    pub val: i32,
+    pub next: Option<Box<ListNode>>,
+}
+
+impl ListNode {
+    #[inline]
+    pub fn new(val: i32) -> Self {
+        ListNode { val, next: None }
     }
 }
 

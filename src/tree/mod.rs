@@ -39,6 +39,7 @@ mod tests {
         let _ = inorder_traversal(None);
         let _ = postorder_traversal(None);
         let _ = traversal(None);
+        let _ = invert(None);
     }
 
     fn preorder(root: &OptNode) {
@@ -143,5 +144,17 @@ mod tests {
             }
         }
         res
+    }
+
+    pub fn invert(root: Option<Rc<RefCell<TreeNode>>>) -> Option<Rc<RefCell<TreeNode>>> {
+        return if let Some(n) = root {
+            let l = n.borrow().left.clone();
+            let r = n.borrow().right.clone();
+            n.borrow_mut().left = invert(r);
+            n.borrow_mut().right = invert(l);
+            Some(n)
+        } else {
+            None
+        };
     }
 }

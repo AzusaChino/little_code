@@ -20,6 +20,7 @@ mod number_of_good_paths;
 mod number_of_nodes_in_the_sub_tree_with_the_same_label;
 mod same_tree;
 mod symmetric_tree;
+mod binary_tree_zigzag_level_order_traversal;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct Node {

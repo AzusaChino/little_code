@@ -4,6 +4,7 @@
 mod add_to_array_form_of_integer;
 mod best_team_with_no_conflicts;
 mod binary_search;
+mod capacity_to_ship_packages_within_d_days;
 mod container_with_most_water;
 mod continuous_subarray_sum;
 mod find_the_town_judge;

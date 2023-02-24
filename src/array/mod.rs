@@ -16,6 +16,7 @@ mod lemonade_change;
 mod maximum_ice_cream_bars;
 mod maximum_sum_circular_subarray;
 mod merge_intervals;
+mod minimize_deviation_in_array;
 mod minimum_number_of_arrows_to_burst_balloons;
 mod minimum_time_visiting_all_points;
 mod remove_duplicates_from_sorted_array;

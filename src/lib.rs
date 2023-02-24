@@ -13,6 +13,9 @@ mod backtrack;
 // bit
 mod bit;
 
+// design
+mod design;
+
 // dynamic programming problems
 mod dp;
 

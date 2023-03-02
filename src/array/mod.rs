@@ -27,5 +27,6 @@ mod single_element_in_a_sorted_array;
 mod snakes_and_ladders;
 mod sort_an_array;
 mod sort_color;
+mod string_compression;
 mod subarray_sums_divisible_by_k;
 mod two_sum;

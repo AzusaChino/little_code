@@ -7,6 +7,7 @@ mod binary_search;
 mod capacity_to_ship_packages_within_d_days;
 mod container_with_most_water;
 mod continuous_subarray_sum;
+mod find_the_index_of_the_first_occurrence_in_a_string;
 mod find_the_town_judge;
 mod gas_station;
 mod insert_interval;

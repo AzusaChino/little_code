@@ -8,4 +8,3 @@ repository = "https://github.com/azusachino/little-code"
 [dependencies]
 anyhow = "1.0"
 clap = { version = "4.1", features = ["derive"] }
-tokio = { version = "1.25", features = ["full"] }

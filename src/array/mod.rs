@@ -13,6 +13,7 @@ mod gas_station;
 mod insert_interval;
 mod jump_game;
 mod jump_game_2;
+mod kth_missing_positive_number;
 mod lemonade_change;
 mod maximum_ice_cream_bars;
 mod maximum_sum_circular_subarray;

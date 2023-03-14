@@ -20,6 +20,7 @@ mod minimum_time_to_collect_all_apples_in_a_tree;
 mod number_of_good_paths;
 mod number_of_nodes_in_the_sub_tree_with_the_same_label;
 mod same_tree;
+mod sum_root_to_leaf_numbers;
 mod symmetric_tree;
 mod binary_tree_zigzag_level_order_traversal;
 

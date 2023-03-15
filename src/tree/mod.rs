@@ -7,6 +7,7 @@ pub type OptNode = Option<Rc<RefCell<TreeNode>>>;
 
 mod binary_tree_level_order_traversal;
 mod binary_tree_preorder_traversal;
+mod check_completeness_of_a_binary_tree;
 mod convert_sorted_array_to_binary_search_tree;
 mod convert_sorted_list_to_binary_search_tree;
 mod find_closest_node_to_given_two_nodes;

@@ -24,6 +24,7 @@ mod minimize_deviation_in_array;
 mod minimum_number_of_arrows_to_burst_balloons;
 mod minimum_time_to_complete_trips;
 mod minimum_time_visiting_all_points;
+mod number_of_zero_filled_subarrays;
 mod remove_duplicates_from_sorted_array;
 mod search_insert_position;
 mod shortest_path_with_alternating_colors;

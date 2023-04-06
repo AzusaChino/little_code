@@ -48,7 +48,23 @@ def reverse_linkedlist(head: Optional[ListNode]) -> Optional[ListNode]:
     return prev
 
 
-if __name__ == '__main__':
+class DListNode:
+    def __init__(self, val, prev=None, next=None):
+        self.val = val
+        self.prev = prev
+        self.next = next
+
+
+def reverse_dlinkedlist(head: DListNode):
+    while head:
+        # keep track to next
+        nxt = head.next
+        head.prev, head.next = head.next, head.prev
+        head = nxt
+    return head
+
+
+if __name__ == "__main__":
     head = ListNode(1, ListNode(2, ListNode(3)))
     print(head)
     print(reverse_linkedlist(head))

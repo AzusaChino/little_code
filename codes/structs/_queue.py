@@ -1,10 +1,12 @@
 from typing import Optional
 
+import heapq
+
 
 class MyQueue:
     def __init__(self, cap):
         self.cap = cap
-        self.data = [0]*cap
+        self.data = [0] * cap
         self.head = 0
         self.tail = 0
 
@@ -48,16 +50,25 @@ class StackQueue:
             self.b.append(self.a.pop())
 
 
-if __name__ == '__main__':
-    q = StackQueue()
+if __name__ == "__main__":
+    # Create a priority queue
+    pq = []
 
-    print(q.enqueue(1))
-    print(q.enqueue(2))
-    print(q.enqueue(3))
-    print(q.enqueue(4))
+    # Add some items to the queue
+    heapq.heappush(pq, (10, "ten"))
+    heapq.heappush(pq, (5, "five"))
+    heapq.heappush(pq, (2, "two"))
 
-    print(q.dequeue())
-    print(q.dequeue())
-    print(q.dequeue())
-    print(q.dequeue())
-    print(q.dequeue())
+    # Get the highest priority item from the queue
+    item, priority = heapq.heappop(pq)
+    print(item, priority)
+    # Output: ten 10
+
+    # Get all the items from the queue
+    items = []
+    while pq:
+        item, priority = heapq.heappop(pq)
+        items.append((item, priority))
+
+    print(items)
+    # Output: [(10, 10), (5, 5), (2, 2)]

@@ -89,6 +89,15 @@ class Solution:
         return not rev
 
 
+def rev(head: ListNode) -> ListNode:
+    if not head or not head.next:
+        return head
+    last = rev(head.next)
+    head.next.next = head
+    head.next = None
+    return last
+
+
 if __name__ == "__main__":
     s = Solution()
     head = ListNode(2)

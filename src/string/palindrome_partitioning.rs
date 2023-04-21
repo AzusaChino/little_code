@@ -23,7 +23,7 @@ impl Solution {
         // i.e. reaching the end of string in this problem
         if start == s.len() {
             // if so, we push `candidates` to ans since we've processed all characters
-            ans.push(candidates.clone());
+            ans.push(candidates.to_owned());
             return;
         }
         // 2. find all potential candidates

@@ -9,10 +9,10 @@ class ListNode:
 
 
 def mergeKLists(lists: List[ListNode]) -> ListNode:
-    if not list:
+    if not lists:
         return None
     pq = []
-    for l in list:
+    for l in lists:
         heapq.heappush(pq, (l.val, l))
 
     dummy = tail = ListNode(0)
@@ -22,5 +22,23 @@ def mergeKLists(lists: List[ListNode]) -> ListNode:
 
         if tail.next:
             heapq.heappush(pq, (tail.next.val, tail.next))
+
+    return dummy.next
+
+
+def mergeKDummy(lists: List[ListNode]) -> ListNode:
+    huge = []
+    for head in lists:
+        node = head
+        while node:
+            huge.append(node)
+            node = node.next
+    # collect all & sort
+    huge.sort(key=lambda x: x.val)
+    cursive = dummy = ListNode(0)
+
+    for n in huge:
+        cursive.next = n
+        cursive = cursive.next
 
     return dummy.next

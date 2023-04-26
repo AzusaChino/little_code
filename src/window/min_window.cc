@@ -37,6 +37,7 @@ string min_window(string s, string t)
                 len = r - l;
             }
             char d = s[l];
+            l++;
             if (need.count(d))
             {
                 if (window[d] == need[d])

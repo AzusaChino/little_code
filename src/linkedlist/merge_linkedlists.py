@@ -17,7 +17,7 @@ def mergeKLists(lists: List[ListNode]) -> ListNode:
 
     dummy = tail = ListNode(0)
     while pq:
-        _, tail.next = heapq.heappop()
+        _, tail.next = heapq.heappop(pq)
         tail = tail.next
 
         if tail.next:
@@ -42,3 +42,11 @@ def mergeKDummy(lists: List[ListNode]) -> ListNode:
         cursive = cursive.next
 
     return dummy.next
+
+
+if __name__ == "__main__":
+    lists = [ListNode(1), ListNode(0, ListNode(2))]
+    head = mergeKLists(lists)
+    while head:
+        print(head.val)
+        head = head.next

@@ -1,9 +1,12 @@
 def edit_distance(s, t) -> int:
     m, n = len(s), len(t)
     dp = [[0 for _ in range(n + 1)] for _ in range(m + 1)]
+    # base case
     for i in range(m):
+        # replace all in s
         dp[i][0] = i
     for j in range(n):
+        # replace all in t
         dp[0][j] = j
     for i in range(1, m + 1):
         for j in range(1, n + 1):

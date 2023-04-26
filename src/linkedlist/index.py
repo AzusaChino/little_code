@@ -98,6 +98,28 @@ def rev(head: ListNode) -> ListNode:
     return last
 
 
+def reverse_k(head: ListNode, k: int) -> ListNode:
+    a, b = head, head
+    for i in range(k):
+        if not b:
+            return head
+        b = b.next
+    new_head = reverse_not_change_head(a, b)
+    a.next = reverse_k(b, k)
+    return new_head
+
+
+def reverse_not_change_head(a: ListNode, b: ListNode) -> ListNode:
+    prev = None
+    cur = a
+    while cur != b:
+        nxt = cur.next
+        cur.next = prev
+        prev = cur
+        cur = nxt
+    return prev
+
+
 if __name__ == "__main__":
     s = Solution()
     head = ListNode(2)

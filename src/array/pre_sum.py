@@ -9,6 +9,11 @@ def presum(nums: List[int], i, j):
     print(pre)
     return pre[j] - pre[i]
 
+def longestCommomPrefix(strs: List[str]) -> str:
+    pass
+
+
 
 if __name__ == "__main__":
     print(presum([1, 2, 3, 4, 5, 6, 7], 1, 5))
+

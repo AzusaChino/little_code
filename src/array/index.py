@@ -48,6 +48,14 @@ class Solution:
         return l
 
 
+def preSum(nums):
+    N = len(nums)
+    p = [0] * (N + 1)
+    for i in range(N):
+        p[i + 1] = p[i] + nums[i]
+    print(p)
+
+
 if __name__ == "__main__":
     s = Solution()
     board = [
@@ -63,3 +71,4 @@ if __name__ == "__main__":
     ]
     # print(s.isValidSudoku(board))
     print(s.searchInsert([1], 5))
+    preSum([1, 2, 3, 4, 5])

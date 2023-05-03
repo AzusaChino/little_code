@@ -18,20 +18,4 @@ while(p2 && p2->next){
 }
 ```
 
-## Local Preview
-
-Run `mdbook serve` to preview.
-
-### Prerequisite
-
-`cargo install mdbook`
-
-## Build to Nginx
-
-`mdbook build --dest-dir /usr/share/nginx/html/`
-
-## VSCode Usage Problem
-
-### Please update includePath?
-
-After long time searching, figured out the problem was `configurationProvider` wrong. Remove this or use `ms-vscode.cpp-tools` instead.
+### Bit Operations

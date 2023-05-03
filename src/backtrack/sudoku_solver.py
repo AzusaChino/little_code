@@ -32,7 +32,7 @@ class Solution:
                     return False
                 if board[i][c] == n:
                     return False
-                if board[(r // 3) * 3 + i // 3][(c // 3) * 3 + i // 3] == n:
+                if board[(r // 3) * 3 + i // 3][(c // 3) * 3 + i % 3] == n:
                     return False
             return True
 

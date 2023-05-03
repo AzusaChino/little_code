@@ -7,12 +7,17 @@ class Solution:
     1. 元素无重不可复选，即 nums 中的元素都是唯一的，每个元素最多只能被使用一次
     2. 元素可重不可复选，即 nums 中的元素可以存在重复，每个元素最多只能被使用一次
     3. 元素无重可复选，即 nums 中的元素都是唯一的，每个元素可以被使用若干次。
+
+    ---
+    1. 使用 索引控制不走回头路
+    2. 使用 visited 保证只访问一次
+    3. 使用 if i>0 and nums[i] == nums[i-1] and !used[i-1] 保证 相同元素的顺序
     """
 
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        '''
+        """
         allow to use element multiple times
-        '''
+        """
         ret = []
         track = []
 
@@ -33,9 +38,9 @@ class Solution:
         return ret
 
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        '''
+        """
         dup not allowed
-        '''
+        """
         ret = []
         track = []
 
@@ -59,9 +64,9 @@ class Solution:
         return ret
 
     def combinationSum3(self, k: int, n: int) -> List[List[int]]:
-        '''
+        """
         1~10 k_numbers -> n
-        '''
+        """
         ret = []
         track = []
 
@@ -81,9 +86,9 @@ class Solution:
         return ret
 
     def combinationSum4(self, nums, target):
-        '''
+        """
         coin change problem
-        '''
+        """
         nums.sort()
         dp = [0] * (target + 1)
         # base case
@@ -148,6 +153,11 @@ class Solution:
         return ret
 
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+
+        """
+        当出现重复元素时，比如输入 nums = [1,2,2',2''], 2' 只有在 2 已经被使用的情况下才会被选择, 同理, 2''
+        只有在 2' 已经被使用的情况下才会被选择，这就保证了相同元素在排列中的相对位置保证固定。
+        """
         nums.sort()
         ret = []
         track = []
@@ -196,6 +206,39 @@ class Solution:
         return [a for a in A if not count - collections.Counter(a)]
 
 
+def solution(a, sum):
+    N = len(a)
+    ret = []
+    track = []
+
+    def backtrack(sm, track):
+        if sm > sum:
+            return
+        if sm == sum:
+            ret.append(track[:])
+            return
+        for i in range(N):
+            track.append(a[i])
+            sm += a[i]
+            backtrack(sm, track)
+            sm -= a[i]
+            track.pop()
+
+    print(ret)
+    backtrack(0, track)
+    r = ""
+    for rt in ret:
+        r += "(" + " ".join(rt) + ")"
+    return r
+
+
+def get_mask(s: str) -> int:
+    cnt = 0
+    for c in s:
+        cnt += 1 << ord(c) - ord("a")
+    return cnt
+
+
 if __name__ == "__main__":
     s = Solution()
     print(s.combinationSum([2, 3, 4, 7], 7))
@@ -211,3 +254,4 @@ if __name__ == "__main__":
     # c |= collections.Counter("ab")
     # print(c)
     # print(c - collections.Counter("abcd"))
+    print(get_mask("bac"))

@@ -7,7 +7,6 @@ class Node:
 
 class Solution:
     copies = {}
-    st = set()
 
     def cloneGraph(self, node: "Node") -> "Node":
         if not node:

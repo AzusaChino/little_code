@@ -28,7 +28,7 @@ void backtrack(int l, int r, string &track, vector<string> &ret)
     track.pop_back();
 }
 
-vector<string> generate_parenthesis(int n)
+vector<string> generate_parentheses(int n)
 {
     if (n <= 0)
     {
@@ -42,7 +42,7 @@ vector<string> generate_parenthesis(int n)
 
 int main(int argc, char const *argv[])
 {
-    auto v = generate_parenthesis(3);
+    auto v = generate_parentheses(3);
     for (auto s : v)
     {
         cout << s << endl;

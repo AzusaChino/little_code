@@ -17,10 +17,11 @@ string min_window(string s, string t)
     int valid_cnt = 0;
 
     int start = 0, len = INT_MAX;
-    while (r < s.length())
+    while (r < s.size())
     {
         char c = s[r];
         r++;
+        // expand window
         if (need.count(c))
         {
             window[c]++;
@@ -29,15 +30,19 @@ string min_window(string s, string t)
                 valid_cnt++;
             }
         }
+
         while (valid_cnt == need.size())
         {
+            // update result
             if (r - l < len)
             {
                 start = l;
                 len = r - l;
             }
+            // shrink window
             char d = s[l];
             l++;
+
             if (need.count(d))
             {
                 if (window[d] == need[d])
@@ -87,8 +92,10 @@ bool check_inclusion(string s, string t)
             {
                 return true;
             }
+
             char d = s[l];
             l++;
+
             if (need.count(d))
             {
                 if (window[d] == need[d])
@@ -110,9 +117,11 @@ vector<int> findAnagrams(string s, string t)
     {
         need[c]++;
     }
+
     int l = 0, r = 0;
     int valid = 0;
     vector<int> v;
+
     while (r < s.size())
     {
         char c = s[r];
@@ -130,8 +139,10 @@ vector<int> findAnagrams(string s, string t)
         {
             if (valid == t.size())
             {
+                // save anagram start index
                 v.push_back(l);
             }
+
             char d = s[l];
             l++;
             if (need.count(d))
@@ -160,6 +171,7 @@ int length_of_longest_sub_string(string t)
         r++;
         window[c]++;
 
+        // at most one alphabet
         while (window[c] > 1)
         {
             char d = t[l];

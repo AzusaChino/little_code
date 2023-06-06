@@ -1,4 +1,5 @@
-from bisect import bisect_left
+import math
+from typing import List
 
 
 def binary_search(nums, t) -> int:
@@ -52,6 +53,109 @@ def _bisect_right(nums, t):
         else:  # 无限向右偏移，直到左侧没有 = t 的数值
             l = m + 1
     return l
+
+
+class Solution:
+    def findPeakElement(self, nums: List[int]) -> int:
+        N = len(nums)
+        if N == 1:
+            return 0
+        l, r = 0, N - 1
+        while l < r:
+            m = l + (r - l) // 2
+            mr = m + 1
+            if nums[m] < nums[mr]:
+                l = mr
+            else:
+                r = m
+        return l
+
+    def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        def feasible(speed) -> bool:
+            # return sum((pile - 1) // speed + 1 for pile in piles) <= h
+            return sum(math.ceil(pile / speed) for pile in piles)
+
+        l, r = 1, max(piles)
+        while l < r:
+            m = l + (r - l) // 2
+            if feasible(m):
+                r = m
+            else:
+                l = m + 1
+        return l
+
+    def shipWithinDays(self, weights: List[int], days: int) -> int:
+        def feasible(capacity) -> bool:
+            used_days, total = 1, 0
+            for w in weights:
+                total += w
+                # over weight
+                if total > capacity:
+                    total = w
+                    used_days += 1
+                    if used_days > days:
+                        return False
+            return True
+
+        l, r = max(weights), sum(weights)
+        while l < r:
+            m = l + (r - l) // 2
+            if feasible(m):
+                r = m
+            else:
+                l = m + 1
+        return l
+
+    def splitArray(self, nums: List[int], k: int) -> int:
+        """
+        419
+        """
+
+        def feasible(capacity):
+            total, used = 0, 1
+            for n in nums:
+                total += n
+                if total > capacity:
+                    total = n
+                    used += 1
+                    if used > k:
+                        return False
+            return True
+
+        l, r = max(nums), sum(nums)
+        while l < r:
+            m = l + (r - l) // 2
+            if feasible(m):
+                r = m
+            else:
+                l = m + 1
+        return l
+
+    def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
+        """
+        1482
+        """
+
+        def feasible(wait) -> bool:
+            f, b = 0, 0
+            for d in bloomDay:
+                if d > wait:
+                    f = 0
+                else:
+                    b += (f + 1) // k
+                    f = (f + 1) % k
+            return b >= m
+
+        if len(bloomDay) < m * k:
+            return -1
+        l, r = 1, max(bloomDay)
+        while l < r:
+            m = l + (r - l) // 2
+            if feasible(m):
+                r = m
+            else:
+                l = m + 1
+        return l
 
 
 if __name__ == "__main__":

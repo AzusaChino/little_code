@@ -2,15 +2,14 @@ use crate::Solution;
 
 impl Solution {
     pub fn minimum_time(time: Vec<i32>, total_trips: i32) -> i64 {
-        let n = time.len();
         let mut ng = 0;
         let mut ok = 10i64.pow(14) + 10;
         let total_trips = total_trips as i64;
         while ng + 1 < ok {
             let mid = (ng + ok) / 2;
             let mut temp = 0;
-            for i in 0..n {
-                temp += mid / time[i] as i64;
+            for it in time.iter() {
+                temp += mid / *it as i64;
             }
             if total_trips <= temp {
                 ok = mid;

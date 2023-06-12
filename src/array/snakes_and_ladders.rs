@@ -6,14 +6,13 @@ impl Solution {
             .into_iter()
             .rev()
             .enumerate()
-            .map(|(idx, mut v)| match idx % 2 {
+            .flat_map(|(idx, mut v)| match idx % 2 {
                 0 => v,
                 _ => {
                     v.reverse();
                     v
                 }
             })
-            .flatten()
             .collect();
         let n = board.len();
         let mut visited = vec![false; n];

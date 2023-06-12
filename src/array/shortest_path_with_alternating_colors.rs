@@ -32,7 +32,7 @@ impl Solution {
             let (node, temp_dis, is_red) = q.pop_front().unwrap();
 
             for it in &adj[node] {
-                if vis[it.0][it.1] == false && it.1 != is_red {
+                if !vis[it.0][it.1] && it.1 != is_red {
                     if dist[it.0] == -1 {
                         dist[it.0] = temp_dis + 1;
                     }
@@ -43,7 +43,7 @@ impl Solution {
             }
         }
 
-        return dist;
+        dist
     }
 }
 

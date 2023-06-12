@@ -13,6 +13,6 @@ impl Solution {
                 endpoint = point[1]
             }
             count
-        }) as i32
+        })
     }
 }

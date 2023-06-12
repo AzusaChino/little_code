@@ -14,7 +14,7 @@ fn main() -> anyhow::Result<()> {
     let args = Args::parse();
     match args.question {
         Some(q) => {
-            println!("{}", q.replace("-", "_"));
+            println!("{}", q.replace('-', "_"));
             Ok(())
         }
         None => bail!("please input a question name"),

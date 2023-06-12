@@ -84,8 +84,8 @@ impl UnionFind {
         let uc = cnt as usize;
 
         let mut v = vec![0; uc];
-        for i in 0..uc {
-            v[i] = i as i32;
+        for (i, item) in v.iter_mut().enumerate() {
+            *item = i as i32;
         }
 
         Self {
@@ -101,7 +101,7 @@ impl UnionFind {
             p
         } else {
             self.id[pu] = self.find(self.id[pu]);
-            return self.id[pu];
+            self.id[pu]
         }
     }
 
@@ -177,20 +177,5 @@ impl ListNode {
     #[inline]
     pub fn new(val: i32) -> Self {
         ListNode { val, next: None }
-    }
-}
-
-#[cfg(test)]
-mod tests {
-
-    #[test]
-    fn test() {
-        let uc: usize = 5;
-        let mut v = vec![0; uc];
-        for i in 0..uc {
-            v[i] = i as i32;
-        }
-
-        println!("{:?}", v);
     }
 }

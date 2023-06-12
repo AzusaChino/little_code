@@ -20,7 +20,7 @@ impl Solution {
         if total + tank < 0 {
             return -1;
         }
-        return start as i32;
+        start as i32
     }
 }
 

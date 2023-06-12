@@ -36,9 +36,9 @@ impl<K: Default, V: Default> PerFreqList<K, V> {
         head.borrow_mut().next = Some(tail.clone());
         tail.borrow_mut().prev = Some(weak);
         Self {
-            freq: freq,
-            head: head,
-            tail: tail,
+            freq,
+            head,
+            tail,
             size: 0,
         }
     }

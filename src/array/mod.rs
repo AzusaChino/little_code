@@ -36,3 +36,6 @@ mod sort_color;
 mod string_compression;
 mod subarray_sums_divisible_by_k;
 mod two_sum;
+
+// general solution
+mod solution;

@@ -2,7 +2,7 @@ use crate::Solution;
 
 impl Solution {
     pub fn can_place_flowers(flowerbed: Vec<i32>, n: i32) -> bool {
-        let mut flowers = flowerbed.clone();
+        let mut flowers = flowerbed;
         flowers.insert(0, 0);
         flowers.push(0);
 
@@ -25,7 +25,7 @@ mod tests {
 
     #[test]
     fn test() {
-        let v = vec![1,0,0,0,1];
+        let v = vec![1, 0, 0, 0, 1];
         println!("{}", Solution::can_place_flowers(v, 2));
     }
 }

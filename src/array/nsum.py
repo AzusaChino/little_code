@@ -1,3 +1,4 @@
+import sys
 from typing import List
 
 # support
@@ -75,6 +76,56 @@ def three_sum(nums: List[int], target: int) -> List[List[int]]:
     return n_sum_target(nums, 3, 0, target)
 
 
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        nums.sort()
+        n = len(nums)
+        ret = []
+        for i in range(n - 1):
+            if nums[i] > 0:
+                break
+            t = -nums[i]
+            l, r = i + 1, n - 1
+            while l < r:
+                lr, rr = nums[l], nums[r]
+                if t == lr + rr:
+                    ret.append([nums[i], nums[l], nums[r]])
+                    break
+                elif t > lr + rr:
+                    l += 1
+                else:
+                    r -= 1
+        return ret
+
+    def threeSumClosest(self, nums: List[int], target: int) -> int:
+        if len(nums) < 3:
+            return 0
+
+        def two_sum_closest(nums, s, t):
+            l, r = s, len(nums) - 1
+            delta = sys.maxsize
+            while l < r:
+                sm = nums[l] + nums[r]
+                if abs(delta) > abs(t - sm):
+                    delta = t - sm
+                if sm < t:
+                    l += 1
+                else:
+                    r -= 1
+            return t - delta
+
+        nums.sort()
+        ret = sys.maxsize
+        for i in range(len(nums) - 2):
+            sm = nums[i] + two_sum_closest(nums, i + 1, target - nums[i])
+            if abs(ret) > abs(target - sm):
+                ret = target - sm
+
+        return target - ret
+
+
 if __name__ == "__main__":
     print(two_sum_all([1, 3, 2, 3, 4], 5))
     print(three_sum([1, 3, 2, 4, 3], 7))
+    s = Solution()
+    print(s.threeSum([-1, 0, 1, 2, -1, -4]))

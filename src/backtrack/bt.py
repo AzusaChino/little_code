@@ -1,7 +1,7 @@
 from typing import List
 
 
-def generate_parenthesis(n: int) -> List[str]:
+def generate_parentheses(n: int) -> List[str]:
     ret = []
     track = []
     back_track(ret, n, n, track)
@@ -78,7 +78,7 @@ def permutation(nums: List[int]) -> List[List[int]]:
 
 
 if __name__ == "__main__":
-    print(generate_parenthesis(3))
+    print(generate_parentheses(3))
     print(subset([1, 2, 3]))
     print(combination(4, 2))
     print(permutation([1, 2, 3]))

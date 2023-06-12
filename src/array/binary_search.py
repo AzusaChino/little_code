@@ -23,7 +23,7 @@ def a_bisect_left(arr, t) -> int:
         if arr[m] < t:
             l = m + 1
         else:
-            l = m
+            r = m
     return l
 
 

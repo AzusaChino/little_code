@@ -98,6 +98,46 @@ def rev(head: ListNode) -> ListNode:
     return last
 
 
+def reverse_k(head: ListNode, k: int) -> ListNode:
+    a, b = head, head
+    for i in range(k):
+        if not b:
+            return head
+        b = b.next
+    new_head = reverse_not_change_head(a, b)
+    a.next = reverse_k(b, k)
+    return new_head
+
+
+def reverse_not_change_head(a: ListNode, b: ListNode) -> ListNode:
+    prev = None
+    cur = a
+    while cur != b:
+        nxt = cur.next
+        cur.next = prev
+        prev = cur
+        cur = nxt
+    return prev
+
+
+def solution(a, b):
+    # python no need to worry int overflow
+    ac = bc = 0
+    while a:
+        ac += ac * (10 ** len(str(a.value))) + a.value
+        a = a.next
+    while b:
+        bc += bc * (10 ** len(str(b.value))) + b.value
+        b = b.next
+    r = str(ac + bc)
+    n = dummy = ListNode(0)
+    for i in range(0, len(r), 4):
+        rl = len(r) if i + 4 >= len(r) else i + 4
+        n.next = ListNode(int(r[i:rl]))
+        n = n.next
+    return dummy.next
+
+
 if __name__ == "__main__":
     s = Solution()
     head = ListNode(2)

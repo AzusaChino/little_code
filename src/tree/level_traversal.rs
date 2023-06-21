@@ -59,10 +59,10 @@ impl Solution {
     pub fn average_of_levels(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<f64> {
         let r = Self::level_in_iteration(root);
         fn calc(v: &Vec<i32>) -> f64 {
-            let sum = v.iter().fold(0, |acc, e| acc + e) as f64;
+            let sum = v.iter().sum::<i32>() as f64;
             sum.div(v.len() as f64)
         }
-        r.iter().map(|v| calc(v)).collect()
+        r.iter().map(calc).collect()
     }
 
     pub fn nary_level_order(root: Option<Rc<RefCell<Node>>>) -> Vec<Vec<i32>> {
@@ -74,7 +74,7 @@ impl Solution {
                     levels.push(Vec::new());
                 }
                 levels[level].push(node.borrow().val);
-                for child in node.borrow().children.to_owned() {
+                for child in node.borrow().children.iter().cloned() {
                     iterate(child, levels, level + 1)
                 }
             }

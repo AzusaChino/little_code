@@ -44,7 +44,7 @@ impl Solution {
                 ans = i as i32;
             }
         }
-        return ans;
+        ans
     }
 }
 

@@ -4,14 +4,14 @@ impl Solution {
     pub fn can_jump(nums: Vec<i32>) -> bool {
         let len = nums.len() as i32;
         let mut step = nums[0];
-        for i in 1..nums.len() {
+        for (i, v) in nums.iter().skip(1).enumerate() {
             let ii = i as i32;
             // before hand step cannot reach current index
             if ii > step {
                 return false;
             }
             
-            step = step.max(ii + nums[i]);
+            step = step.max(ii + v);
             if step == len - 1 {
                 return true;
             }

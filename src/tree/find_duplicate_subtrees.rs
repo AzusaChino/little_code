@@ -20,7 +20,7 @@ impl Solution {
                     let sub_tree = format!("{},{},{}", l, r, node.borrow().val);
                     let freq = memo.get(&sub_tree).unwrap_or(&0);
                     if *freq == 1 {
-                        ret.push(Some(node.clone()));
+                        ret.push(Some(node));
                     }
                     memo.entry(sub_tree.clone())
                         .and_modify(|v| *v += 1)

@@ -7,9 +7,7 @@ impl Solution {
         let mut r = 0;
         fn iter_sum(root: &Option<Rc<RefCell<TreeNode>>>, n: &mut i32) -> i32 {
             match root {
-                None => {
-                    return 0;
-                }
+                None => 0,
                 Some(node) => {
                     *n = 10 * *n + node.borrow().val;
 

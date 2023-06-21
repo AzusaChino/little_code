@@ -43,7 +43,7 @@ impl Solution {
             best = best.max(j - i + 1);
         }
 
-        return best as i32;
+        best as i32
     }
 }
 

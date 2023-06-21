@@ -20,8 +20,8 @@ impl Solution {
 
         ret.push(vec![x, y]);
 
-        for i in index..intervals.len() {
-            ret.push(intervals[i].clone());
+        for i in intervals.iter().skip(index) {
+            ret.push(i.to_owned());
         }
         ret
     }

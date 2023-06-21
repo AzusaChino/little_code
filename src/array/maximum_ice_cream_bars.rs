@@ -16,7 +16,7 @@ impl Solution {
                 break;
             }
         }
-        return cnt;
+        cnt
     }
 }
 
@@ -25,7 +25,7 @@ mod tests {
     use super::Solution;
     #[test]
     fn test_max() {
-        let costs = vec![10,6,8,7,7,8];
+        let costs = vec![10, 6, 8, 7, 7, 8];
         println!("{}", Solution::max_ice_cream(costs, 5));
     }
 }

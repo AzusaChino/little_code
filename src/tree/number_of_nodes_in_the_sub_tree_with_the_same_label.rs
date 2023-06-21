@@ -24,7 +24,7 @@ impl Solution {
             graph[edge[0] as usize].edges.push(edge[1]);
             graph[edge[1] as usize].edges.push(edge[0]);
         }
-        for (i, l) in labels.as_bytes().into_iter().enumerate() {
+        for (i, l) in labels.as_bytes().iter().enumerate() {
             graph[i].label = l - b'a';
         }
 

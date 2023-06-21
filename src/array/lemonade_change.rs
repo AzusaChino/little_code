@@ -14,15 +14,13 @@ impl Solution {
                 } else {
                     return false;
                 }
+            } else if ten_cnt >= 1 && five_cnt >= 1 {
+                ten_cnt -= 1;
+                five_cnt -= 1;
+            } else if five_cnt >= 3 {
+                five_cnt -= 3;
             } else {
-                if ten_cnt >= 1 && five_cnt >= 1 {
-                    ten_cnt -= 1;
-                    five_cnt -= 1;
-                } else if five_cnt >= 3 {
-                    five_cnt -= 3;
-                } else {
-                    return false;
-                }
+                return false;
             }
         }
         true

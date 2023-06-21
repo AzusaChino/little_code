@@ -1,7 +1,7 @@
 use crate::Solution;
 
 impl Solution {
-    fn minimum_deviation(nums: Vec<i32>) -> i32 {
+    pub fn minimum_deviation(nums: Vec<i32>) -> i32 {
         let mut pq = std::collections::BinaryHeap::new();
         // let n = nums.len();
         let (mut min, mut ret) = (i32::MAX, i32::MAX);

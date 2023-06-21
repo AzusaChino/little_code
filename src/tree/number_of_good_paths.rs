@@ -9,13 +9,12 @@ impl Solution {
         let mut adj: Vec<Vec<i32>> = vec![vec![]; len];
         let mut same_values = HashMap::<i32, Vec<i32>>::new();
 
-        for i in 0..len {
-            let v = vals[i];
+        for (i, v) in vals.iter().enumerate() {
             let i = i as i32;
-            if same_values.contains_key(&v) {
-                same_values.entry(v).and_modify(|vec| vec.push(i));
+            if same_values.contains_key(v) {
+                same_values.entry(*v).and_modify(|vec| vec.push(i));
             } else {
-                same_values.insert(v, vec![i]);
+                same_values.insert(*v, vec![i]);
             }
         }
         for edge in edges {
@@ -39,12 +38,12 @@ impl Solution {
             let mut group = HashMap::<i32, i32>::new();
             for n in nodes {
                 let nf = uf.find(*n);
-                if group.contains_key(&nf) {
+                if let std::collections::hash_map::Entry::Vacant(e) = group.entry(nf) {
+                    e.insert(1);
+                } else {
                     group.entry(nf).and_modify(|v| {
                         *v += 1;
                     });
-                } else {
-                    group.insert(nf, 1);
                 }
             }
             good_paths += nodes.len() as i32;

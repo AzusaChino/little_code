@@ -16,16 +16,3 @@ impl Solution {
         l as i32
     }
 }
-
-#[cfg(test)]
-mod tests {
-    use super::Solution;
-
-    #[test]
-    fn test() {
-        let nums = vec![1, 3, 5, 6];
-        println!("{}", Solution::search_insert(nums.to_owned(), 5));
-        println!("{}", Solution::search_insert(nums.to_owned(), 2));
-        println!("{}", Solution::search_insert(nums.to_owned(), 7));
-    }
-}

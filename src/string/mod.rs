@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 // 1061. https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 mod find_all_anagrams_in_a_string;
 mod flip_string_to_monotone_increasing;

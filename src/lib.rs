@@ -42,8 +42,15 @@ mod utils;
 // sliding window problems
 mod window;
 
+use thiserror::Error;
 // declare pub use
 pub use utils::{convert_slice_vec, gcd};
+
+#[derive(Error, Debug)]
+pub enum CodeError {
+    #[error("invalid input")]
+    InvalidInput,
+}
 
 #[derive(Debug, Default)]
 pub struct Solution {}

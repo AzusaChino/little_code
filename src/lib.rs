@@ -13,6 +13,8 @@ mod backtrack;
 // bit
 mod bit;
 
+mod bfs;
+
 // design
 mod design;
 

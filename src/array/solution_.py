@@ -6,11 +6,11 @@ class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
         ret = []
         for n in nums:
-            if ret and ret[-1][1] == n-1:
+            if ret and ret[-1][1] == n - 1:
                 ret[-1][1] = n
             else:
                 ret.append([n, n])
-        return [str(x)+"->"+str(y) if x != y else str(x) for x, y in ret]
+        return [str(x) + "->" + str(y) if x != y else str(x) for x, y in ret]
 
     def majorityElement(self, nums: List[int]) -> List[int]:
         cnt = Counter()
@@ -25,7 +25,7 @@ class Solution:
                 cnt = new_cnt
         # re-calculate the frequency
         cands = Counter(n for n in nums if n in cnt)
-        return [n for n in cands if cands[n] > len(nums)//3]
+        return [n for n in cands if cands[n] > len(nums) // 3]
 
     def minCost(self, nums, cost):
         def f(x):
@@ -42,3 +42,15 @@ class Solution:
             else:
                 l = x + 1
         return res
+
+    def sumSubarrayMins(self, A: List[int]) -> int:
+        A = [0] + A
+        result = [0] * len(A)
+        stack = [0]
+        for i in range(len(A)):
+            while A[stack[-1]] > A[i]:
+                stack.pop()
+            j = stack[-1]
+            result[i] = result[j] + (i - j) * A[i]
+            stack.append(i)
+        return sum(result) % (10**9 + 7)

@@ -13,6 +13,7 @@ mod convert_sorted_array_to_binary_search_tree;
 mod convert_sorted_list_to_binary_search_tree;
 mod find_closest_node_to_given_two_nodes;
 mod find_duplicate_subtrees;
+mod general_problems;
 mod invert_binary_tree;
 mod level_traversal;
 mod longest_path_with_different_adjacent_characters;

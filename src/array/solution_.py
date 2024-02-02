@@ -54,3 +54,23 @@ class Solution:
             result[i] = result[j] + (i - j) * A[i]
             stack.append(i)
         return sum(result) % (10**9 + 7)
+
+    def sequentialDigits(self, low, high):
+        result = []
+        for num in range(low, high + 1):
+            # Check if all digits are distinct
+            if len(set(str(num))) != len(str(num)):
+                continue
+
+            # Check if digits are consecutive
+            digits = [int(d) for d in str(num)]
+            is_sequential = True
+            for i in range(1, len(digits)):
+                if digits[i] != digits[i - 1] + 1:
+                    is_sequential = False
+                    break
+
+            if is_sequential:
+                result.append(num)
+
+        return result

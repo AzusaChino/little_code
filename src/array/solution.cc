@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <bitset>
 #include <string>
 #include <vector>
@@ -73,5 +74,72 @@ public:
         }
 
         return res;
+    }
+
+    void merge(vector<int> &nums1, int m, vector<int> &nums2, int n)
+    {
+        // Three pointers to track positions in the arrays
+        int p1 = m - 1, p2 = n - 1, p = m + n - 1;
+
+        // Merge from the end of nums1 and nums2
+        while (p1 >= 0 && p2 >= 0)
+        {
+            if (nums1[p1] >= nums2[p2])
+            {
+                nums1[p] = nums1[p1];
+                p1--;
+            }
+            else
+            {
+                nums1[p] = nums2[p2];
+                p2--;
+            }
+            p--;
+        }
+
+        // Copy remaining elements from nums2 if any
+        while (p2 >= 0)
+        {
+            nums1[p] = nums2[p2];
+            p2--;
+            p--;
+        }
+    }
+
+    vector<vector<int>> divideArray(vector<int> &nums, int k)
+    {
+        vector<vector<int>> res;
+        std::sort(nums.begin(), nums.end());
+        for (int i = 2; i < nums.size(); i += 3)
+        {
+            if (nums[i] - nums[i - 2] > k)
+                return {};
+            res.push_back({nums[i - 2], nums[i - 1], nums[i]});
+        }
+        return res;
+    }
+
+    vector<int> sequentialDigits(int low, int high)
+    {
+        vector<int> ans;
+        for (int i = 1; i <= 9; i++)
+        {
+            int num = i;
+            for (int j = i + 1; j <= 9; j++)
+            {
+                num = num * 10 + j;
+                if (num >= low && num <= high)
+                {
+                    ans.push_back(num);
+                }
+                if (num > high)
+                {
+                    break;
+                }
+            }
+        }
+        std::sort(ans.begin(), ans.end());
+
+        return ans;
     }
 };

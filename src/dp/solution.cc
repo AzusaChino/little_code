@@ -92,4 +92,82 @@ public:
         dp[moves][x][y] = tempVal;
         return dp[moves][x][y] % mod;
     }
+
+    int numSquares(int n)
+    {
+        vector<int> dp(n + 1);
+        dp[0] = 0;
+
+        for (int i = 1; i <= n; i++)
+        {
+            // wrost case, all of 1
+            dp[i] = i;
+            for (int j = 1; j * j <= i; j++)
+            {
+                dp[i] = std::min(dp[i], dp[i - j * j] + 1);
+            }
+        }
+        return dp[n];
+    }
+
+    int coinChange(vector<int> &coins, int amount)
+    {
+        vector<int> dp(amount + 1, amount + 1);
+        dp[0] = 0;
+
+        std::sort(coins.begin(), coins.end());
+
+        for (int i = 1; i <= amount; i++)
+        {
+            for (int c : coins)
+            {
+                if (i < c)
+                {
+                    break;
+                }
+                if (dp[i - c] != amount + 1)
+                {
+                    dp[i] = std::min(dp[i], dp[i - c] + 1);
+                }
+            }
+        }
+        return dp[amount] == amount + 1 ? -1 : dp[amount];
+    }
+
+    // 数组排序，这道题就变成了 动态规划设计：最长递增子序列。
+    vector<int> largestDivisibleSubset(vector<int> &nums)
+    {
+        int n = nums.size();
+        std::sort(nums.begin(), nums.end());
+        vector<vector<int>> dp(n, vector<int>());
+        // base case
+        dp[0].push_back(nums[0]);
+
+        for (int i = 1; i < n; i++)
+        {
+            int maxSubSetLen = 0, index = -1;
+            for (int j = 0; j < i; j++)
+            {
+                if (nums[i] % nums[j] == 0 && dp[j].size() > maxSubSetLen)
+                {
+                    maxSubSetLen = dp[j].size();
+                    index = j;
+                }
+            }
+            if (index != -1)
+            {
+                dp[i] = dp[index];
+            }
+            dp[i].push_back(nums[i]);
+        }
+        vector<int> res = dp[0];
+        for (int i = 1; i < n; i++)
+        {
+            if (res.size() < dp[i].size())
+            {
+                res = dp[i];
+            }
+        }
+        return res;
+    }
 };
